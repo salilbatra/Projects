@@ -1,0 +1,29 @@
+/*
+ ============================================================================
+ Name        : Factorial.c
+ Author      : 
+ Version     :
+ Copyright   : Your copyright notice
+ Description : Hello World in C, Ansi-style
+ ============================================================================
+ */
+
+#include <stdio.h>
+#include <stdlib.h>
+#include<math.h>
+
+int main(){
+	setvbuf( stdout, NULL, _IONBF, 0 );
+	int n,x;
+	x=1;
+	printf("Enter the number you want to find the factorial for:");
+	scanf("%d", &n);
+
+	for(n=0; n>(n-1); n--){
+		n= x*n;
+		printf("The factorial for the number is : %d", n);
+	}
+
+
+	return 0;
+}

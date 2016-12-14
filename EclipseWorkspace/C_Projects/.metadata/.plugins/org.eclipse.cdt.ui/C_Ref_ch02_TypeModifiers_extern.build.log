@@ -1,0 +1,7 @@
+12:16:16 **** Incremental Build of configuration Debug for project C_Ref_ch02_TypeModifiers_extern ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 add -std=c99 -ansi -o "src\\C_Ref_ch02_TypeModifiers_extern.o" "..\\src\\C_Ref_ch02_TypeModifiers_extern.c" 
+gcc: error: add: No such file or directory
+
+12:16:17 Build Finished (took 85ms)
+

@@ -1,0 +1,7 @@
+12:16:16 **** Incremental Build of configuration Debug for project C_Ref_Ch03_Statements_If_Else2 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0; -c -std=c99 -o "src\\C_Ref_Ch03_Statements_If_Else2.o" "..\\src\\C_Ref_Ch03_Statements_If_Else2.c" 
+gcc: error: argument to '-fmessage-length=' should be a non-negative integer
+
+12:16:16 Build Finished (took 105ms)
+

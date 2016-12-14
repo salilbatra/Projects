@@ -1,0 +1,33 @@
+/*
+ * learning.c
+ *
+ *  Created on: May 8, 2015
+ *      Author: Salil
+ */
+
+
+#include <stdio.h>
+#include <math.h>
+float a,b,c, root1,root2;
+
+void findRootsOfQuadEq(){
+
+		printf("Enter the constants to find roots of the equation ax^2+bx+c: ");
+		scanf("%f,%f,%f", &a,&b,&c);
+	 root1= ((b*b) + sqrt((b*b)-4*a*c))/2*a ;
+	 root2= ((b*b) - sqrt((b*b)-4*a*c))/2*a ;
+
+}
+
+int main(){
+	findRootsOfQuadEq();
+
+ if (root1 && root2 >0){
+ printf("\n The roots of the equation are: \n First Root: %f", root1);
+ printf("\nSecond root: %f", root2);
+ }else
+ {
+	 printf("the roots entered are imaginary and cannot be calculated");
+ }
+return 0;
+}

@@ -1,0 +1,24 @@
+/*
+ * learning.c
+ *
+ *  Created on: May 8, 2015
+ *      Author: Salil
+ */
+
+
+#include <stdio.h>
+#include <math.h>
+void main(){
+	float x,y;
+	float z;
+	int div;
+	x = 10.0;
+	y = 12.0;
+	z = x/y;
+	div = x/y;
+	printf("%f %f %f\n", x,y,z);
+/*	printf("x=%f\n",x);
+	printf("y=%f\n",y);
+	printf("z=%f\n",z);
+*/
+}

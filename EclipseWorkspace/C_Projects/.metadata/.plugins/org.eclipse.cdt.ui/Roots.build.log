@@ -1,0 +1,9 @@
+15:28:16 **** Incremental Build of configuration Debug for project Roots ****
+Info: Internal Builder is used for build
+gcc -o Roots.exe "src\\Roots.o" 
+gcc: error: src\Roots.o: No such file or directory
+gcc: fatal error: no input files
+compilation terminated.
+
+15:28:16 Build Finished (took 110ms)
+

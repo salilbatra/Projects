@@ -1,0 +1,11 @@
+17:01:04 **** Rebuild of configuration Debug for project Test1 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o sqare.o "..\\sqare.c" 
+..\sqare.c: In function 'printRootTable':
+..\sqare.c:18:6: warning: 'main' is normally a non-static function [-Wmain]
+gcc -o Test1.exe sqare.o 
+c:/flex windows/gcc/bin/../lib/gcc/mingw32/4.7.2/../../../libmingw32.a(main.o):main.c:(.text.startup+0xa7): undefined reference to `WinMain@16'
+collect2.exe: error: ld returned 1 exit status
+
+17:01:05 Build Finished (took 775ms)
+

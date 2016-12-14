@@ -1,0 +1,1880 @@
+21:52:58 **** Rebuild of configuration Debug for project C_Ref_ch02_TypeModifiers_RelationalOperators ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\C_Ref_ch02_TypeModifiers_RelationalOperators.o" "..\\src\\C_Ref_ch02_TypeModifiers_RelationalOperators.c" 
+gcc -o C_Ref_ch02_TypeModifiers_RelationalOperators.exe "src\\C_Ref_ch02_TypeModifiers_RelationalOperators.o" 
+21:53:03 **** Incremental Build of configuration Debug for project C_Ref_ch02_TypeModifiers_RelationalOperators ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\C_Ref_ch02_TypeModifiers_RelationalOperators.o" "..\\src\\C_Ref_ch02_TypeModifiers_RelationalOperators.c" 
+gcc -o C_Ref_ch02_TypeModifiers_RelationalOperators.exe "src\\C_Ref_ch02_TypeModifiers_RelationalOperators.o" 
+21:54:15 **** Incremental Build of configuration Debug for project C_Ref_ch02_TypeModifiers_RelationalOperators ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\C_Ref_ch02_TypeModifiers_RelationalOperators.o" "..\\src\\C_Ref_ch02_TypeModifiers_RelationalOperators.c" 
+gcc -o C_Ref_ch02_TypeModifiers_RelationalOperators.exe "src\\C_Ref_ch02_TypeModifiers_RelationalOperators.o" 
+Info: Nothing to build for C_Ref_ch02_LV_Ex2
+12:38:15 **** Rebuild of configuration Debug for project C_Ref_ch02_Operators_BitwiseOperation ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\C_Ref_ch02_Operators_BitwiseOperation.o" "..\\src\\C_Ref_ch02_Operators_BitwiseOperation.c" 
+..\src\C_Ref_ch02_Operators_BitwiseOperation.c: In function 'main':
+..\src\C_Ref_ch02_Operators_BitwiseOperation.c:21:2: warning: too many arguments for format [-Wformat-extra-args]
+..\src\C_Ref_ch02_Operators_BitwiseOperation.c:26:2: warning: too many arguments for format [-Wformat-extra-args]
+gcc -o C_Ref_ch02_Operators_BitwiseOperation.exe "src\\C_Ref_ch02_Operators_BitwiseOperation.o" 
+12:38:17 **** Rebuild of configuration Debug for project C_Ref_ch02_Operators_RelationalOperators ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\C_Ref_ch02_TypeModifiers_RelationalOperators.o" "..\\src\\C_Ref_ch02_TypeModifiers_RelationalOperators.c" 
+gcc -o C_Ref_ch02_Operators_RelationalOperators.exe "src\\C_Ref_ch02_TypeModifiers_RelationalOperators.o" 
+Info: Nothing to build for C_Ref_ch02_TypeModifiers_const
+Info: Nothing to build for C_Ref_ch02_TypeModifiers_extern
+Info: Nothing to build for C_Ref_ch02_TypeModifiers_registers
+Info: Nothing to build for C_Ref_ch02_TypeModifiers_static
+Info: Nothing to build for C_Ref_ch02_localVariables
+Info: Nothing to build for Factorial
+Info: Nothing to build for Learning
+Info: Nothing to build for Roots1
+Info: Nothing to build for RootsoftheEquation
+Info: Nothing to build for C_Ref_ch02_Operators_BitwiseOperation
+12:39:17 **** Incremental Build of configuration Debug for project C_Ref_ch02_Operators_BitwiseOperation ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\C_Ref_ch02_Operators_BitwiseOperation.o" "..\\src\\C_Ref_ch02_Operators_BitwiseOperation.c" 
+gcc -o C_Ref_ch02_Operators_BitwiseOperation.exe "src\\C_Ref_ch02_Operators_BitwiseOperation.o" 
+12:40:29 **** Incremental Build of configuration Debug for project C_Ref_ch02_Operators_BitwiseOperation ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\C_Ref_ch02_Operators_BitwiseOperation.o" "..\\src\\C_Ref_ch02_Operators_BitwiseOperation.c" 
+gcc -o C_Ref_ch02_Operators_BitwiseOperation.exe "src\\C_Ref_ch02_Operators_BitwiseOperation.o" 
+12:41:09 **** Incremental Build of configuration Debug for project C_Ref_ch02_Operators_BitwiseOperation ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\C_Ref_ch02_Operators_BitwiseOperation.o" "..\\src\\C_Ref_ch02_Operators_BitwiseOperation.c" 
+gcc -o C_Ref_ch02_Operators_BitwiseOperation.exe "src\\C_Ref_ch02_Operators_BitwiseOperation.o" 
+12:41:57 **** Incremental Build of configuration Debug for project C_Ref_ch02_Operators_BitwiseOperation ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\C_Ref_ch02_Operators_BitwiseOperation.o" "..\\src\\C_Ref_ch02_Operators_BitwiseOperation.c" 
+gcc -o C_Ref_ch02_Operators_BitwiseOperation.exe "src\\C_Ref_ch02_Operators_BitwiseOperation.o" 
+Info: Nothing to build for C_Ref_ch02_LV_Ex2
+Info: Nothing to build for C_Ref_ch02_Operators_BitwiseOperation
+14:08:08 **** Rebuild of configuration Debug for project C_Ref_ch02_Operators_PointersEg ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\C_Ref_ch02_Operators_PointersEg.o" "..\\src\\C_Ref_ch02_Operators_PointersEg.c" 
+..\src\C_Ref_ch02_Operators_PointersEg.c: In function 'main':
+..\src\C_Ref_ch02_Operators_PointersEg.c:21:1: warning: control reaches end of non-void function [-Wreturn-type]
+gcc -o C_Ref_ch02_Operators_PointersEg.exe "src\\C_Ref_ch02_Operators_PointersEg.o" 
+Info: Nothing to build for C_Ref_ch02_Operators_RelationalOperators
+Info: Nothing to build for C_Ref_ch02_TypeModifiers_const
+Info: Nothing to build for C_Ref_ch02_TypeModifiers_extern
+Info: Nothing to build for C_Ref_ch02_TypeModifiers_registers
+Info: Nothing to build for C_Ref_ch02_TypeModifiers_static
+Info: Nothing to build for C_Ref_ch02_localVariables
+Info: Nothing to build for Factorial
+Info: Nothing to build for Learning
+Info: Nothing to build for Roots1
+Info: Nothing to build for RootsoftheEquation
+Info: Nothing to build for C_Ref_ch02_Operators_PointersEg
+14:08:42 **** Incremental Build of configuration Debug for project C_Ref_ch02_Operators_PointersEg ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\C_Ref_ch02_Operators_PointersEg.o" "..\\src\\C_Ref_ch02_Operators_PointersEg.c" 
+..\src\C_Ref_ch02_Operators_PointersEg.c: In function 'main':
+..\src\C_Ref_ch02_Operators_PointersEg.c:20:2: warning: format '%d' expects argument of type 'int', but argument 3 has type 'int *' [-Wformat]
+..\src\C_Ref_ch02_Operators_PointersEg.c:21:1: warning: control reaches end of non-void function [-Wreturn-type]
+gcc -o C_Ref_ch02_Operators_PointersEg.exe "src\\C_Ref_ch02_Operators_PointersEg.o" 
+14:09:06 **** Incremental Build of configuration Debug for project C_Ref_ch02_Operators_PointersEg ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\C_Ref_ch02_Operators_PointersEg.o" "..\\src\\C_Ref_ch02_Operators_PointersEg.c" 
+..\src\C_Ref_ch02_Operators_PointersEg.c: In function 'main':
+..\src\C_Ref_ch02_Operators_PointersEg.c:20:2: warning: format '%d' expects argument of type 'int', but argument 3 has type 'int *' [-Wformat]
+..\src\C_Ref_ch02_Operators_PointersEg.c:21:1: warning: control reaches end of non-void function [-Wreturn-type]
+gcc -o C_Ref_ch02_Operators_PointersEg.exe "src\\C_Ref_ch02_Operators_PointersEg.o" 
+14:09:37 **** Incremental Build of configuration Debug for project C_Ref_ch02_Operators_PointersEg ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\C_Ref_ch02_Operators_PointersEg.o" "..\\src\\C_Ref_ch02_Operators_PointersEg.c" 
+..\src\C_Ref_ch02_Operators_PointersEg.c: In function 'main':
+..\src\C_Ref_ch02_Operators_PointersEg.c:20:2: warning: format '%d' expects argument of type 'int', but argument 3 has type 'int *' [-Wformat]
+..\src\C_Ref_ch02_Operators_PointersEg.c:20:2: warning: format '%d' expects argument of type 'int', but argument 4 has type 'int *' [-Wformat]
+..\src\C_Ref_ch02_Operators_PointersEg.c:21:1: warning: control reaches end of non-void function [-Wreturn-type]
+gcc -o C_Ref_ch02_Operators_PointersEg.exe "src\\C_Ref_ch02_Operators_PointersEg.o" 
+14:10:00 **** Incremental Build of configuration Debug for project C_Ref_ch02_Operators_PointersEg ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\C_Ref_ch02_Operators_PointersEg.o" "..\\src\\C_Ref_ch02_Operators_PointersEg.c" 
+..\src\C_Ref_ch02_Operators_PointersEg.c: In function 'main':
+..\src\C_Ref_ch02_Operators_PointersEg.c:20:2: warning: format '%d' expects argument of type 'int', but argument 3 has type 'int *' [-Wformat]
+..\src\C_Ref_ch02_Operators_PointersEg.c:21:1: warning: control reaches end of non-void function [-Wreturn-type]
+gcc -o C_Ref_ch02_Operators_PointersEg.exe "src\\C_Ref_ch02_Operators_PointersEg.o" 
+14:10:05 **** Incremental Build of configuration Debug for project C_Ref_ch02_Operators_PointersEg ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\C_Ref_ch02_Operators_PointersEg.o" "..\\src\\C_Ref_ch02_Operators_PointersEg.c" 
+..\src\C_Ref_ch02_Operators_PointersEg.c: In function 'main':
+..\src\C_Ref_ch02_Operators_PointersEg.c:20:2: warning: format '%d' expects argument of type 'int', but argument 3 has type 'int *' [-Wformat]
+..\src\C_Ref_ch02_Operators_PointersEg.c:21:1: warning: control reaches end of non-void function [-Wreturn-type]
+gcc -o C_Ref_ch02_Operators_PointersEg.exe "src\\C_Ref_ch02_Operators_PointersEg.o" 
+16:00:11 **** Rebuild of configuration Debug for project C_Ref_ch02_Expressions_Casts ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\C_Ref_ch02_Expressions_Casts.o" "..\\src\\C_Ref_ch02_Expressions_Casts.c" 
+..\src\C_Ref_ch02_Expressions_Casts.c: In function 'main':
+..\src\C_Ref_ch02_Expressions_Casts.c:20:1: warning: control reaches end of non-void function [-Wreturn-type]
+gcc -o C_Ref_ch02_Expressions_Casts.exe "src\\C_Ref_ch02_Expressions_Casts.o" 
+Info: Nothing to build for C_Ref_ch02_LV_Ex2
+Info: Nothing to build for C_Ref_ch02_Operators_BitwiseOperation
+Info: Nothing to build for C_Ref_ch02_Operators_PointersEg
+Info: Nothing to build for C_Ref_ch02_Operators_RelationalOperators
+Info: Nothing to build for C_Ref_ch02_TypeModifiers_const
+Info: Nothing to build for C_Ref_ch02_TypeModifiers_extern
+Info: Nothing to build for C_Ref_ch02_TypeModifiers_registers
+Info: Nothing to build for C_Ref_ch02_TypeModifiers_static
+Info: Nothing to build for C_Ref_ch02_localVariables
+Info: Nothing to build for Factorial
+Info: Nothing to build for Learning
+Info: Nothing to build for Roots1
+Info: Nothing to build for RootsoftheEquation
+Info: Nothing to build for C_Ref_ch02_Expressions_Casts
+16:00:26 **** Incremental Build of configuration Debug for project C_Ref_ch02_Expressions_Casts ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\C_Ref_ch02_Expressions_Casts.o" "..\\src\\C_Ref_ch02_Expressions_Casts.c" 
+..\src\C_Ref_ch02_Expressions_Casts.c: In function 'main':
+..\src\C_Ref_ch02_Expressions_Casts.c:20:1: warning: control reaches end of non-void function [-Wreturn-type]
+gcc -o C_Ref_ch02_Expressions_Casts.exe "src\\C_Ref_ch02_Expressions_Casts.o" 
+16:01:10 **** Incremental Build of configuration Debug for project C_Ref_ch02_Expressions_Casts ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\C_Ref_ch02_Expressions_Casts.o" "..\\src\\C_Ref_ch02_Expressions_Casts.c" 
+..\src\C_Ref_ch02_Expressions_Casts.c: In function 'main':
+..\src\C_Ref_ch02_Expressions_Casts.c:20:1: warning: control reaches end of non-void function [-Wreturn-type]
+gcc -o C_Ref_ch02_Expressions_Casts.exe "src\\C_Ref_ch02_Expressions_Casts.o" 
+16:01:26 **** Incremental Build of configuration Debug for project C_Ref_ch02_Expressions_Casts ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\C_Ref_ch02_Expressions_Casts.o" "..\\src\\C_Ref_ch02_Expressions_Casts.c" 
+..\src\C_Ref_ch02_Expressions_Casts.c: In function 'main':
+..\src\C_Ref_ch02_Expressions_Casts.c:20:1: warning: control reaches end of non-void function [-Wreturn-type]
+gcc -o C_Ref_ch02_Expressions_Casts.exe "src\\C_Ref_ch02_Expressions_Casts.o" 
+18:34:41 **** Rebuild of configuration Debug for project C_Ref_Ch03_Statements_If_Else ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\C_Ref_Ch03_Statements_If_Else.o" "..\\src\\C_Ref_Ch03_Statements_If_Else.c" 
+..\src\C_Ref_Ch03_Statements_If_Else.c: In function 'main':
+..\src\C_Ref_Ch03_Statements_If_Else.c:25:1: warning: control reaches end of non-void function [-Wreturn-type]
+gcc -o C_Ref_Ch03_Statements_If_Else.exe "src\\C_Ref_Ch03_Statements_If_Else.o" 
+Info: Nothing to build for C_Ref_ch02_Expressions_Casts
+Info: Nothing to build for C_Ref_ch02_LV_Ex2
+Info: Nothing to build for C_Ref_ch02_Operators_BitwiseOperation
+18:34:42 **** Incremental Build of configuration Debug for project C_Ref_ch02_Operators_PointersEg ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\C_Ref_ch02_Operators_PointersEg.o" "..\\src\\C_Ref_ch02_Operators_PointersEg.c" 
+..\src\C_Ref_ch02_Operators_PointersEg.c: In function 'main':
+..\src\C_Ref_ch02_Operators_PointersEg.c:20:2: warning: format '%d' expects argument of type 'int', but argument 3 has type 'int *' [-Wformat]
+gcc -o C_Ref_ch02_Operators_PointersEg.exe "src\\C_Ref_ch02_Operators_PointersEg.o" 
+Info: Nothing to build for C_Ref_ch02_Operators_RelationalOperators
+Info: Nothing to build for C_Ref_ch02_TypeModifiers_const
+Info: Nothing to build for C_Ref_ch02_TypeModifiers_extern
+Info: Nothing to build for C_Ref_ch02_TypeModifiers_registers
+Info: Nothing to build for C_Ref_ch02_TypeModifiers_static
+Info: Nothing to build for C_Ref_ch02_localVariables
+Info: Nothing to build for Factorial
+Info: Nothing to build for Learning
+Info: Nothing to build for Roots1
+Info: Nothing to build for RootsoftheEquation
+Info: Nothing to build for C_Ref_Ch03_Statements_If_Else
+Info: Nothing to build for C_Ref_Ch03_Statements_If_Else
+Info: Nothing to build for C_Ref_ch02_Expressions_Casts
+Info: Nothing to build for C_Ref_ch02_LV_Ex2
+Info: Nothing to build for C_Ref_ch02_Operators_BitwiseOperation
+Info: Nothing to build for C_Ref_ch02_Operators_PointersEg
+Info: Nothing to build for C_Ref_ch02_Operators_RelationalOperators
+Info: Nothing to build for C_Ref_ch02_TypeModifiers_const
+Info: Nothing to build for C_Ref_ch02_TypeModifiers_extern
+Info: Nothing to build for C_Ref_ch02_TypeModifiers_registers
+Info: Nothing to build for C_Ref_ch02_TypeModifiers_static
+Info: Nothing to build for C_Ref_ch02_localVariables
+Info: Nothing to build for Factorial
+Info: Nothing to build for Learning
+Info: Nothing to build for Roots1
+Info: Nothing to build for RootsoftheEquation
+18:35:04 **** Incremental Build of configuration Debug for project C_Ref_Ch03_Statements_If_Else ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\C_Ref_Ch03_Statements_If_Else.o" "..\\src\\C_Ref_Ch03_Statements_If_Else.c" 
+..\src\C_Ref_Ch03_Statements_If_Else.c: In function 'main':
+..\src\C_Ref_Ch03_Statements_If_Else.c:26:1: warning: control reaches end of non-void function [-Wreturn-type]
+gcc -o C_Ref_Ch03_Statements_If_Else.exe "src\\C_Ref_Ch03_Statements_If_Else.o" 
+c:/flex windows/gcc/bin/../lib/gcc/mingw32/4.7.2/../../../../mingw32/bin/ld.exe: cannot open output file C_Ref_Ch03_Statements_If_Else.exe: Permission denied
+collect2.exe: error: ld returned 1 exit status
+18:35:33 **** Incremental Build of configuration Debug for project C_Ref_Ch03_Statements_If_Else ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\C_Ref_Ch03_Statements_If_Else.o" "..\\src\\C_Ref_Ch03_Statements_If_Else.c" 
+gcc -o C_Ref_Ch03_Statements_If_Else.exe "src\\C_Ref_Ch03_Statements_If_Else.o" 
+c:/flex windows/gcc/bin/../lib/gcc/mingw32/4.7.2/../../../../mingw32/bin/ld.exe: cannot open output file C_Ref_Ch03_Statements_If_Else.exe: Permission denied
+collect2.exe: error: ld returned 1 exit status
+18:36:09 **** Incremental Build of configuration Debug for project C_Ref_Ch03_Statements_If_Else ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\C_Ref_Ch03_Statements_If_Else.o" "..\\src\\C_Ref_Ch03_Statements_If_Else.c" 
+gcc -o C_Ref_Ch03_Statements_If_Else.exe "src\\C_Ref_Ch03_Statements_If_Else.o" 
+c:/flex windows/gcc/bin/../lib/gcc/mingw32/4.7.2/../../../../mingw32/bin/ld.exe: cannot open output file C_Ref_Ch03_Statements_If_Else.exe: Permission denied
+collect2.exe: error: ld returned 1 exit status
+18:37:47 **** Incremental Build of configuration Debug for project C_Ref_Ch03_Statements_If_Else ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\C_Ref_Ch03_Statements_If_Else.o" "..\\src\\C_Ref_Ch03_Statements_If_Else.c" 
+gcc -o C_Ref_Ch03_Statements_If_Else.exe "src\\C_Ref_Ch03_Statements_If_Else.o" 
+c:/flex windows/gcc/bin/../lib/gcc/mingw32/4.7.2/../../../../mingw32/bin/ld.exe: cannot open output file C_Ref_Ch03_Statements_If_Else.exe: Permission denied
+collect2.exe: error: ld returned 1 exit status
+18:39:01 **** Incremental Build of configuration Debug for project C_Ref_Ch03_Statements_If_Else ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\C_Ref_Ch03_Statements_If_Else.o" "..\\src\\C_Ref_Ch03_Statements_If_Else.c" 
+gcc -o C_Ref_Ch03_Statements_If_Else.exe "src\\C_Ref_Ch03_Statements_If_Else.o" 
+c:/flex windows/gcc/bin/../lib/gcc/mingw32/4.7.2/../../../../mingw32/bin/ld.exe: cannot open output file C_Ref_Ch03_Statements_If_Else.exe: Permission denied
+collect2.exe: error: ld returned 1 exit status
+18:39:26 **** Incremental Build of configuration Debug for project C_Ref_Ch03_Statements_If_Else ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\C_Ref_Ch03_Statements_If_Else.o" "..\\src\\C_Ref_Ch03_Statements_If_Else.c" 
+gcc -o C_Ref_Ch03_Statements_If_Else.exe "src\\C_Ref_Ch03_Statements_If_Else.o" 
+c:/flex windows/gcc/bin/../lib/gcc/mingw32/4.7.2/../../../../mingw32/bin/ld.exe: cannot open output file C_Ref_Ch03_Statements_If_Else.exe: Permission denied
+collect2.exe: error: ld returned 1 exit status
+18:40:14 **** Incremental Build of configuration Debug for project C_Ref_Ch03_Statements_If_Else ****
+Info: Internal Builder is used for build
+gcc -o C_Ref_Ch03_Statements_If_Else.exe "src\\C_Ref_Ch03_Statements_If_Else.o" 
+18:41:35 **** Incremental Build of configuration Debug for project C_Ref_Ch03_Statements_If_Else ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\C_Ref_Ch03_Statements_If_Else.o" "..\\src\\C_Ref_Ch03_Statements_If_Else.c" 
+gcc -o C_Ref_Ch03_Statements_If_Else.exe "src\\C_Ref_Ch03_Statements_If_Else.o" 
+Info: Nothing to build for C_Ref_ch02_Expressions_Casts
+Info: Nothing to build for C_Ref_ch02_LV_Ex2
+Info: Nothing to build for C_Ref_ch02_Operators_BitwiseOperation
+Info: Nothing to build for C_Ref_ch02_Operators_PointersEg
+Info: Nothing to build for C_Ref_ch02_Operators_RelationalOperators
+Info: Nothing to build for C_Ref_ch02_TypeModifiers_const
+Info: Nothing to build for C_Ref_ch02_TypeModifiers_extern
+Info: Nothing to build for C_Ref_ch02_TypeModifiers_registers
+Info: Nothing to build for C_Ref_ch02_TypeModifiers_static
+Info: Nothing to build for C_Ref_ch02_localVariables
+Info: Nothing to build for Factorial
+Info: Nothing to build for Learning
+Info: Nothing to build for Roots1
+Info: Nothing to build for RootsoftheEquation
+Info: Nothing to build for C_Ref_Ch03_Statements_If_Else
+18:42:59 **** Incremental Build of configuration Debug for project C_Ref_Ch03_Statements_If_Else ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\C_Ref_Ch03_Statements_If_Else.o" "..\\src\\C_Ref_Ch03_Statements_If_Else.c" 
+gcc -o C_Ref_Ch03_Statements_If_Else.exe "src\\C_Ref_Ch03_Statements_If_Else.o" 
+Info: Nothing to build for C_Ref_Ch03_Statements_If_Else
+Info: Nothing to build for C_Ref_Ch03_Statements_If_Else
+Info: Nothing to build for C_Ref_Ch03_Statements_If_Else
+Info: Nothing to build for C_Ref_Ch03_Statements_If_Else
+Info: Nothing to build for C_Ref_ch02_Expressions_Casts
+Info: Nothing to build for C_Ref_ch02_LV_Ex2
+Info: Nothing to build for C_Ref_ch02_Operators_BitwiseOperation
+Info: Nothing to build for C_Ref_ch02_Operators_PointersEg
+Info: Nothing to build for C_Ref_ch02_Operators_RelationalOperators
+Info: Nothing to build for C_Ref_ch02_TypeModifiers_const
+Info: Nothing to build for C_Ref_ch02_TypeModifiers_extern
+Info: Nothing to build for C_Ref_ch02_TypeModifiers_registers
+Info: Nothing to build for C_Ref_ch02_TypeModifiers_static
+Info: Nothing to build for C_Ref_ch02_localVariables
+Info: Nothing to build for Factorial
+Info: Nothing to build for Learning
+Info: Nothing to build for Roots1
+Info: Nothing to build for RootsoftheEquation
+Info: Nothing to build for C_Ref_Ch03_Statements_If_Else
+Info: Nothing to build for C_Ref_Ch03_Statements_If_Else
+Info: Nothing to build for C_Ref_Ch03_Statements_If_Else
+Info: Nothing to build for C_Ref_Ch03_Statements_If_Else
+Info: Nothing to build for C_Ref_ch02_Expressions_Casts
+Info: Nothing to build for C_Ref_ch02_LV_Ex2
+Info: Nothing to build for C_Ref_ch02_Operators_BitwiseOperation
+Info: Nothing to build for C_Ref_ch02_Operators_PointersEg
+Info: Nothing to build for C_Ref_ch02_Operators_RelationalOperators
+Info: Nothing to build for C_Ref_ch02_TypeModifiers_const
+Info: Nothing to build for C_Ref_ch02_TypeModifiers_extern
+Info: Nothing to build for C_Ref_ch02_TypeModifiers_registers
+Info: Nothing to build for C_Ref_ch02_TypeModifiers_static
+Info: Nothing to build for C_Ref_ch02_localVariables
+Info: Nothing to build for Factorial
+Info: Nothing to build for Learning
+Info: Nothing to build for Roots1
+Info: Nothing to build for RootsoftheEquation
+Info: Nothing to build for C_Ref_Ch03_Statements_If_Else
+18:46:19 **** Incremental Build of configuration Debug for project C_Ref_Ch03_Statements_If_Else ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\C_Ref_Ch03_Statements_If_Else.o" "..\\src\\C_Ref_Ch03_Statements_If_Else.c" 
+..\src\C_Ref_Ch03_Statements_If_Else.c: In function 'main':
+..\src\C_Ref_Ch03_Statements_If_Else.c:23:1: error: 'for' loop initial declarations are only allowed in C99 mode
+..\src\C_Ref_Ch03_Statements_If_Else.c:23:1: note: use option -std=c99 or -std=gnu99 to compile your code
+Info: Nothing to build for C_Ref_ch02_Expressions_Casts
+Info: Nothing to build for C_Ref_ch02_LV_Ex2
+Info: Nothing to build for C_Ref_ch02_Operators_BitwiseOperation
+Info: Nothing to build for C_Ref_ch02_Operators_PointersEg
+Info: Nothing to build for C_Ref_ch02_Operators_RelationalOperators
+Info: Nothing to build for C_Ref_ch02_TypeModifiers_const
+Info: Nothing to build for C_Ref_ch02_TypeModifiers_extern
+Info: Nothing to build for C_Ref_ch02_TypeModifiers_registers
+Info: Nothing to build for C_Ref_ch02_TypeModifiers_static
+Info: Nothing to build for C_Ref_ch02_localVariables
+Info: Nothing to build for Factorial
+Info: Nothing to build for Learning
+Info: Nothing to build for Roots1
+Info: Nothing to build for RootsoftheEquation
+18:47:20 **** Incremental Build of configuration Debug for project C_Ref_Ch03_Statements_If_Else ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\C_Ref_Ch03_Statements_If_Else.o" "..\\src\\C_Ref_Ch03_Statements_If_Else.c" 
+gcc -o C_Ref_Ch03_Statements_If_Else.exe "src\\C_Ref_Ch03_Statements_If_Else.o" 
+18:48:30 **** Incremental Build of configuration Debug for project C_Ref_Ch03_Statements_If_Else ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\C_Ref_Ch03_Statements_If_Else.o" "..\\src\\C_Ref_Ch03_Statements_If_Else.c" 
+gcc -o C_Ref_Ch03_Statements_If_Else.exe "src\\C_Ref_Ch03_Statements_If_Else.o" 
+Info: Nothing to build for C_Ref_ch02_Expressions_Casts
+Info: Nothing to build for C_Ref_ch02_LV_Ex2
+Info: Nothing to build for C_Ref_ch02_Operators_BitwiseOperation
+Info: Nothing to build for C_Ref_ch02_Operators_PointersEg
+Info: Nothing to build for C_Ref_ch02_Operators_RelationalOperators
+Info: Nothing to build for C_Ref_ch02_TypeModifiers_const
+Info: Nothing to build for C_Ref_ch02_TypeModifiers_extern
+Info: Nothing to build for C_Ref_ch02_TypeModifiers_registers
+Info: Nothing to build for C_Ref_ch02_TypeModifiers_static
+Info: Nothing to build for C_Ref_ch02_localVariables
+Info: Nothing to build for Factorial
+Info: Nothing to build for Learning
+Info: Nothing to build for Roots1
+Info: Nothing to build for RootsoftheEquation
+Info: Nothing to build for C_Ref_Ch03_Statements_If_Else
+Info: Nothing to build for C_Ref_Ch03_Statements_If_Else
+Info: Nothing to build for C_Ref_ch02_Expressions_Casts
+Info: Nothing to build for C_Ref_ch02_LV_Ex2
+Info: Nothing to build for C_Ref_ch02_Operators_BitwiseOperation
+Info: Nothing to build for C_Ref_ch02_Operators_PointersEg
+Info: Nothing to build for C_Ref_ch02_Operators_RelationalOperators
+Info: Nothing to build for C_Ref_ch02_TypeModifiers_const
+Info: Nothing to build for C_Ref_ch02_TypeModifiers_extern
+Info: Nothing to build for C_Ref_ch02_TypeModifiers_registers
+Info: Nothing to build for C_Ref_ch02_TypeModifiers_static
+Info: Nothing to build for C_Ref_ch02_localVariables
+Info: Nothing to build for Factorial
+Info: Nothing to build for Learning
+Info: Nothing to build for Roots1
+Info: Nothing to build for RootsoftheEquation
+18:48:51 **** Incremental Build of configuration Debug for project C_Ref_Ch03_Statements_If_Else ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\C_Ref_Ch03_Statements_If_Else.o" "..\\src\\C_Ref_Ch03_Statements_If_Else.c" 
+gcc -o C_Ref_Ch03_Statements_If_Else.exe "src\\C_Ref_Ch03_Statements_If_Else.o" 
+c:/flex windows/gcc/bin/../lib/gcc/mingw32/4.7.2/../../../../mingw32/bin/ld.exe: cannot open output file C_Ref_Ch03_Statements_If_Else.exe: Permission denied
+collect2.exe: error: ld returned 1 exit status
+18:49:19 **** Incremental Build of configuration Debug for project C_Ref_Ch03_Statements_If_Else ****
+Info: Internal Builder is used for build
+gcc -o C_Ref_Ch03_Statements_If_Else.exe "src\\C_Ref_Ch03_Statements_If_Else.o" 
+c:/flex windows/gcc/bin/../lib/gcc/mingw32/4.7.2/../../../../mingw32/bin/ld.exe: cannot open output file C_Ref_Ch03_Statements_If_Else.exe: Permission denied
+collect2.exe: error: ld returned 1 exit status
+18:49:33 **** Incremental Build of configuration Debug for project C_Ref_Ch03_Statements_If_Else ****
+Info: Internal Builder is used for build
+gcc -o C_Ref_Ch03_Statements_If_Else.exe "src\\C_Ref_Ch03_Statements_If_Else.o" 
+Info: Nothing to build for C_Ref_ch02_Expressions_Casts
+Info: Nothing to build for C_Ref_ch02_LV_Ex2
+Info: Nothing to build for C_Ref_ch02_Operators_BitwiseOperation
+Info: Nothing to build for C_Ref_ch02_Operators_PointersEg
+Info: Nothing to build for C_Ref_ch02_Operators_RelationalOperators
+Info: Nothing to build for C_Ref_ch02_TypeModifiers_const
+Info: Nothing to build for C_Ref_ch02_TypeModifiers_extern
+Info: Nothing to build for C_Ref_ch02_TypeModifiers_registers
+Info: Nothing to build for C_Ref_ch02_TypeModifiers_static
+Info: Nothing to build for C_Ref_ch02_localVariables
+Info: Nothing to build for Factorial
+Info: Nothing to build for Learning
+Info: Nothing to build for Roots1
+Info: Nothing to build for RootsoftheEquation
+Info: Nothing to build for C_Ref_Ch03_Statements_If_Else
+18:51:17 **** Incremental Build of configuration Debug for project C_Ref_Ch03_Statements_If_Else ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\C_Ref_Ch03_Statements_If_Else.o" "..\\src\\C_Ref_Ch03_Statements_If_Else.c" 
+gcc -o C_Ref_Ch03_Statements_If_Else.exe "src\\C_Ref_Ch03_Statements_If_Else.o" 
+c:/flex windows/gcc/bin/../lib/gcc/mingw32/4.7.2/../../../../mingw32/bin/ld.exe: cannot open output file C_Ref_Ch03_Statements_If_Else.exe: Permission denied
+collect2.exe: error: ld returned 1 exit status
+18:52:21 **** Incremental Build of configuration Debug for project C_Ref_Ch03_Statements_If_Else ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\C_Ref_Ch03_Statements_If_Else.o" "..\\src\\C_Ref_Ch03_Statements_If_Else.c" 
+gcc -o C_Ref_Ch03_Statements_If_Else.exe "src\\C_Ref_Ch03_Statements_If_Else.o" 
+Info: Nothing to build for C_Ref_ch02_Expressions_Casts
+Info: Nothing to build for C_Ref_ch02_LV_Ex2
+Info: Nothing to build for C_Ref_ch02_Operators_BitwiseOperation
+Info: Nothing to build for C_Ref_ch02_Operators_PointersEg
+Info: Nothing to build for C_Ref_ch02_Operators_RelationalOperators
+Info: Nothing to build for C_Ref_ch02_TypeModifiers_const
+Info: Nothing to build for C_Ref_ch02_TypeModifiers_extern
+Info: Nothing to build for C_Ref_ch02_TypeModifiers_registers
+Info: Nothing to build for C_Ref_ch02_TypeModifiers_static
+Info: Nothing to build for C_Ref_ch02_localVariables
+Info: Nothing to build for Factorial
+Info: Nothing to build for Learning
+Info: Nothing to build for Roots1
+Info: Nothing to build for RootsoftheEquation
+Info: Nothing to build for C_Ref_Ch03_Statements_If_Else
+18:53:07 **** Incremental Build of configuration Debug for project C_Ref_Ch03_Statements_If_Else ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\C_Ref_Ch03_Statements_If_Else.o" "..\\src\\C_Ref_Ch03_Statements_If_Else.c" 
+gcc -o C_Ref_Ch03_Statements_If_Else.exe "src\\C_Ref_Ch03_Statements_If_Else.o" 
+c:/flex windows/gcc/bin/../lib/gcc/mingw32/4.7.2/../../../../mingw32/bin/ld.exe: cannot open output file C_Ref_Ch03_Statements_If_Else.exe: Permission denied
+collect2.exe: error: ld returned 1 exit status
+Info: Nothing to build for C_Ref_ch02_Expressions_Casts
+Info: Nothing to build for C_Ref_ch02_LV_Ex2
+Info: Nothing to build for C_Ref_ch02_Operators_BitwiseOperation
+Info: Nothing to build for C_Ref_ch02_Operators_PointersEg
+Info: Nothing to build for C_Ref_ch02_Operators_RelationalOperators
+Info: Nothing to build for C_Ref_ch02_TypeModifiers_const
+Info: Nothing to build for C_Ref_ch02_TypeModifiers_extern
+Info: Nothing to build for C_Ref_ch02_TypeModifiers_registers
+Info: Nothing to build for C_Ref_ch02_TypeModifiers_static
+Info: Nothing to build for C_Ref_ch02_localVariables
+Info: Nothing to build for Factorial
+Info: Nothing to build for Learning
+Info: Nothing to build for Roots1
+Info: Nothing to build for RootsoftheEquation
+18:53:10 **** Incremental Build of configuration Debug for project C_Ref_Ch03_Statements_If_Else ****
+Info: Internal Builder is used for build
+gcc -o C_Ref_Ch03_Statements_If_Else.exe "src\\C_Ref_Ch03_Statements_If_Else.o" 
+c:/flex windows/gcc/bin/../lib/gcc/mingw32/4.7.2/../../../../mingw32/bin/ld.exe: cannot open output file C_Ref_Ch03_Statements_If_Else.exe: Permission denied
+collect2.exe: error: ld returned 1 exit status
+18:53:32 **** Incremental Build of configuration Debug for project C_Ref_Ch03_Statements_If_Else ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\C_Ref_Ch03_Statements_If_Else.o" "..\\src\\C_Ref_Ch03_Statements_If_Else.c" 
+gcc -o C_Ref_Ch03_Statements_If_Else.exe "src\\C_Ref_Ch03_Statements_If_Else.o" 
+c:/flex windows/gcc/bin/../lib/gcc/mingw32/4.7.2/../../../../mingw32/bin/ld.exe: cannot open output file C_Ref_Ch03_Statements_If_Else.exe: Permission denied
+collect2.exe: error: ld returned 1 exit status
+18:54:03 **** Incremental Build of configuration Debug for project C_Ref_Ch03_Statements_If_Else ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\C_Ref_Ch03_Statements_If_Else.o" "..\\src\\C_Ref_Ch03_Statements_If_Else.c" 
+gcc -o C_Ref_Ch03_Statements_If_Else.exe "src\\C_Ref_Ch03_Statements_If_Else.o" 
+c:/flex windows/gcc/bin/../lib/gcc/mingw32/4.7.2/../../../../mingw32/bin/ld.exe: cannot open output file C_Ref_Ch03_Statements_If_Else.exe: Permission denied
+collect2.exe: error: ld returned 1 exit status
+Info: Nothing to build for C_Ref_ch02_Expressions_Casts
+Info: Nothing to build for C_Ref_ch02_LV_Ex2
+Info: Nothing to build for C_Ref_ch02_Operators_BitwiseOperation
+Info: Nothing to build for C_Ref_ch02_Operators_PointersEg
+Info: Nothing to build for C_Ref_ch02_Operators_RelationalOperators
+Info: Nothing to build for C_Ref_ch02_TypeModifiers_const
+Info: Nothing to build for C_Ref_ch02_TypeModifiers_extern
+Info: Nothing to build for C_Ref_ch02_TypeModifiers_registers
+Info: Nothing to build for C_Ref_ch02_TypeModifiers_static
+Info: Nothing to build for C_Ref_ch02_localVariables
+Info: Nothing to build for Factorial
+Info: Nothing to build for Learning
+Info: Nothing to build for Roots1
+Info: Nothing to build for RootsoftheEquation
+18:54:05 **** Incremental Build of configuration Debug for project C_Ref_Ch03_Statements_If_Else ****
+Info: Internal Builder is used for build
+gcc -o C_Ref_Ch03_Statements_If_Else.exe "src\\C_Ref_Ch03_Statements_If_Else.o" 
+c:/flex windows/gcc/bin/../lib/gcc/mingw32/4.7.2/../../../../mingw32/bin/ld.exe: cannot open output file C_Ref_Ch03_Statements_If_Else.exe: Permission denied
+collect2.exe: error: ld returned 1 exit status
+18:54:19 **** Incremental Build of configuration Debug for project C_Ref_Ch03_Statements_If_Else ****
+Info: Internal Builder is used for build
+gcc -o C_Ref_Ch03_Statements_If_Else.exe "src\\C_Ref_Ch03_Statements_If_Else.o" 
+Info: Nothing to build for C_Ref_Ch03_Statements_If_Else
+Info: Nothing to build for C_Ref_Ch03_Statements_If_Else
+20:29:40 **** Incremental Build of configuration Debug for project C_Ref_Ch03_Statements_If_Else ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\C_Ref_Ch03_Statements_If_Else.o" "..\\src\\C_Ref_Ch03_Statements_If_Else.c" 
+..\src\C_Ref_Ch03_Statements_If_Else.c: In function 'main':
+..\src\C_Ref_Ch03_Statements_If_Else.c:23:12: error: lvalue required as left operand of assignment
+20:30:50 **** Incremental Build of configuration Debug for project C_Ref_Ch03_Statements_If_Else ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\C_Ref_Ch03_Statements_If_Else.o" "..\\src\\C_Ref_Ch03_Statements_If_Else.c" 
+gcc -o C_Ref_Ch03_Statements_If_Else.exe "src\\C_Ref_Ch03_Statements_If_Else.o" 
+Info: Nothing to build for C_Ref_ch02_Expressions_Casts
+Info: Nothing to build for C_Ref_ch02_LV_Ex2
+Info: Nothing to build for C_Ref_ch02_Operators_BitwiseOperation
+Info: Nothing to build for C_Ref_ch02_Operators_PointersEg
+Info: Nothing to build for C_Ref_ch02_Operators_RelationalOperators
+Info: Nothing to build for C_Ref_ch02_TypeModifiers_const
+Info: Nothing to build for C_Ref_ch02_TypeModifiers_extern
+Info: Nothing to build for C_Ref_ch02_TypeModifiers_registers
+Info: Nothing to build for C_Ref_ch02_TypeModifiers_static
+Info: Nothing to build for C_Ref_ch02_localVariables
+Info: Nothing to build for Factorial
+Info: Nothing to build for Learning
+Info: Nothing to build for Roots1
+Info: Nothing to build for RootsoftheEquation
+Info: Nothing to build for C_Ref_Ch03_Statements_If_Else
+Info: Nothing to build for C_Ref_Ch03_Statements_If_Else
+Info: Nothing to build for C_Ref_Ch03_Statements_If_Else
+20:35:22 **** Incremental Build of configuration Debug for project C_Ref_Ch03_Statements_If_Else ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\C_Ref_Ch03_Statements_If_Else.o" "..\\src\\C_Ref_Ch03_Statements_If_Else.c" 
+gcc -o C_Ref_Ch03_Statements_If_Else.exe "src\\C_Ref_Ch03_Statements_If_Else.o" 
+Info: Nothing to build for C_Ref_ch02_Expressions_Casts
+Info: Nothing to build for C_Ref_ch02_LV_Ex2
+Info: Nothing to build for C_Ref_ch02_Operators_BitwiseOperation
+Info: Nothing to build for C_Ref_ch02_Operators_PointersEg
+Info: Nothing to build for C_Ref_ch02_Operators_RelationalOperators
+Info: Nothing to build for C_Ref_ch02_TypeModifiers_const
+Info: Nothing to build for C_Ref_ch02_TypeModifiers_extern
+Info: Nothing to build for C_Ref_ch02_TypeModifiers_registers
+Info: Nothing to build for C_Ref_ch02_TypeModifiers_static
+Info: Nothing to build for C_Ref_ch02_localVariables
+Info: Nothing to build for Factorial
+Info: Nothing to build for Learning
+Info: Nothing to build for Roots1
+Info: Nothing to build for RootsoftheEquation
+Info: Nothing to build for C_Ref_Ch03_Statements_If_Else
+20:36:33 **** Incremental Build of configuration Debug for project C_Ref_Ch03_Statements_If_Else ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\C_Ref_Ch03_Statements_If_Else.o" "..\\src\\C_Ref_Ch03_Statements_If_Else.c" 
+gcc -o C_Ref_Ch03_Statements_If_Else.exe "src\\C_Ref_Ch03_Statements_If_Else.o" 
+c:/flex windows/gcc/bin/../lib/gcc/mingw32/4.7.2/../../../../mingw32/bin/ld.exe: cannot open output file C_Ref_Ch03_Statements_If_Else.exe: Permission denied
+collect2.exe: error: ld returned 1 exit status
+Info: Nothing to build for C_Ref_ch02_Expressions_Casts
+Info: Nothing to build for C_Ref_ch02_LV_Ex2
+Info: Nothing to build for C_Ref_ch02_Operators_BitwiseOperation
+Info: Nothing to build for C_Ref_ch02_Operators_PointersEg
+Info: Nothing to build for C_Ref_ch02_Operators_RelationalOperators
+Info: Nothing to build for C_Ref_ch02_TypeModifiers_const
+Info: Nothing to build for C_Ref_ch02_TypeModifiers_extern
+Info: Nothing to build for C_Ref_ch02_TypeModifiers_registers
+Info: Nothing to build for C_Ref_ch02_TypeModifiers_static
+Info: Nothing to build for C_Ref_ch02_localVariables
+Info: Nothing to build for Factorial
+Info: Nothing to build for Learning
+Info: Nothing to build for Roots1
+Info: Nothing to build for RootsoftheEquation
+20:36:34 **** Incremental Build of configuration Debug for project C_Ref_Ch03_Statements_If_Else ****
+Info: Internal Builder is used for build
+gcc -o C_Ref_Ch03_Statements_If_Else.exe "src\\C_Ref_Ch03_Statements_If_Else.o" 
+c:/flex windows/gcc/bin/../lib/gcc/mingw32/4.7.2/../../../../mingw32/bin/ld.exe: cannot open output file C_Ref_Ch03_Statements_If_Else.exe: Permission denied
+collect2.exe: error: ld returned 1 exit status
+20:36:58 **** Incremental Build of configuration Debug for project C_Ref_Ch03_Statements_If_Else ****
+Info: Internal Builder is used for build
+gcc -o C_Ref_Ch03_Statements_If_Else.exe "src\\C_Ref_Ch03_Statements_If_Else.o" 
+c:/flex windows/gcc/bin/../lib/gcc/mingw32/4.7.2/../../../../mingw32/bin/ld.exe: cannot open output file C_Ref_Ch03_Statements_If_Else.exe: Permission denied
+collect2.exe: error: ld returned 1 exit status
+Info: Nothing to build for C_Ref_ch02_Expressions_Casts
+Info: Nothing to build for C_Ref_ch02_LV_Ex2
+Info: Nothing to build for C_Ref_ch02_Operators_BitwiseOperation
+Info: Nothing to build for C_Ref_ch02_Operators_PointersEg
+Info: Nothing to build for C_Ref_ch02_Operators_RelationalOperators
+Info: Nothing to build for C_Ref_ch02_TypeModifiers_const
+Info: Nothing to build for C_Ref_ch02_TypeModifiers_extern
+Info: Nothing to build for C_Ref_ch02_TypeModifiers_registers
+Info: Nothing to build for C_Ref_ch02_TypeModifiers_static
+Info: Nothing to build for C_Ref_ch02_localVariables
+Info: Nothing to build for Factorial
+Info: Nothing to build for Learning
+Info: Nothing to build for Roots1
+Info: Nothing to build for RootsoftheEquation
+20:37:00 **** Incremental Build of configuration Debug for project C_Ref_Ch03_Statements_If_Else ****
+Info: Internal Builder is used for build
+gcc -o C_Ref_Ch03_Statements_If_Else.exe "src\\C_Ref_Ch03_Statements_If_Else.o" 
+c:/flex windows/gcc/bin/../lib/gcc/mingw32/4.7.2/../../../../mingw32/bin/ld.exe: cannot open output file C_Ref_Ch03_Statements_If_Else.exe: Permission denied
+collect2.exe: error: ld returned 1 exit status
+20:37:23 **** Incremental Build of configuration Debug for project C_Ref_Ch03_Statements_If_Else ****
+Info: Internal Builder is used for build
+gcc -o C_Ref_Ch03_Statements_If_Else.exe "src\\C_Ref_Ch03_Statements_If_Else.o" 
+Info: Nothing to build for C_Ref_ch02_Expressions_Casts
+Info: Nothing to build for C_Ref_ch02_LV_Ex2
+Info: Nothing to build for C_Ref_ch02_Operators_BitwiseOperation
+Info: Nothing to build for C_Ref_ch02_Operators_PointersEg
+Info: Nothing to build for C_Ref_ch02_Operators_RelationalOperators
+Info: Nothing to build for C_Ref_ch02_TypeModifiers_const
+Info: Nothing to build for C_Ref_ch02_TypeModifiers_extern
+Info: Nothing to build for C_Ref_ch02_TypeModifiers_registers
+Info: Nothing to build for C_Ref_ch02_TypeModifiers_static
+Info: Nothing to build for C_Ref_ch02_localVariables
+Info: Nothing to build for Factorial
+Info: Nothing to build for Learning
+Info: Nothing to build for Roots1
+Info: Nothing to build for RootsoftheEquation
+Info: Nothing to build for C_Ref_Ch03_Statements_If_Else
+Info: Nothing to build for C_Ref_Ch03_Statements_If_Else
+Info: Nothing to build for C_Ref_ch02_Expressions_Casts
+Info: Nothing to build for C_Ref_ch02_LV_Ex2
+Info: Nothing to build for C_Ref_ch02_Operators_BitwiseOperation
+Info: Nothing to build for C_Ref_ch02_Operators_PointersEg
+Info: Nothing to build for C_Ref_ch02_Operators_RelationalOperators
+Info: Nothing to build for C_Ref_ch02_TypeModifiers_const
+Info: Nothing to build for C_Ref_ch02_TypeModifiers_extern
+Info: Nothing to build for C_Ref_ch02_TypeModifiers_registers
+Info: Nothing to build for C_Ref_ch02_TypeModifiers_static
+Info: Nothing to build for C_Ref_ch02_localVariables
+Info: Nothing to build for Factorial
+Info: Nothing to build for Learning
+Info: Nothing to build for Roots1
+Info: Nothing to build for RootsoftheEquation
+Info: Nothing to build for C_Ref_Ch03_Statements_If_Else
+20:40:44 **** Incremental Build of configuration Debug for project C_Ref_Ch03_Statements_If_Else ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\C_Ref_Ch03_Statements_If_Else.o" "..\\src\\C_Ref_Ch03_Statements_If_Else.c" 
+..\src\C_Ref_Ch03_Statements_If_Else.c: In function 'main':
+..\src\C_Ref_Ch03_Statements_If_Else.c:26:2: warning: format '%f' expects argument of type 'double', but argument 2 has type 'int *' [-Wformat]
+gcc -o C_Ref_Ch03_Statements_If_Else.exe "src\\C_Ref_Ch03_Statements_If_Else.o" 
+Info: Nothing to build for C_Ref_ch02_Expressions_Casts
+Info: Nothing to build for C_Ref_ch02_LV_Ex2
+Info: Nothing to build for C_Ref_ch02_Operators_BitwiseOperation
+Info: Nothing to build for C_Ref_ch02_Operators_PointersEg
+Info: Nothing to build for C_Ref_ch02_Operators_RelationalOperators
+Info: Nothing to build for C_Ref_ch02_TypeModifiers_const
+Info: Nothing to build for C_Ref_ch02_TypeModifiers_extern
+Info: Nothing to build for C_Ref_ch02_TypeModifiers_registers
+Info: Nothing to build for C_Ref_ch02_TypeModifiers_static
+Info: Nothing to build for C_Ref_ch02_localVariables
+Info: Nothing to build for Factorial
+Info: Nothing to build for Learning
+Info: Nothing to build for Roots1
+Info: Nothing to build for RootsoftheEquation
+Info: Nothing to build for C_Ref_Ch03_Statements_If_Else
+Info: Nothing to build for C_Ref_Ch03_Statements_If_Else
+Info: Nothing to build for C_Ref_ch02_Expressions_Casts
+Info: Nothing to build for C_Ref_ch02_LV_Ex2
+Info: Nothing to build for C_Ref_ch02_Operators_BitwiseOperation
+Info: Nothing to build for C_Ref_ch02_Operators_PointersEg
+Info: Nothing to build for C_Ref_ch02_Operators_RelationalOperators
+Info: Nothing to build for C_Ref_ch02_TypeModifiers_const
+Info: Nothing to build for C_Ref_ch02_TypeModifiers_extern
+Info: Nothing to build for C_Ref_ch02_TypeModifiers_registers
+Info: Nothing to build for C_Ref_ch02_TypeModifiers_static
+Info: Nothing to build for C_Ref_ch02_localVariables
+Info: Nothing to build for Factorial
+Info: Nothing to build for Learning
+Info: Nothing to build for Roots1
+Info: Nothing to build for RootsoftheEquation
+Info: Nothing to build for C_Ref_Ch03_Statements_If_Else
+20:41:45 **** Incremental Build of configuration Debug for project C_Ref_Ch03_Statements_If_Else ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\C_Ref_Ch03_Statements_If_Else.o" "..\\src\\C_Ref_Ch03_Statements_If_Else.c" 
+..\src\C_Ref_Ch03_Statements_If_Else.c: In function 'main':
+..\src\C_Ref_Ch03_Statements_If_Else.c:26:2: warning: format '%d' expects argument of type 'int', but argument 2 has type 'int *' [-Wformat]
+gcc -o C_Ref_Ch03_Statements_If_Else.exe "src\\C_Ref_Ch03_Statements_If_Else.o" 
+Info: Nothing to build for C_Ref_ch02_Expressions_Casts
+Info: Nothing to build for C_Ref_ch02_LV_Ex2
+Info: Nothing to build for C_Ref_ch02_Operators_BitwiseOperation
+Info: Nothing to build for C_Ref_ch02_Operators_PointersEg
+Info: Nothing to build for C_Ref_ch02_Operators_RelationalOperators
+Info: Nothing to build for C_Ref_ch02_TypeModifiers_const
+Info: Nothing to build for C_Ref_ch02_TypeModifiers_extern
+Info: Nothing to build for C_Ref_ch02_TypeModifiers_registers
+Info: Nothing to build for C_Ref_ch02_TypeModifiers_static
+Info: Nothing to build for C_Ref_ch02_localVariables
+Info: Nothing to build for Factorial
+Info: Nothing to build for Learning
+Info: Nothing to build for Roots1
+Info: Nothing to build for RootsoftheEquation
+Info: Nothing to build for C_Ref_Ch03_Statements_If_Else
+20:42:00 **** Incremental Build of configuration Debug for project C_Ref_Ch03_Statements_If_Else ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\C_Ref_Ch03_Statements_If_Else.o" "..\\src\\C_Ref_Ch03_Statements_If_Else.c" 
+..\src\C_Ref_Ch03_Statements_If_Else.c: In function 'main':
+..\src\C_Ref_Ch03_Statements_If_Else.c:26:2: warning: format '%d' expects argument of type 'int', but argument 2 has type 'int *' [-Wformat]
+gcc -o C_Ref_Ch03_Statements_If_Else.exe "src\\C_Ref_Ch03_Statements_If_Else.o" 
+Info: Nothing to build for C_Ref_ch02_Expressions_Casts
+Info: Nothing to build for C_Ref_ch02_LV_Ex2
+Info: Nothing to build for C_Ref_ch02_Operators_BitwiseOperation
+Info: Nothing to build for C_Ref_ch02_Operators_PointersEg
+Info: Nothing to build for C_Ref_ch02_Operators_RelationalOperators
+Info: Nothing to build for C_Ref_ch02_TypeModifiers_const
+Info: Nothing to build for C_Ref_ch02_TypeModifiers_extern
+Info: Nothing to build for C_Ref_ch02_TypeModifiers_registers
+Info: Nothing to build for C_Ref_ch02_TypeModifiers_static
+Info: Nothing to build for C_Ref_ch02_localVariables
+Info: Nothing to build for Factorial
+Info: Nothing to build for Learning
+Info: Nothing to build for Roots1
+Info: Nothing to build for RootsoftheEquation
+Info: Nothing to build for C_Ref_Ch03_Statements_If_Else
+20:42:26 **** Incremental Build of configuration Debug for project C_Ref_Ch03_Statements_If_Else ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\C_Ref_Ch03_Statements_If_Else.o" "..\\src\\C_Ref_Ch03_Statements_If_Else.c" 
+..\src\C_Ref_Ch03_Statements_If_Else.c: In function 'main':
+..\src\C_Ref_Ch03_Statements_If_Else.c:25:2: warning: format '%f' expects argument of type 'float *', but argument 2 has type 'int *' [-Wformat]
+..\src\C_Ref_Ch03_Statements_If_Else.c:26:2: warning: format '%d' expects argument of type 'int', but argument 2 has type 'int *' [-Wformat]
+gcc -o C_Ref_Ch03_Statements_If_Else.exe "src\\C_Ref_Ch03_Statements_If_Else.o" 
+Info: Nothing to build for C_Ref_ch02_Expressions_Casts
+Info: Nothing to build for C_Ref_ch02_LV_Ex2
+Info: Nothing to build for C_Ref_ch02_Operators_BitwiseOperation
+Info: Nothing to build for C_Ref_ch02_Operators_PointersEg
+Info: Nothing to build for C_Ref_ch02_Operators_RelationalOperators
+Info: Nothing to build for C_Ref_ch02_TypeModifiers_const
+Info: Nothing to build for C_Ref_ch02_TypeModifiers_extern
+Info: Nothing to build for C_Ref_ch02_TypeModifiers_registers
+Info: Nothing to build for C_Ref_ch02_TypeModifiers_static
+Info: Nothing to build for C_Ref_ch02_localVariables
+Info: Nothing to build for Factorial
+Info: Nothing to build for Learning
+Info: Nothing to build for Roots1
+Info: Nothing to build for RootsoftheEquation
+Info: Nothing to build for C_Ref_Ch03_Statements_If_Else
+20:43:08 **** Incremental Build of configuration Debug for project C_Ref_Ch03_Statements_If_Else ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\C_Ref_Ch03_Statements_If_Else.o" "..\\src\\C_Ref_Ch03_Statements_If_Else.c" 
+..\src\C_Ref_Ch03_Statements_If_Else.c: In function 'main':
+..\src\C_Ref_Ch03_Statements_If_Else.c:25:2: warning: format '%f' expects argument of type 'float *', but argument 2 has type 'int *' [-Wformat]
+..\src\C_Ref_Ch03_Statements_If_Else.c:26:2: warning: format '%f' expects argument of type 'double', but argument 2 has type 'int *' [-Wformat]
+gcc -o C_Ref_Ch03_Statements_If_Else.exe "src\\C_Ref_Ch03_Statements_If_Else.o" 
+Info: Nothing to build for C_Ref_ch02_Expressions_Casts
+Info: Nothing to build for C_Ref_ch02_LV_Ex2
+Info: Nothing to build for C_Ref_ch02_Operators_BitwiseOperation
+Info: Nothing to build for C_Ref_ch02_Operators_PointersEg
+Info: Nothing to build for C_Ref_ch02_Operators_RelationalOperators
+Info: Nothing to build for C_Ref_ch02_TypeModifiers_const
+Info: Nothing to build for C_Ref_ch02_TypeModifiers_extern
+Info: Nothing to build for C_Ref_ch02_TypeModifiers_registers
+Info: Nothing to build for C_Ref_ch02_TypeModifiers_static
+Info: Nothing to build for C_Ref_ch02_localVariables
+Info: Nothing to build for Factorial
+Info: Nothing to build for Learning
+Info: Nothing to build for Roots1
+Info: Nothing to build for RootsoftheEquation
+Info: Nothing to build for C_Ref_Ch03_Statements_If_Else
+20:43:32 **** Incremental Build of configuration Debug for project C_Ref_Ch03_Statements_If_Else ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\C_Ref_Ch03_Statements_If_Else.o" "..\\src\\C_Ref_Ch03_Statements_If_Else.c" 
+..\src\C_Ref_Ch03_Statements_If_Else.c: In function 'main':
+..\src\C_Ref_Ch03_Statements_If_Else.c:25:2: warning: format '%f' expects argument of type 'float *', but argument 2 has type 'int *' [-Wformat]
+..\src\C_Ref_Ch03_Statements_If_Else.c:26:2: warning: format '%lf' expects argument of type 'double', but argument 2 has type 'int *' [-Wformat]
+gcc -o C_Ref_Ch03_Statements_If_Else.exe "src\\C_Ref_Ch03_Statements_If_Else.o" 
+c:/flex windows/gcc/bin/../lib/gcc/mingw32/4.7.2/../../../../mingw32/bin/ld.exe: cannot open output file C_Ref_Ch03_Statements_If_Else.exe: Permission denied
+collect2.exe: error: ld returned 1 exit status
+Info: Nothing to build for C_Ref_ch02_Expressions_Casts
+Info: Nothing to build for C_Ref_ch02_LV_Ex2
+Info: Nothing to build for C_Ref_ch02_Operators_BitwiseOperation
+Info: Nothing to build for C_Ref_ch02_Operators_PointersEg
+Info: Nothing to build for C_Ref_ch02_Operators_RelationalOperators
+Info: Nothing to build for C_Ref_ch02_TypeModifiers_const
+Info: Nothing to build for C_Ref_ch02_TypeModifiers_extern
+Info: Nothing to build for C_Ref_ch02_TypeModifiers_registers
+Info: Nothing to build for C_Ref_ch02_TypeModifiers_static
+Info: Nothing to build for C_Ref_ch02_localVariables
+Info: Nothing to build for Factorial
+Info: Nothing to build for Learning
+Info: Nothing to build for Roots1
+Info: Nothing to build for RootsoftheEquation
+20:43:34 **** Incremental Build of configuration Debug for project C_Ref_Ch03_Statements_If_Else ****
+Info: Internal Builder is used for build
+gcc -o C_Ref_Ch03_Statements_If_Else.exe "src\\C_Ref_Ch03_Statements_If_Else.o" 
+c:/flex windows/gcc/bin/../lib/gcc/mingw32/4.7.2/../../../../mingw32/bin/ld.exe: cannot open output file C_Ref_Ch03_Statements_If_Else.exe: Permission denied
+collect2.exe: error: ld returned 1 exit status
+20:45:41 **** Incremental Build of configuration Debug for project C_Ref_Ch03_Statements_If_Else ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\C_Ref_Ch03_Statements_If_Else.o" "..\\src\\C_Ref_Ch03_Statements_If_Else.c" 
+..\src\C_Ref_Ch03_Statements_If_Else.c: In function 'main':
+..\src\C_Ref_Ch03_Statements_If_Else.c:25:2: warning: format '%f' expects argument of type 'float *', but argument 2 has type 'int *' [-Wformat]
+..\src\C_Ref_Ch03_Statements_If_Else.c:26:2: warning: format '%f' expects argument of type 'double', but argument 2 has type 'int *' [-Wformat]
+gcc -o C_Ref_Ch03_Statements_If_Else.exe "src\\C_Ref_Ch03_Statements_If_Else.o" 
+Info: Nothing to build for C_Ref_ch02_Expressions_Casts
+Info: Nothing to build for C_Ref_ch02_LV_Ex2
+Info: Nothing to build for C_Ref_ch02_Operators_BitwiseOperation
+Info: Nothing to build for C_Ref_ch02_Operators_PointersEg
+Info: Nothing to build for C_Ref_ch02_Operators_RelationalOperators
+Info: Nothing to build for C_Ref_ch02_TypeModifiers_const
+Info: Nothing to build for C_Ref_ch02_TypeModifiers_extern
+Info: Nothing to build for C_Ref_ch02_TypeModifiers_registers
+Info: Nothing to build for C_Ref_ch02_TypeModifiers_static
+Info: Nothing to build for C_Ref_ch02_localVariables
+Info: Nothing to build for Factorial
+Info: Nothing to build for Learning
+Info: Nothing to build for Roots1
+Info: Nothing to build for RootsoftheEquation
+Info: Nothing to build for C_Ref_Ch03_Statements_If_Else
+20:46:18 **** Incremental Build of configuration Debug for project C_Ref_Ch03_Statements_If_Else ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\C_Ref_Ch03_Statements_If_Else.o" "..\\src\\C_Ref_Ch03_Statements_If_Else.c" 
+..\src\C_Ref_Ch03_Statements_If_Else.c: In function 'main':
+..\src\C_Ref_Ch03_Statements_If_Else.c:25:2: warning: format '%f' expects argument of type 'float *', but argument 2 has type 'int *' [-Wformat]
+..\src\C_Ref_Ch03_Statements_If_Else.c:26:2: warning: format '%f' expects argument of type 'double', but argument 2 has type 'int *' [-Wformat]
+gcc -o C_Ref_Ch03_Statements_If_Else.exe "src\\C_Ref_Ch03_Statements_If_Else.o" 
+c:/flex windows/gcc/bin/../lib/gcc/mingw32/4.7.2/../../../../mingw32/bin/ld.exe: cannot open output file C_Ref_Ch03_Statements_If_Else.exe: Permission denied
+collect2.exe: error: ld returned 1 exit status
+Info: Nothing to build for C_Ref_ch02_Expressions_Casts
+Info: Nothing to build for C_Ref_ch02_LV_Ex2
+Info: Nothing to build for C_Ref_ch02_Operators_BitwiseOperation
+Info: Nothing to build for C_Ref_ch02_Operators_PointersEg
+Info: Nothing to build for C_Ref_ch02_Operators_RelationalOperators
+Info: Nothing to build for C_Ref_ch02_TypeModifiers_const
+Info: Nothing to build for C_Ref_ch02_TypeModifiers_extern
+Info: Nothing to build for C_Ref_ch02_TypeModifiers_registers
+Info: Nothing to build for C_Ref_ch02_TypeModifiers_static
+Info: Nothing to build for C_Ref_ch02_localVariables
+Info: Nothing to build for Factorial
+Info: Nothing to build for Learning
+Info: Nothing to build for Roots1
+Info: Nothing to build for RootsoftheEquation
+20:46:21 **** Incremental Build of configuration Debug for project C_Ref_Ch03_Statements_If_Else ****
+Info: Internal Builder is used for build
+gcc -o C_Ref_Ch03_Statements_If_Else.exe "src\\C_Ref_Ch03_Statements_If_Else.o" 
+c:/flex windows/gcc/bin/../lib/gcc/mingw32/4.7.2/../../../../mingw32/bin/ld.exe: cannot open output file C_Ref_Ch03_Statements_If_Else.exe: Permission denied
+collect2.exe: error: ld returned 1 exit status
+20:46:40 **** Incremental Build of configuration Debug for project C_Ref_Ch03_Statements_If_Else ****
+Info: Internal Builder is used for build
+gcc -o C_Ref_Ch03_Statements_If_Else.exe "src\\C_Ref_Ch03_Statements_If_Else.o" 
+Info: Nothing to build for C_Ref_ch02_Expressions_Casts
+Info: Nothing to build for C_Ref_ch02_LV_Ex2
+Info: Nothing to build for C_Ref_ch02_Operators_BitwiseOperation
+Info: Nothing to build for C_Ref_ch02_Operators_PointersEg
+Info: Nothing to build for C_Ref_ch02_Operators_RelationalOperators
+Info: Nothing to build for C_Ref_ch02_TypeModifiers_const
+Info: Nothing to build for C_Ref_ch02_TypeModifiers_extern
+Info: Nothing to build for C_Ref_ch02_TypeModifiers_registers
+Info: Nothing to build for C_Ref_ch02_TypeModifiers_static
+Info: Nothing to build for C_Ref_ch02_localVariables
+Info: Nothing to build for Factorial
+Info: Nothing to build for Learning
+Info: Nothing to build for Roots1
+Info: Nothing to build for RootsoftheEquation
+Info: Nothing to build for C_Ref_Ch03_Statements_If_Else
+20:47:06 **** Incremental Build of configuration Debug for project C_Ref_Ch03_Statements_If_Else ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\C_Ref_Ch03_Statements_If_Else.o" "..\\src\\C_Ref_Ch03_Statements_If_Else.c" 
+..\src\C_Ref_Ch03_Statements_If_Else.c: In function 'main':
+..\src\C_Ref_Ch03_Statements_If_Else.c:25:2: warning: format '%f' expects argument of type 'float *', but argument 2 has type 'int *' [-Wformat]
+..\src\C_Ref_Ch03_Statements_If_Else.c:26:2: warning: format '%f' expects argument of type 'double', but argument 2 has type 'int *' [-Wformat]
+gcc -o C_Ref_Ch03_Statements_If_Else.exe "src\\C_Ref_Ch03_Statements_If_Else.o" 
+Info: Nothing to build for C_Ref_ch02_Expressions_Casts
+Info: Nothing to build for C_Ref_ch02_LV_Ex2
+Info: Nothing to build for C_Ref_ch02_Operators_BitwiseOperation
+Info: Nothing to build for C_Ref_ch02_Operators_PointersEg
+Info: Nothing to build for C_Ref_ch02_Operators_RelationalOperators
+Info: Nothing to build for C_Ref_ch02_TypeModifiers_const
+Info: Nothing to build for C_Ref_ch02_TypeModifiers_extern
+Info: Nothing to build for C_Ref_ch02_TypeModifiers_registers
+Info: Nothing to build for C_Ref_ch02_TypeModifiers_static
+Info: Nothing to build for C_Ref_ch02_localVariables
+Info: Nothing to build for Factorial
+Info: Nothing to build for Learning
+Info: Nothing to build for Roots1
+Info: Nothing to build for RootsoftheEquation
+Info: Nothing to build for C_Ref_Ch03_Statements_If_Else
+20:47:30 **** Incremental Build of configuration Debug for project C_Ref_Ch03_Statements_If_Else ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\C_Ref_Ch03_Statements_If_Else.o" "..\\src\\C_Ref_Ch03_Statements_If_Else.c" 
+..\src\C_Ref_Ch03_Statements_If_Else.c: In function 'main':
+..\src\C_Ref_Ch03_Statements_If_Else.c:27:2: warning: format '%f' expects argument of type 'double', but argument 2 has type 'float *' [-Wformat]
+gcc -o C_Ref_Ch03_Statements_If_Else.exe "src\\C_Ref_Ch03_Statements_If_Else.o" 
+c:/flex windows/gcc/bin/../lib/gcc/mingw32/4.7.2/../../../../mingw32/bin/ld.exe: cannot open output file C_Ref_Ch03_Statements_If_Else.exe: Permission denied
+collect2.exe: error: ld returned 1 exit status
+Info: Nothing to build for C_Ref_ch02_Expressions_Casts
+Info: Nothing to build for C_Ref_ch02_LV_Ex2
+Info: Nothing to build for C_Ref_ch02_Operators_BitwiseOperation
+Info: Nothing to build for C_Ref_ch02_Operators_PointersEg
+Info: Nothing to build for C_Ref_ch02_Operators_RelationalOperators
+Info: Nothing to build for C_Ref_ch02_TypeModifiers_const
+Info: Nothing to build for C_Ref_ch02_TypeModifiers_extern
+Info: Nothing to build for C_Ref_ch02_TypeModifiers_registers
+Info: Nothing to build for C_Ref_ch02_TypeModifiers_static
+Info: Nothing to build for C_Ref_ch02_localVariables
+Info: Nothing to build for Factorial
+Info: Nothing to build for Learning
+Info: Nothing to build for Roots1
+Info: Nothing to build for RootsoftheEquation
+20:47:32 **** Incremental Build of configuration Debug for project C_Ref_Ch03_Statements_If_Else ****
+Info: Internal Builder is used for build
+gcc -o C_Ref_Ch03_Statements_If_Else.exe "src\\C_Ref_Ch03_Statements_If_Else.o" 
+c:/flex windows/gcc/bin/../lib/gcc/mingw32/4.7.2/../../../../mingw32/bin/ld.exe: cannot open output file C_Ref_Ch03_Statements_If_Else.exe: Permission denied
+collect2.exe: error: ld returned 1 exit status
+20:47:48 **** Incremental Build of configuration Debug for project C_Ref_Ch03_Statements_If_Else ****
+Info: Internal Builder is used for build
+gcc -o C_Ref_Ch03_Statements_If_Else.exe "src\\C_Ref_Ch03_Statements_If_Else.o" 
+Info: Nothing to build for C_Ref_ch02_Expressions_Casts
+Info: Nothing to build for C_Ref_ch02_LV_Ex2
+Info: Nothing to build for C_Ref_ch02_Operators_BitwiseOperation
+Info: Nothing to build for C_Ref_ch02_Operators_PointersEg
+Info: Nothing to build for C_Ref_ch02_Operators_RelationalOperators
+Info: Nothing to build for C_Ref_ch02_TypeModifiers_const
+Info: Nothing to build for C_Ref_ch02_TypeModifiers_extern
+Info: Nothing to build for C_Ref_ch02_TypeModifiers_registers
+Info: Nothing to build for C_Ref_ch02_TypeModifiers_static
+Info: Nothing to build for C_Ref_ch02_localVariables
+Info: Nothing to build for Factorial
+Info: Nothing to build for Learning
+Info: Nothing to build for Roots1
+Info: Nothing to build for RootsoftheEquation
+Info: Nothing to build for C_Ref_Ch03_Statements_If_Else
+20:55:06 **** Incremental Build of configuration Debug for project C_Ref_Ch03_Statements_If_Else ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\C_Ref_Ch03_Statements_If_Else.o" "..\\src\\C_Ref_Ch03_Statements_If_Else.c" 
+..\src\C_Ref_Ch03_Statements_If_Else.c:15:7: warning: return type of 'main' is not 'int' [-Wmain]
+..\src\C_Ref_Ch03_Statements_If_Else.c: In function 'main':
+..\src\C_Ref_Ch03_Statements_If_Else.c:27:2: warning: format '%f' expects argument of type 'double', but argument 2 has type 'float *' [-Wformat]
+..\src\C_Ref_Ch03_Statements_If_Else.c:31:2: warning: format '%d' expects argument of type 'int', but argument 2 has type 'double' [-Wformat]
+gcc -o C_Ref_Ch03_Statements_If_Else.exe "src\\C_Ref_Ch03_Statements_If_Else.o" 
+c:/flex windows/gcc/bin/../lib/gcc/mingw32/4.7.2/../../../../mingw32/bin/ld.exe: cannot open output file C_Ref_Ch03_Statements_If_Else.exe: Permission denied
+collect2.exe: error: ld returned 1 exit status
+20:55:46 **** Incremental Build of configuration Debug for project C_Ref_Ch03_Statements_If_Else ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\C_Ref_Ch03_Statements_If_Else.o" "..\\src\\C_Ref_Ch03_Statements_If_Else.c" 
+..\src\C_Ref_Ch03_Statements_If_Else.c: In function 'main':
+..\src\C_Ref_Ch03_Statements_If_Else.c:27:2: warning: format '%f' expects argument of type 'double', but argument 2 has type 'float *' [-Wformat]
+..\src\C_Ref_Ch03_Statements_If_Else.c:31:2: warning: format '%d' expects argument of type 'int', but argument 2 has type 'double' [-Wformat]
+gcc -o C_Ref_Ch03_Statements_If_Else.exe "src\\C_Ref_Ch03_Statements_If_Else.o" 
+c:/flex windows/gcc/bin/../lib/gcc/mingw32/4.7.2/../../../../mingw32/bin/ld.exe: cannot open output file C_Ref_Ch03_Statements_If_Else.exe: Permission denied
+collect2.exe: error: ld returned 1 exit status
+21:11:48 **** Incremental Build of configuration Debug for project C_Ref_Ch03_Statements_If_Else ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\C_Ref_Ch03_Statements_If_Else.o" "..\\src\\C_Ref_Ch03_Statements_If_Else.c" 
+gcc -o C_Ref_Ch03_Statements_If_Else.exe "src\\C_Ref_Ch03_Statements_If_Else.o" 
+c:/flex windows/gcc/bin/../lib/gcc/mingw32/4.7.2/../../../../mingw32/bin/ld.exe: cannot open output file C_Ref_Ch03_Statements_If_Else.exe: Permission denied
+collect2.exe: error: ld returned 1 exit status
+21:12:02 **** Incremental Build of configuration Debug for project C_Ref_Ch03_Statements_If_Else ****
+Info: Internal Builder is used for build
+gcc -o C_Ref_Ch03_Statements_If_Else.exe "src\\C_Ref_Ch03_Statements_If_Else.o" 
+Info: Nothing to build for C_Ref_ch02_Expressions_Casts
+Info: Nothing to build for C_Ref_ch02_LV_Ex2
+Info: Nothing to build for C_Ref_ch02_Operators_BitwiseOperation
+Info: Nothing to build for C_Ref_ch02_Operators_PointersEg
+Info: Nothing to build for C_Ref_ch02_Operators_RelationalOperators
+Info: Nothing to build for C_Ref_ch02_TypeModifiers_const
+Info: Nothing to build for C_Ref_ch02_TypeModifiers_extern
+Info: Nothing to build for C_Ref_ch02_TypeModifiers_registers
+Info: Nothing to build for C_Ref_ch02_TypeModifiers_static
+Info: Nothing to build for C_Ref_ch02_localVariables
+Info: Nothing to build for Factorial
+Info: Nothing to build for Learning
+Info: Nothing to build for Roots1
+Info: Nothing to build for RootsoftheEquation
+Info: Nothing to build for C_Ref_Ch03_Statements_If_Else
+21:12:36 **** Incremental Build of configuration Debug for project C_Ref_Ch03_Statements_If_Else ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\C_Ref_Ch03_Statements_If_Else.o" "..\\src\\C_Ref_Ch03_Statements_If_Else.c" 
+gcc -o C_Ref_Ch03_Statements_If_Else.exe "src\\C_Ref_Ch03_Statements_If_Else.o" 
+Info: Nothing to build for C_Ref_Ch03_Statements_If_Else
+Info: Nothing to build for C_Ref_Ch03_Statements_If_Else
+Info: Nothing to build for C_Ref_Ch03_Statements_If_Else
+23:18:22 **** Rebuild of configuration Debug for project C_Ref_Ch03_Statements_If_Else2 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\C_Ref_Ch03_Statements_If_Else2.o" "..\\src\\C_Ref_Ch03_Statements_If_Else2.c" 
+gcc -o C_Ref_Ch03_Statements_If_Else2.exe "src\\C_Ref_Ch03_Statements_If_Else2.o" 
+Info: Nothing to build for C_Ref_ch02_Expressions_Casts
+Info: Nothing to build for C_Ref_ch02_LV_Ex2
+Info: Nothing to build for C_Ref_ch02_Operators_BitwiseOperation
+Info: Nothing to build for C_Ref_ch02_Operators_PointersEg
+Info: Nothing to build for C_Ref_ch02_Operators_RelationalOperators
+Info: Nothing to build for C_Ref_ch02_TypeModifiers_const
+Info: Nothing to build for C_Ref_ch02_TypeModifiers_extern
+Info: Nothing to build for C_Ref_ch02_TypeModifiers_registers
+Info: Nothing to build for C_Ref_ch02_TypeModifiers_static
+Info: Nothing to build for C_Ref_ch02_localVariables
+Info: Nothing to build for Factorial
+Info: Nothing to build for Learning
+Info: Nothing to build for Roots1
+Info: Nothing to build for RootsoftheEquation
+Info: Nothing to build for C_Ref_Ch03_Statements_If_Else2
+23:19:31 **** Incremental Build of configuration Debug for project C_Ref_Ch03_Statements_If_Else ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\C_Ref_Ch03_Statements_If_Else.o" "..\\src\\C_Ref_Ch03_Statements_If_Else.c" 
+gcc -o C_Ref_Ch03_Statements_If_Else.exe "src\\C_Ref_Ch03_Statements_If_Else.o" 
+23:19:31 **** Incremental Build of configuration Debug for project C_Ref_Ch03_Statements_If_Else2 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\C_Ref_Ch03_Statements_If_Else2.o" "..\\src\\C_Ref_Ch03_Statements_If_Else2.c" 
+gcc -o C_Ref_Ch03_Statements_If_Else2.exe "src\\C_Ref_Ch03_Statements_If_Else2.o" 
+c:/flex windows/gcc/bin/../lib/gcc/mingw32/4.7.2/../../../../mingw32/bin/ld.exe: cannot open output file C_Ref_Ch03_Statements_If_Else2.exe: Permission denied
+collect2.exe: error: ld returned 1 exit status
+Info: Nothing to build for C_Ref_ch02_Expressions_Casts
+Info: Nothing to build for C_Ref_ch02_LV_Ex2
+Info: Nothing to build for C_Ref_ch02_Operators_BitwiseOperation
+Info: Nothing to build for C_Ref_ch02_Operators_PointersEg
+Info: Nothing to build for C_Ref_ch02_Operators_RelationalOperators
+Info: Nothing to build for C_Ref_ch02_TypeModifiers_const
+Info: Nothing to build for C_Ref_ch02_TypeModifiers_extern
+Info: Nothing to build for C_Ref_ch02_TypeModifiers_registers
+Info: Nothing to build for C_Ref_ch02_TypeModifiers_static
+Info: Nothing to build for C_Ref_ch02_localVariables
+Info: Nothing to build for Factorial
+Info: Nothing to build for Learning
+Info: Nothing to build for Roots1
+Info: Nothing to build for RootsoftheEquation
+23:19:33 **** Incremental Build of configuration Debug for project C_Ref_Ch03_Statements_If_Else2 ****
+Info: Internal Builder is used for build
+gcc -o C_Ref_Ch03_Statements_If_Else2.exe "src\\C_Ref_Ch03_Statements_If_Else2.o" 
+c:/flex windows/gcc/bin/../lib/gcc/mingw32/4.7.2/../../../../mingw32/bin/ld.exe: cannot open output file C_Ref_Ch03_Statements_If_Else2.exe: Permission denied
+collect2.exe: error: ld returned 1 exit status
+Info: Nothing to build for C_Ref_Ch03_Statements_If_Else
+23:19:50 **** Incremental Build of configuration Debug for project C_Ref_Ch03_Statements_If_Else2 ****
+Info: Internal Builder is used for build
+gcc -o C_Ref_Ch03_Statements_If_Else2.exe "src\\C_Ref_Ch03_Statements_If_Else2.o" 
+Info: Nothing to build for C_Ref_ch02_Expressions_Casts
+Info: Nothing to build for C_Ref_ch02_LV_Ex2
+Info: Nothing to build for C_Ref_ch02_Operators_BitwiseOperation
+Info: Nothing to build for C_Ref_ch02_Operators_PointersEg
+Info: Nothing to build for C_Ref_ch02_Operators_RelationalOperators
+Info: Nothing to build for C_Ref_ch02_TypeModifiers_const
+Info: Nothing to build for C_Ref_ch02_TypeModifiers_extern
+Info: Nothing to build for C_Ref_ch02_TypeModifiers_registers
+Info: Nothing to build for C_Ref_ch02_TypeModifiers_static
+Info: Nothing to build for C_Ref_ch02_localVariables
+Info: Nothing to build for Factorial
+Info: Nothing to build for Learning
+Info: Nothing to build for Roots1
+Info: Nothing to build for RootsoftheEquation
+Info: Nothing to build for C_Ref_Ch03_Statements_If_Else2
+23:46:38 **** Incremental Build of configuration Debug for project C_Ref_Ch03_Statements_If_Else ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\C_Ref_Ch03_Statements_If_Else.o" "..\\src\\C_Ref_Ch03_Statements_If_Else.c" 
+..\src\C_Ref_Ch03_Statements_If_Else.c: In function 'main':
+..\src\C_Ref_Ch03_Statements_If_Else.c:27:2: warning: format '%d' expects argument of type 'int', but argument 2 has type 'double' [-Wformat]
+..\src\C_Ref_Ch03_Statements_If_Else.c:32:3: warning: format '%d' expects argument of type 'int', but argument 2 has type 'double' [-Wformat]
+..\src\C_Ref_Ch03_Statements_If_Else.c:33:3: warning: format '%d' expects argument of type 'int', but argument 2 has type 'double' [-Wformat]
+gcc -o C_Ref_Ch03_Statements_If_Else.exe "src\\C_Ref_Ch03_Statements_If_Else.o" 
+Info: Nothing to build for C_Ref_Ch03_Statements_If_Else2
+Info: Nothing to build for C_Ref_ch02_Expressions_Casts
+Info: Nothing to build for C_Ref_ch02_LV_Ex2
+Info: Nothing to build for C_Ref_ch02_Operators_BitwiseOperation
+Info: Nothing to build for C_Ref_ch02_Operators_PointersEg
+Info: Nothing to build for C_Ref_ch02_Operators_RelationalOperators
+Info: Nothing to build for C_Ref_ch02_TypeModifiers_const
+Info: Nothing to build for C_Ref_ch02_TypeModifiers_extern
+Info: Nothing to build for C_Ref_ch02_TypeModifiers_registers
+Info: Nothing to build for C_Ref_ch02_TypeModifiers_static
+Info: Nothing to build for C_Ref_ch02_localVariables
+Info: Nothing to build for Factorial
+Info: Nothing to build for Learning
+Info: Nothing to build for Roots1
+Info: Nothing to build for RootsoftheEquation
+Info: Nothing to build for C_Ref_Ch03_Statements_If_Else
+23:47:15 **** Incremental Build of configuration Debug for project C_Ref_Ch03_Statements_If_Else ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\C_Ref_Ch03_Statements_If_Else.o" "..\\src\\C_Ref_Ch03_Statements_If_Else.c" 
+..\src\C_Ref_Ch03_Statements_If_Else.c: In function 'main':
+..\src\C_Ref_Ch03_Statements_If_Else.c:32:3: warning: format '%d' expects argument of type 'int', but argument 2 has type 'double' [-Wformat]
+..\src\C_Ref_Ch03_Statements_If_Else.c:33:3: warning: format '%d' expects argument of type 'int', but argument 2 has type 'double' [-Wformat]
+gcc -o C_Ref_Ch03_Statements_If_Else.exe "src\\C_Ref_Ch03_Statements_If_Else.o" 
+c:/flex windows/gcc/bin/../lib/gcc/mingw32/4.7.2/../../../../mingw32/bin/ld.exe: cannot open output file C_Ref_Ch03_Statements_If_Else.exe: Permission denied
+collect2.exe: error: ld returned 1 exit status
+23:47:34 **** Incremental Build of configuration Debug for project C_Ref_Ch03_Statements_If_Else ****
+Info: Internal Builder is used for build
+gcc -o C_Ref_Ch03_Statements_If_Else.exe "src\\C_Ref_Ch03_Statements_If_Else.o" 
+23:48:56 **** Incremental Build of configuration Debug for project C_Ref_Ch03_Statements_If_Else ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\C_Ref_Ch03_Statements_If_Else.o" "..\\src\\C_Ref_Ch03_Statements_If_Else.c" 
+..\src\C_Ref_Ch03_Statements_If_Else.c: In function 'main':
+..\src\C_Ref_Ch03_Statements_If_Else.c:32:3: warning: format '%d' expects argument of type 'int', but argument 2 has type 'double' [-Wformat]
+..\src\C_Ref_Ch03_Statements_If_Else.c:33:3: warning: format '%d' expects argument of type 'int', but argument 2 has type 'double' [-Wformat]
+gcc -o C_Ref_Ch03_Statements_If_Else.exe "src\\C_Ref_Ch03_Statements_If_Else.o" 
+c:/flex windows/gcc/bin/../lib/gcc/mingw32/4.7.2/../../../../mingw32/bin/ld.exe: cannot open output file C_Ref_Ch03_Statements_If_Else.exe: Permission denied
+collect2.exe: error: ld returned 1 exit status
+Info: Nothing to build for C_Ref_Ch03_Statements_If_Else2
+Info: Nothing to build for C_Ref_ch02_Expressions_Casts
+Info: Nothing to build for C_Ref_ch02_LV_Ex2
+Info: Nothing to build for C_Ref_ch02_Operators_BitwiseOperation
+Info: Nothing to build for C_Ref_ch02_Operators_PointersEg
+Info: Nothing to build for C_Ref_ch02_Operators_RelationalOperators
+Info: Nothing to build for C_Ref_ch02_TypeModifiers_const
+Info: Nothing to build for C_Ref_ch02_TypeModifiers_extern
+Info: Nothing to build for C_Ref_ch02_TypeModifiers_registers
+Info: Nothing to build for C_Ref_ch02_TypeModifiers_static
+Info: Nothing to build for C_Ref_ch02_localVariables
+Info: Nothing to build for Factorial
+Info: Nothing to build for Learning
+Info: Nothing to build for Roots1
+Info: Nothing to build for RootsoftheEquation
+23:48:59 **** Incremental Build of configuration Debug for project C_Ref_Ch03_Statements_If_Else ****
+Info: Internal Builder is used for build
+gcc -o C_Ref_Ch03_Statements_If_Else.exe "src\\C_Ref_Ch03_Statements_If_Else.o" 
+c:/flex windows/gcc/bin/../lib/gcc/mingw32/4.7.2/../../../../mingw32/bin/ld.exe: cannot open output file C_Ref_Ch03_Statements_If_Else.exe: Permission denied
+collect2.exe: error: ld returned 1 exit status
+23:49:13 **** Incremental Build of configuration Debug for project C_Ref_Ch03_Statements_If_Else ****
+Info: Internal Builder is used for build
+gcc -o C_Ref_Ch03_Statements_If_Else.exe "src\\C_Ref_Ch03_Statements_If_Else.o" 
+Info: Nothing to build for C_Ref_Ch03_Statements_If_Else
+23:51:24 **** Incremental Build of configuration Debug for project C_Ref_Ch03_Statements_If_Else ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\C_Ref_Ch03_Statements_If_Else.o" "..\\src\\C_Ref_Ch03_Statements_If_Else.c" 
+..\src\C_Ref_Ch03_Statements_If_Else.c: In function 'main':
+..\src\C_Ref_Ch03_Statements_If_Else.c:32:3: warning: format '%d' expects argument of type 'int', but argument 2 has type 'double' [-Wformat]
+..\src\C_Ref_Ch03_Statements_If_Else.c:33:3: warning: format '%d' expects argument of type 'int', but argument 2 has type 'double' [-Wformat]
+..\src\C_Ref_Ch03_Statements_If_Else.c:36:2: warning: format '%d' expects argument of type 'int', but argument 2 has type 'double' [-Wformat]
+gcc -o C_Ref_Ch03_Statements_If_Else.exe "src\\C_Ref_Ch03_Statements_If_Else.o" 
+c:/flex windows/gcc/bin/../lib/gcc/mingw32/4.7.2/../../../../mingw32/bin/ld.exe: cannot open output file C_Ref_Ch03_Statements_If_Else.exe: Permission denied
+collect2.exe: error: ld returned 1 exit status
+23:51:39 **** Incremental Build of configuration Debug for project C_Ref_Ch03_Statements_If_Else ****
+Info: Internal Builder is used for build
+gcc -o C_Ref_Ch03_Statements_If_Else.exe "src\\C_Ref_Ch03_Statements_If_Else.o" 
+23:52:24 **** Incremental Build of configuration Debug for project C_Ref_Ch03_Statements_If_Else ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\C_Ref_Ch03_Statements_If_Else.o" "..\\src\\C_Ref_Ch03_Statements_If_Else.c" 
+gcc -o C_Ref_Ch03_Statements_If_Else.exe "src\\C_Ref_Ch03_Statements_If_Else.o" 
+c:/flex windows/gcc/bin/../lib/gcc/mingw32/4.7.2/../../../../mingw32/bin/ld.exe: cannot open output file C_Ref_Ch03_Statements_If_Else.exe: Permission denied
+collect2.exe: error: ld returned 1 exit status
+23:52:39 **** Incremental Build of configuration Debug for project C_Ref_Ch03_Statements_If_Else ****
+Info: Internal Builder is used for build
+gcc -o C_Ref_Ch03_Statements_If_Else.exe "src\\C_Ref_Ch03_Statements_If_Else.o" 
+00:26:40 **** Incremental Build of configuration Debug for project C_Ref_Ch03_Statements_If_Else ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\C_Ref_Ch03_Statements_If_Else.o" "..\\src\\C_Ref_Ch03_Statements_If_Else.c" 
+..\src\C_Ref_Ch03_Statements_If_Else.c: In function 'main':
+..\src\C_Ref_Ch03_Statements_If_Else.c:36:2: warning: format '%d' expects argument of type 'int', but argument 2 has type 'double' [-Wformat]
+gcc -o C_Ref_Ch03_Statements_If_Else.exe "src\\C_Ref_Ch03_Statements_If_Else.o" 
+Info: Nothing to build for C_Ref_Ch03_Statements_If_Else2
+Info: Nothing to build for C_Ref_ch02_Expressions_Casts
+Info: Nothing to build for C_Ref_ch02_LV_Ex2
+Info: Nothing to build for C_Ref_ch02_Operators_BitwiseOperation
+Info: Nothing to build for C_Ref_ch02_Operators_PointersEg
+Info: Nothing to build for C_Ref_ch02_Operators_RelationalOperators
+Info: Nothing to build for C_Ref_ch02_TypeModifiers_const
+Info: Nothing to build for C_Ref_ch02_TypeModifiers_extern
+Info: Nothing to build for C_Ref_ch02_TypeModifiers_registers
+Info: Nothing to build for C_Ref_ch02_TypeModifiers_static
+Info: Nothing to build for C_Ref_ch02_localVariables
+Info: Nothing to build for Factorial
+Info: Nothing to build for Learning
+Info: Nothing to build for Roots1
+Info: Nothing to build for RootsoftheEquation
+Info: Nothing to build for C_Ref_Ch03_Statements_If_Else
+00:27:09 **** Incremental Build of configuration Debug for project C_Ref_Ch03_Statements_If_Else ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\C_Ref_Ch03_Statements_If_Else.o" "..\\src\\C_Ref_Ch03_Statements_If_Else.c" 
+gcc -o C_Ref_Ch03_Statements_If_Else.exe "src\\C_Ref_Ch03_Statements_If_Else.o" 
+c:/flex windows/gcc/bin/../lib/gcc/mingw32/4.7.2/../../../../mingw32/bin/ld.exe: cannot open output file C_Ref_Ch03_Statements_If_Else.exe: Permission denied
+collect2.exe: error: ld returned 1 exit status
+00:27:24 **** Incremental Build of configuration Debug for project C_Ref_Ch03_Statements_If_Else ****
+Info: Internal Builder is used for build
+gcc -o C_Ref_Ch03_Statements_If_Else.exe "src\\C_Ref_Ch03_Statements_If_Else.o" 
+Info: Nothing to build for C_Ref_Ch03_Statements_If_Else
+Info: Nothing to build for C_Ref_Ch03_Statements_If_Else2
+19:32:59 **** Rebuild of configuration Debug for project C_Ref_Ch03_Statements_TernaryOperator1 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\C_Ref_Ch03_Statements_TernaryOperator.o" "..\\src\\C_Ref_Ch03_Statements_TernaryOperator.c" 
+gcc -o C_Ref_Ch03_Statements_TernaryOperator1.exe "src\\C_Ref_Ch03_Statements_TernaryOperator.o" 
+Info: Nothing to build for C_Ref_ch02_Expressions_Casts
+Info: Nothing to build for C_Ref_ch02_LV_Ex2
+Info: Nothing to build for C_Ref_ch02_Operators_BitwiseOperation
+Info: Nothing to build for C_Ref_ch02_Operators_PointersEg
+Info: Nothing to build for C_Ref_ch02_Operators_RelationalOperators
+Info: Nothing to build for C_Ref_ch02_TypeModifiers_const
+Info: Nothing to build for C_Ref_ch02_TypeModifiers_extern
+Info: Nothing to build for C_Ref_ch02_TypeModifiers_registers
+Info: Nothing to build for C_Ref_ch02_TypeModifiers_static
+Info: Nothing to build for C_Ref_ch02_localVariables
+Info: Nothing to build for Factorial
+Info: Nothing to build for Learning
+Info: Nothing to build for Roots1
+Info: Nothing to build for RootsoftheEquation
+Info: Nothing to build for C_Ref_Ch03_Statements_TernaryOperator1
+Info: Nothing to build for C_Ref_Ch03_Statements_If_Else
+Info: Nothing to build for C_Ref_Ch03_Statements_If_Else2
+Info: Nothing to build for C_Ref_Ch03_Statements_TernaryOperator1
+Info: Nothing to build for C_Ref_ch02_Expressions_Casts
+Info: Nothing to build for C_Ref_ch02_LV_Ex2
+Info: Nothing to build for C_Ref_ch02_Operators_BitwiseOperation
+Info: Nothing to build for C_Ref_ch02_Operators_PointersEg
+Info: Nothing to build for C_Ref_ch02_Operators_RelationalOperators
+Info: Nothing to build for C_Ref_ch02_TypeModifiers_const
+Info: Nothing to build for C_Ref_ch02_TypeModifiers_extern
+Info: Nothing to build for C_Ref_ch02_TypeModifiers_registers
+Info: Nothing to build for C_Ref_ch02_TypeModifiers_static
+Info: Nothing to build for C_Ref_ch02_localVariables
+Info: Nothing to build for Factorial
+Info: Nothing to build for Learning
+Info: Nothing to build for Roots1
+Info: Nothing to build for RootsoftheEquation
+19:33:19 **** Incremental Build of configuration Debug for project C_Ref_Ch03_Statements_TernaryOperator1 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\C_Ref_Ch03_Statements_TernaryOperator.o" "..\\src\\C_Ref_Ch03_Statements_TernaryOperator.c" 
+gcc -o C_Ref_Ch03_Statements_TernaryOperator1.exe "src\\C_Ref_Ch03_Statements_TernaryOperator.o" 
+c:/flex windows/gcc/bin/../lib/gcc/mingw32/4.7.2/../../../../mingw32/bin/ld.exe: cannot open output file C_Ref_Ch03_Statements_TernaryOperator1.exe: Permission denied
+collect2.exe: error: ld returned 1 exit status
+19:33:38 **** Incremental Build of configuration Debug for project C_Ref_Ch03_Statements_TernaryOperator1 ****
+Info: Internal Builder is used for build
+gcc -o C_Ref_Ch03_Statements_TernaryOperator1.exe "src\\C_Ref_Ch03_Statements_TernaryOperator.o" 
+19:33:50 **** Incremental Build of configuration Debug for project C_Ref_Ch03_Statements_TernaryOperator1 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\C_Ref_Ch03_Statements_TernaryOperator.o" "..\\src\\C_Ref_Ch03_Statements_TernaryOperator.c" 
+gcc -o C_Ref_Ch03_Statements_TernaryOperator1.exe "src\\C_Ref_Ch03_Statements_TernaryOperator.o" 
+c:/flex windows/gcc/bin/../lib/gcc/mingw32/4.7.2/../../../../mingw32/bin/ld.exe: cannot open output file C_Ref_Ch03_Statements_TernaryOperator1.exe: Permission denied
+collect2.exe: error: ld returned 1 exit status
+19:34:03 **** Incremental Build of configuration Debug for project C_Ref_Ch03_Statements_TernaryOperator1 ****
+Info: Internal Builder is used for build
+gcc -o C_Ref_Ch03_Statements_TernaryOperator1.exe "src\\C_Ref_Ch03_Statements_TernaryOperator.o" 
+19:34:36 **** Incremental Build of configuration Debug for project C_Ref_Ch03_Statements_TernaryOperator1 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\C_Ref_Ch03_Statements_TernaryOperator.o" "..\\src\\C_Ref_Ch03_Statements_TernaryOperator.c" 
+gcc -o C_Ref_Ch03_Statements_TernaryOperator1.exe "src\\C_Ref_Ch03_Statements_TernaryOperator.o" 
+Info: Nothing to build for C_Ref_Ch03_Statements_TernaryOperator1
+Info: Nothing to build for C_Ref_Ch03_Statements_TernaryOperator1
+Info: Nothing to build for C_Ref_Ch03_Statements_TernaryOperator1
+Info: Nothing to build for C_Ref_Ch03_Statements_If_Else
+Info: Nothing to build for C_Ref_Ch03_Statements_If_Else2
+Info: Nothing to build for C_Ref_Ch03_Statements_TernaryOperator1
+19:41:38 **** Rebuild of configuration Debug for project C_Ref_Ch03_Statements_TernaryOperator2 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\C_Ref_Ch03_Statements_TernaryOperator2.o" "..\\src\\C_Ref_Ch03_Statements_TernaryOperator2.c" 
+gcc -o C_Ref_Ch03_Statements_TernaryOperator2.exe "src\\C_Ref_Ch03_Statements_TernaryOperator2.o" 
+Info: Nothing to build for C_Ref_ch02_Expressions_Casts
+Info: Nothing to build for C_Ref_ch02_LV_Ex2
+Info: Nothing to build for C_Ref_ch02_Operators_BitwiseOperation
+Info: Nothing to build for C_Ref_ch02_Operators_PointersEg
+Info: Nothing to build for C_Ref_ch02_Operators_RelationalOperators
+Info: Nothing to build for C_Ref_ch02_TypeModifiers_const
+Info: Nothing to build for C_Ref_ch02_TypeModifiers_extern
+Info: Nothing to build for C_Ref_ch02_TypeModifiers_registers
+Info: Nothing to build for C_Ref_ch02_TypeModifiers_static
+Info: Nothing to build for C_Ref_ch02_localVariables
+Info: Nothing to build for Factorial
+Info: Nothing to build for Learning
+Info: Nothing to build for Roots1
+Info: Nothing to build for RootsoftheEquation
+Info: Nothing to build for C_Ref_Ch03_Statements_TernaryOperator2
+19:42:02 **** Incremental Build of configuration Debug for project C_Ref_Ch03_Statements_TernaryOperator2 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\C_Ref_Ch03_Statements_TernaryOperator2.o" "..\\src\\C_Ref_Ch03_Statements_TernaryOperator2.c" 
+gcc -o C_Ref_Ch03_Statements_TernaryOperator2.exe "src\\C_Ref_Ch03_Statements_TernaryOperator2.o" 
+Info: Nothing to build for C_Ref_Ch03_Statements_TernaryOperator2
+Info: Nothing to build for C_Ref_Ch03_Statements_If_Else
+Info: Nothing to build for C_Ref_Ch03_Statements_If_Else2
+20:16:14 **** Rebuild of configuration Debug for project C_Ref_Ch03_Statements_MagicNumber_TernaryOperator ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\C_Ref_Ch03_Statements_MagicNumber_TernaryOperator.o" "..\\src\\C_Ref_Ch03_Statements_MagicNumber_TernaryOperator.c" 
+..\src\C_Ref_Ch03_Statements_MagicNumber_TernaryOperator.c: In function 'main':
+..\src\C_Ref_Ch03_Statements_MagicNumber_TernaryOperator.c:18:2: warning: format '%f' expects argument of type 'float *', but argument 2 has type 'int *' [-Wformat]
+..\src\C_Ref_Ch03_Statements_MagicNumber_TernaryOperator.c:19:2: warning: implicit declaration of function 'time' [-Wimplicit-function-declaration]
+..\src\C_Ref_Ch03_Statements_MagicNumber_TernaryOperator.c:16:6: warning: variable 'magic' set but not used [-Wunused-but-set-variable]
+gcc -o C_Ref_Ch03_Statements_MagicNumber_TernaryOperator.exe "src\\C_Ref_Ch03_Statements_MagicNumber_TernaryOperator.o" 
+20:16:15 **** Incremental Build of configuration Debug for project C_Ref_Ch03_Statements_TernaryOperator1 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\C_Ref_Ch03_Statements_TernaryOperator.o" "..\\src\\C_Ref_Ch03_Statements_TernaryOperator.c" 
+gcc -o C_Ref_Ch03_Statements_TernaryOperator1.exe "src\\C_Ref_Ch03_Statements_TernaryOperator.o" 
+Info: Nothing to build for C_Ref_Ch03_Statements_TernaryOperator2
+Info: Nothing to build for C_Ref_ch02_Expressions_Casts
+Info: Nothing to build for C_Ref_ch02_LV_Ex2
+Info: Nothing to build for C_Ref_ch02_Operators_BitwiseOperation
+Info: Nothing to build for C_Ref_ch02_Operators_PointersEg
+Info: Nothing to build for C_Ref_ch02_Operators_RelationalOperators
+Info: Nothing to build for C_Ref_ch02_TypeModifiers_const
+Info: Nothing to build for C_Ref_ch02_TypeModifiers_extern
+Info: Nothing to build for C_Ref_ch02_TypeModifiers_registers
+Info: Nothing to build for C_Ref_ch02_TypeModifiers_static
+Info: Nothing to build for C_Ref_ch02_localVariables
+Info: Nothing to build for Factorial
+Info: Nothing to build for Learning
+Info: Nothing to build for Roots1
+Info: Nothing to build for RootsoftheEquation
+Info: Nothing to build for C_Ref_Ch03_Statements_MagicNumber_TernaryOperator
+Info: Nothing to build for C_Ref_Ch03_Statements_If_Else
+Info: Nothing to build for C_Ref_Ch03_Statements_If_Else2
+20:16:40 **** Incremental Build of configuration Debug for project C_Ref_Ch03_Statements_MagicNumber_TernaryOperator ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\C_Ref_Ch03_Statements_MagicNumber_TernaryOperator.o" "..\\src\\C_Ref_Ch03_Statements_MagicNumber_TernaryOperator.c" 
+..\src\C_Ref_Ch03_Statements_MagicNumber_TernaryOperator.c: In function 'main':
+..\src\C_Ref_Ch03_Statements_MagicNumber_TernaryOperator.c:19:2: warning: implicit declaration of function 'time' [-Wimplicit-function-declaration]
+..\src\C_Ref_Ch03_Statements_MagicNumber_TernaryOperator.c:16:6: warning: variable 'magic' set but not used [-Wunused-but-set-variable]
+gcc -o C_Ref_Ch03_Statements_MagicNumber_TernaryOperator.exe "src\\C_Ref_Ch03_Statements_MagicNumber_TernaryOperator.o" 
+Info: Nothing to build for C_Ref_Ch03_Statements_TernaryOperator1
+20:16:41 **** Incremental Build of configuration Debug for project C_Ref_Ch03_Statements_TernaryOperator2 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\C_Ref_Ch03_Statements_TernaryOperator2.o" "..\\src\\C_Ref_Ch03_Statements_TernaryOperator2.c" 
+gcc -o C_Ref_Ch03_Statements_TernaryOperator2.exe "src\\C_Ref_Ch03_Statements_TernaryOperator2.o" 
+Info: Nothing to build for C_Ref_ch02_Expressions_Casts
+Info: Nothing to build for C_Ref_ch02_LV_Ex2
+Info: Nothing to build for C_Ref_ch02_Operators_BitwiseOperation
+Info: Nothing to build for C_Ref_ch02_Operators_PointersEg
+Info: Nothing to build for C_Ref_ch02_Operators_RelationalOperators
+Info: Nothing to build for C_Ref_ch02_TypeModifiers_const
+Info: Nothing to build for C_Ref_ch02_TypeModifiers_extern
+Info: Nothing to build for C_Ref_ch02_TypeModifiers_registers
+Info: Nothing to build for C_Ref_ch02_TypeModifiers_static
+Info: Nothing to build for C_Ref_ch02_localVariables
+Info: Nothing to build for Factorial
+Info: Nothing to build for Learning
+Info: Nothing to build for Roots1
+Info: Nothing to build for RootsoftheEquation
+Info: Nothing to build for C_Ref_Ch03_Statements_MagicNumber_TernaryOperator
+Info: Nothing to build for C_Ref_Ch03_Statements_MagicNumber_TernaryOperator
+Info: Nothing to build for C_Ref_Ch03_Statements_If_Else
+Info: Nothing to build for C_Ref_Ch03_Statements_If_Else2
+20:17:32 **** Incremental Build of configuration Debug for project C_Ref_Ch03_Statements_MagicNumber_TernaryOperator ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\C_Ref_Ch03_Statements_MagicNumber_TernaryOperator.o" "..\\src\\C_Ref_Ch03_Statements_MagicNumber_TernaryOperator.c" 
+..\src\C_Ref_Ch03_Statements_MagicNumber_TernaryOperator.c: In function 'main':
+..\src\C_Ref_Ch03_Statements_MagicNumber_TernaryOperator.c:19:2: warning: implicit declaration of function 'time' [-Wimplicit-function-declaration]
+gcc -o C_Ref_Ch03_Statements_MagicNumber_TernaryOperator.exe "src\\C_Ref_Ch03_Statements_MagicNumber_TernaryOperator.o" 
+Info: Nothing to build for C_Ref_Ch03_Statements_TernaryOperator1
+Info: Nothing to build for C_Ref_Ch03_Statements_TernaryOperator2
+Info: Nothing to build for C_Ref_ch02_Expressions_Casts
+Info: Nothing to build for C_Ref_ch02_LV_Ex2
+Info: Nothing to build for C_Ref_ch02_Operators_BitwiseOperation
+Info: Nothing to build for C_Ref_ch02_Operators_PointersEg
+Info: Nothing to build for C_Ref_ch02_Operators_RelationalOperators
+Info: Nothing to build for C_Ref_ch02_TypeModifiers_const
+Info: Nothing to build for C_Ref_ch02_TypeModifiers_extern
+Info: Nothing to build for C_Ref_ch02_TypeModifiers_registers
+Info: Nothing to build for C_Ref_ch02_TypeModifiers_static
+Info: Nothing to build for C_Ref_ch02_localVariables
+Info: Nothing to build for Factorial
+Info: Nothing to build for Learning
+Info: Nothing to build for Roots1
+Info: Nothing to build for RootsoftheEquation
+Info: Nothing to build for C_Ref_Ch03_Statements_MagicNumber_TernaryOperator
+20:19:20 **** Incremental Build of configuration Debug for project C_Ref_Ch03_Statements_MagicNumber_TernaryOperator ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\C_Ref_Ch03_Statements_MagicNumber_TernaryOperator.o" "..\\src\\C_Ref_Ch03_Statements_MagicNumber_TernaryOperator.c" 
+..\src\C_Ref_Ch03_Statements_MagicNumber_TernaryOperator.c: In function 'main':
+..\src\C_Ref_Ch03_Statements_MagicNumber_TernaryOperator.c:19:2: warning: implicit declaration of function 'time' [-Wimplicit-function-declaration]
+gcc -o C_Ref_Ch03_Statements_MagicNumber_TernaryOperator.exe "src\\C_Ref_Ch03_Statements_MagicNumber_TernaryOperator.o" 
+20:20:23 **** Incremental Build of configuration Debug for project C_Ref_Ch03_Statements_MagicNumber_TernaryOperator ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\C_Ref_Ch03_Statements_MagicNumber_TernaryOperator.o" "..\\src\\C_Ref_Ch03_Statements_MagicNumber_TernaryOperator.c" 
+..\src\C_Ref_Ch03_Statements_MagicNumber_TernaryOperator.c: In function 'main':
+..\src\C_Ref_Ch03_Statements_MagicNumber_TernaryOperator.c:23:3: warning: implicit declaration of function 'time' [-Wimplicit-function-declaration]
+gcc -o C_Ref_Ch03_Statements_MagicNumber_TernaryOperator.exe "src\\C_Ref_Ch03_Statements_MagicNumber_TernaryOperator.o" 
+20:20:47 **** Incremental Build of configuration Debug for project C_Ref_Ch03_Statements_MagicNumber_TernaryOperator ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\C_Ref_Ch03_Statements_MagicNumber_TernaryOperator.o" "..\\src\\C_Ref_Ch03_Statements_MagicNumber_TernaryOperator.c" 
+..\src\C_Ref_Ch03_Statements_MagicNumber_TernaryOperator.c: In function 'main':
+..\src\C_Ref_Ch03_Statements_MagicNumber_TernaryOperator.c:23:3: warning: implicit declaration of function 'time' [-Wimplicit-function-declaration]
+gcc -o C_Ref_Ch03_Statements_MagicNumber_TernaryOperator.exe "src\\C_Ref_Ch03_Statements_MagicNumber_TernaryOperator.o" 
+c:/flex windows/gcc/bin/../lib/gcc/mingw32/4.7.2/../../../../mingw32/bin/ld.exe: cannot open output file C_Ref_Ch03_Statements_MagicNumber_TernaryOperator.exe: Permission denied
+collect2.exe: error: ld returned 1 exit status
+20:21:03 **** Incremental Build of configuration Debug for project C_Ref_Ch03_Statements_MagicNumber_TernaryOperator ****
+Info: Internal Builder is used for build
+gcc -o C_Ref_Ch03_Statements_MagicNumber_TernaryOperator.exe "src\\C_Ref_Ch03_Statements_MagicNumber_TernaryOperator.o" 
+Info: Nothing to build for C_Ref_Ch03_Statements_If_Else
+Info: Nothing to build for C_Ref_Ch03_Statements_If_Else2
+Info: Nothing to build for C_Ref_Ch03_Statements_MagicNumber_TernaryOperator
+21:40:10 **** Rebuild of configuration Debug for project C_Ref_Ch03_Statements_MagicNumber_TheConditionalExpression ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\C_Ref_Ch03_Statements_MagicNumber_TheConditionalExpression.o" "..\\src\\C_Ref_Ch03_Statements_MagicNumber_TheConditionalExpression.c" 
+gcc -o C_Ref_Ch03_Statements_MagicNumber_TheConditionalExpression.exe "src\\C_Ref_Ch03_Statements_MagicNumber_TheConditionalExpression.o" 
+Info: Nothing to build for C_Ref_Ch03_Statements_TernaryOperator1
+Info: Nothing to build for C_Ref_Ch03_Statements_TernaryOperator2
+Info: Nothing to build for C_Ref_ch02_Expressions_Casts
+Info: Nothing to build for C_Ref_ch02_LV_Ex2
+Info: Nothing to build for C_Ref_ch02_Operators_BitwiseOperation
+Info: Nothing to build for C_Ref_ch02_Operators_PointersEg
+Info: Nothing to build for C_Ref_ch02_Operators_RelationalOperators
+Info: Nothing to build for C_Ref_ch02_TypeModifiers_const
+Info: Nothing to build for C_Ref_ch02_TypeModifiers_extern
+Info: Nothing to build for C_Ref_ch02_TypeModifiers_registers
+Info: Nothing to build for C_Ref_ch02_TypeModifiers_static
+Info: Nothing to build for C_Ref_ch02_localVariables
+Info: Nothing to build for Factorial
+Info: Nothing to build for Learning
+Info: Nothing to build for Roots1
+Info: Nothing to build for RootsoftheEquation
+21:40:13 **** Incremental Build of configuration Debug for project C_Ref_Ch03_Statements_MagicNumber_TheConditionalExpression ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\C_Ref_Ch03_Statements_MagicNumber_TheConditionalExpression.o" "..\\src\\C_Ref_Ch03_Statements_MagicNumber_TheConditionalExpression.c" 
+..\src\C_Ref_Ch03_Statements_MagicNumber_TheConditionalExpression.c: In function 'main':
+..\src\C_Ref_Ch03_Statements_MagicNumber_TheConditionalExpression.c:19:2: warning: too many arguments for format [-Wformat-extra-args]
+..\src\C_Ref_Ch03_Statements_MagicNumber_TheConditionalExpression.c:22:1: warning: control reaches end of non-void function [-Wreturn-type]
+gcc -o C_Ref_Ch03_Statements_MagicNumber_TheConditionalExpression.exe "src\\C_Ref_Ch03_Statements_MagicNumber_TheConditionalExpression.o" 
+21:40:40 **** Incremental Build of configuration Debug for project C_Ref_Ch03_Statements_MagicNumber_TheConditionalExpression ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\C_Ref_Ch03_Statements_MagicNumber_TheConditionalExpression.o" "..\\src\\C_Ref_Ch03_Statements_MagicNumber_TheConditionalExpression.c" 
+..\src\C_Ref_Ch03_Statements_MagicNumber_TheConditionalExpression.c: In function 'main':
+..\src\C_Ref_Ch03_Statements_MagicNumber_TheConditionalExpression.c:22:1: warning: control reaches end of non-void function [-Wreturn-type]
+gcc -o C_Ref_Ch03_Statements_MagicNumber_TheConditionalExpression.exe "src\\C_Ref_Ch03_Statements_MagicNumber_TheConditionalExpression.o" 
+01:05:21 **** Incremental Build of configuration Debug for project C_Ref_Ch03_Statements_If_Else2 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\C_Ref_Ch03_Statements_If_Else2.o" "..\\src\\C_Ref_Ch03_Statements_If_Else2.c" 
+..\src\C_Ref_Ch03_Statements_If_Else2.c: In function 'main':
+..\src\C_Ref_Ch03_Statements_If_Else2.c:22:1: error: 'for' loop initial declarations are only allowed in C99 mode
+..\src\C_Ref_Ch03_Statements_If_Else2.c:22:1: note: use option -std=c99 or -std=gnu99 to compile your code
+01:06:53 **** Incremental Build of configuration Debug for project C_Ref_Ch03_Statements_If_Else2 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0; -c -std=c99 -o "src\\C_Ref_Ch03_Statements_If_Else2.o" "..\\src\\C_Ref_Ch03_Statements_If_Else2.c" 
+gcc: error: argument to '-fmessage-length=' should be a non-negative integer
+Info: Nothing to build for C_Ref_Ch03_Statements_If_Else
+21:18:05 **** Incremental Build of configuration Debug for project C_Ref_Ch03_Statements_If_Else2 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0; -c -std=c99 -o "src\\C_Ref_Ch03_Statements_If_Else2.o" "..\\src\\C_Ref_Ch03_Statements_If_Else2.c" 
+gcc: error: argument to '-fmessage-length=' should be a non-negative integer
+Info: Nothing to build for C_Ref_Ch03_Statements_MagicNumber_TernaryOperator
+Info: Nothing to build for C_Ref_Ch03_Statements_MagicNumber_TheConditionalExpression
+21:18:05 **** Rebuild of configuration Debug for project C_Ref_Ch03_Statements_Switch ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\C_Ref_Ch03_Statements_Switch.o" "..\\src\\C_Ref_Ch03_Statements_Switch.c" 
+..\src\C_Ref_Ch03_Statements_Switch.c: In function 'main':
+..\src\C_Ref_Ch03_Statements_Switch.c:33:3: warning: implicit declaration of function 'check_spelling' [-Wimplicit-function-declaration]
+..\src\C_Ref_Ch03_Statements_Switch.c:37:3: warning: implicit declaration of function 'correct_spelling' [-Wimplicit-function-declaration]
+..\src\C_Ref_Ch03_Statements_Switch.c:41:3: warning: implicit declaration of function 'display_errors' [-Wimplicit-function-declaration]
+..\src\C_Ref_Ch03_Statements_Switch.c:50:1: warning: control reaches end of non-void function [-Wreturn-type]
+gcc -o C_Ref_Ch03_Statements_Switch.exe "src\\C_Ref_Ch03_Statements_Switch.o" 
+src\C_Ref_Ch03_Statements_Switch.o: In function `main':
+C:\Users\Salil\workspace\C_Ref_Ch03_Statements_Switch\Debug/../src/C_Ref_Ch03_Statements_Switch.c:33: undefined reference to `check_spelling'
+C:\Users\Salil\workspace\C_Ref_Ch03_Statements_Switch\Debug/../src/C_Ref_Ch03_Statements_Switch.c:37: undefined reference to `correct_spelling'
+C:\Users\Salil\workspace\C_Ref_Ch03_Statements_Switch\Debug/../src/C_Ref_Ch03_Statements_Switch.c:41: undefined reference to `display_errors'
+collect2.exe: error: ld returned 1 exit status
+Info: Nothing to build for C_Ref_Ch03_Statements_TernaryOperator1
+Info: Nothing to build for C_Ref_Ch03_Statements_TernaryOperator2
+Info: Nothing to build for C_Ref_ch02_Expressions_Casts
+Info: Nothing to build for C_Ref_ch02_LV_Ex2
+Info: Nothing to build for C_Ref_ch02_Operators_BitwiseOperation
+Info: Nothing to build for C_Ref_ch02_Operators_PointersEg
+Info: Nothing to build for C_Ref_ch02_Operators_RelationalOperators
+Info: Nothing to build for C_Ref_ch02_TypeModifiers_const
+21:18:08 **** Incremental Build of configuration Debug for project C_Ref_ch02_TypeModifiers_extern ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 add -std=c99 -ansi -o "src\\C_Ref_ch02_TypeModifiers_extern.o" "..\\src\\C_Ref_ch02_TypeModifiers_extern.c" 
+gcc: error: add: No such file or directory
+Info: Nothing to build for C_Ref_ch02_TypeModifiers_registers
+Info: Nothing to build for C_Ref_ch02_TypeModifiers_static
+Info: Nothing to build for C_Ref_ch02_localVariables
+Info: Nothing to build for Factorial
+Info: Nothing to build for Learning
+Info: Nothing to build for Roots1
+Info: Nothing to build for RootsoftheEquation
+23:40:33 **** Rebuild of configuration Debug for project C_Ref_Ch03_Statements_ForLoop ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\C_Ref_Ch03_Statements_ForLoop.o" "..\\src\\C_Ref_Ch03_Statements_ForLoop.c" 
+gcc -o C_Ref_Ch03_Statements_ForLoop.exe "src\\C_Ref_Ch03_Statements_ForLoop.o" 
+Info: Nothing to build for C_Ref_Ch03_Statements_If_Else
+23:40:34 **** Incremental Build of configuration Debug for project C_Ref_Ch03_Statements_If_Else2 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0; -c -std=c99 -o "src\\C_Ref_Ch03_Statements_If_Else2.o" "..\\src\\C_Ref_Ch03_Statements_If_Else2.c" 
+gcc: error: argument to '-fmessage-length=' should be a non-negative integer
+Info: Nothing to build for C_Ref_Ch03_Statements_MagicNumber_TernaryOperator
+Info: Nothing to build for C_Ref_Ch03_Statements_MagicNumber_TheConditionalExpression
+23:40:35 **** Incremental Build of configuration Debug for project C_Ref_Ch03_Statements_Switch ****
+Info: Internal Builder is used for build
+gcc -o C_Ref_Ch03_Statements_Switch.exe "src\\C_Ref_Ch03_Statements_Switch.o" 
+src\C_Ref_Ch03_Statements_Switch.o: In function `main':
+C:\Users\Salil\workspace\C_Ref_Ch03_Statements_Switch\Debug/../src/C_Ref_Ch03_Statements_Switch.c:33: undefined reference to `check_spelling'
+C:\Users\Salil\workspace\C_Ref_Ch03_Statements_Switch\Debug/../src/C_Ref_Ch03_Statements_Switch.c:37: undefined reference to `correct_spelling'
+C:\Users\Salil\workspace\C_Ref_Ch03_Statements_Switch\Debug/../src/C_Ref_Ch03_Statements_Switch.c:41: undefined reference to `display_errors'
+collect2.exe: error: ld returned 1 exit status
+Info: Nothing to build for C_Ref_Ch03_Statements_TernaryOperator1
+Info: Nothing to build for C_Ref_Ch03_Statements_TernaryOperator2
+Info: Nothing to build for C_Ref_ch02_Expressions_Casts
+Info: Nothing to build for C_Ref_ch02_LV_Ex2
+Info: Nothing to build for C_Ref_ch02_Operators_BitwiseOperation
+Info: Nothing to build for C_Ref_ch02_Operators_PointersEg
+Info: Nothing to build for C_Ref_ch02_Operators_RelationalOperators
+Info: Nothing to build for C_Ref_ch02_TypeModifiers_const
+23:40:35 **** Incremental Build of configuration Debug for project C_Ref_ch02_TypeModifiers_extern ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 add -std=c99 -ansi -o "src\\C_Ref_ch02_TypeModifiers_extern.o" "..\\src\\C_Ref_ch02_TypeModifiers_extern.c" 
+gcc: error: add: No such file or directory
+Info: Nothing to build for C_Ref_ch02_TypeModifiers_registers
+Info: Nothing to build for C_Ref_ch02_TypeModifiers_static
+Info: Nothing to build for C_Ref_ch02_localVariables
+Info: Nothing to build for Factorial
+Info: Nothing to build for Learning
+Info: Nothing to build for Roots1
+Info: Nothing to build for RootsoftheEquation
+Info: Nothing to build for C_Ref_Ch03_Statements_ForLoop
+23:42:50 **** Incremental Build of configuration Debug for project C_Ref_Ch03_Statements_ForLoop ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\C_Ref_Ch03_Statements_ForLoop.o" "..\\src\\C_Ref_Ch03_Statements_ForLoop.c" 
+gcc -o C_Ref_Ch03_Statements_ForLoop.exe "src\\C_Ref_Ch03_Statements_ForLoop.o" 
+Info: Nothing to build for C_Ref_Ch03_Statements_If_Else
+23:42:50 **** Incremental Build of configuration Debug for project C_Ref_Ch03_Statements_If_Else2 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0; -c -std=c99 -o "src\\C_Ref_Ch03_Statements_If_Else2.o" "..\\src\\C_Ref_Ch03_Statements_If_Else2.c" 
+gcc: error: argument to '-fmessage-length=' should be a non-negative integer
+Info: Nothing to build for C_Ref_Ch03_Statements_MagicNumber_TernaryOperator
+Info: Nothing to build for C_Ref_Ch03_Statements_MagicNumber_TheConditionalExpression
+23:42:50 **** Incremental Build of configuration Debug for project C_Ref_Ch03_Statements_Switch ****
+Info: Internal Builder is used for build
+gcc -o C_Ref_Ch03_Statements_Switch.exe "src\\C_Ref_Ch03_Statements_Switch.o" 
+src\C_Ref_Ch03_Statements_Switch.o: In function `main':
+C:\Users\Salil\workspace\C_Ref_Ch03_Statements_Switch\Debug/../src/C_Ref_Ch03_Statements_Switch.c:33: undefined reference to `check_spelling'
+C:\Users\Salil\workspace\C_Ref_Ch03_Statements_Switch\Debug/../src/C_Ref_Ch03_Statements_Switch.c:37: undefined reference to `correct_spelling'
+C:\Users\Salil\workspace\C_Ref_Ch03_Statements_Switch\Debug/../src/C_Ref_Ch03_Statements_Switch.c:41: undefined reference to `display_errors'
+collect2.exe: error: ld returned 1 exit status
+Info: Nothing to build for C_Ref_Ch03_Statements_TernaryOperator1
+Info: Nothing to build for C_Ref_Ch03_Statements_TernaryOperator2
+Info: Nothing to build for C_Ref_ch02_Expressions_Casts
+Info: Nothing to build for C_Ref_ch02_LV_Ex2
+Info: Nothing to build for C_Ref_ch02_Operators_BitwiseOperation
+Info: Nothing to build for C_Ref_ch02_Operators_PointersEg
+Info: Nothing to build for C_Ref_ch02_Operators_RelationalOperators
+Info: Nothing to build for C_Ref_ch02_TypeModifiers_const
+23:42:51 **** Incremental Build of configuration Debug for project C_Ref_ch02_TypeModifiers_extern ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 add -std=c99 -ansi -o "src\\C_Ref_ch02_TypeModifiers_extern.o" "..\\src\\C_Ref_ch02_TypeModifiers_extern.c" 
+gcc: error: add: No such file or directory
+Info: Nothing to build for C_Ref_ch02_TypeModifiers_registers
+Info: Nothing to build for C_Ref_ch02_TypeModifiers_static
+Info: Nothing to build for C_Ref_ch02_localVariables
+Info: Nothing to build for Factorial
+Info: Nothing to build for Learning
+Info: Nothing to build for Roots1
+Info: Nothing to build for RootsoftheEquation
+Info: Nothing to build for C_Ref_Ch03_Statements_ForLoop
+23:43:57 **** Incremental Build of configuration Debug for project C_Ref_Ch03_Statements_ForLoop ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\C_Ref_Ch03_Statements_ForLoop.o" "..\\src\\C_Ref_Ch03_Statements_ForLoop.c" 
+gcc -o C_Ref_Ch03_Statements_ForLoop.exe "src\\C_Ref_Ch03_Statements_ForLoop.o" 
+23:44:15 **** Incremental Build of configuration Debug for project C_Ref_Ch03_Statements_ForLoop ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\C_Ref_Ch03_Statements_ForLoop.o" "..\\src\\C_Ref_Ch03_Statements_ForLoop.c" 
+gcc -o C_Ref_Ch03_Statements_ForLoop.exe "src\\C_Ref_Ch03_Statements_ForLoop.o" 
+23:46:02 **** Incremental Build of configuration Debug for project C_Ref_Ch03_Statements_ForLoop ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\C_Ref_Ch03_Statements_ForLoop.o" "..\\src\\C_Ref_Ch03_Statements_ForLoop.c" 
+gcc -o C_Ref_Ch03_Statements_ForLoop.exe "src\\C_Ref_Ch03_Statements_ForLoop.o" 
+23:46:33 **** Incremental Build of configuration Debug for project C_Ref_Ch03_Statements_ForLoop ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\C_Ref_Ch03_Statements_ForLoop.o" "..\\src\\C_Ref_Ch03_Statements_ForLoop.c" 
+gcc -o C_Ref_Ch03_Statements_ForLoop.exe "src\\C_Ref_Ch03_Statements_ForLoop.o" 
+Info: Nothing to build for C_Ref_Ch03_Statements_ForLoop
+Info: Nothing to build for C_Ref_Ch03_Statements_If_Else
+12:32:17 **** Incremental Build of configuration Debug for project C_Ref_Ch03_Statements_If_Else2 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0; -c -std=c99 -o "src\\C_Ref_Ch03_Statements_If_Else2.o" "..\\src\\C_Ref_Ch03_Statements_If_Else2.c" 
+gcc: error: argument to '-fmessage-length=' should be a non-negative integer
+Info: Nothing to build for C_Ref_Ch03_Statements_MagicNumber_TernaryOperator
+Info: Nothing to build for C_Ref_Ch03_Statements_MagicNumber_TheConditionalExpression
+12:32:18 **** Incremental Build of configuration Debug for project C_Ref_Ch03_Statements_Switch ****
+Info: Internal Builder is used for build
+gcc -o C_Ref_Ch03_Statements_Switch.exe "src\\C_Ref_Ch03_Statements_Switch.o" 
+src\C_Ref_Ch03_Statements_Switch.o: In function `main':
+C:\Users\Salil\workspace\C_Ref_Ch03_Statements_Switch\Debug/../src/C_Ref_Ch03_Statements_Switch.c:33: undefined reference to `check_spelling'
+C:\Users\Salil\workspace\C_Ref_Ch03_Statements_Switch\Debug/../src/C_Ref_Ch03_Statements_Switch.c:37: undefined reference to `correct_spelling'
+C:\Users\Salil\workspace\C_Ref_Ch03_Statements_Switch\Debug/../src/C_Ref_Ch03_Statements_Switch.c:41: undefined reference to `display_errors'
+collect2.exe: error: ld returned 1 exit status
+Info: Nothing to build for C_Ref_Ch03_Statements_TernaryOperator1
+Info: Nothing to build for C_Ref_Ch03_Statements_TernaryOperator2
+Info: Nothing to build for C_Ref_ch02_Expressions_Casts
+Info: Nothing to build for C_Ref_ch02_LV_Ex2
+Info: Nothing to build for C_Ref_ch02_Operators_BitwiseOperation
+Info: Nothing to build for C_Ref_ch02_Operators_PointersEg
+Info: Nothing to build for C_Ref_ch02_Operators_RelationalOperators
+Info: Nothing to build for C_Ref_ch02_TypeModifiers_const
+12:32:19 **** Incremental Build of configuration Debug for project C_Ref_ch02_TypeModifiers_extern ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 add -std=c99 -ansi -o "src\\C_Ref_ch02_TypeModifiers_extern.o" "..\\src\\C_Ref_ch02_TypeModifiers_extern.c" 
+gcc: error: add: No such file or directory
+Info: Nothing to build for C_Ref_ch02_TypeModifiers_registers
+Info: Nothing to build for C_Ref_ch02_TypeModifiers_static
+Info: Nothing to build for C_Ref_ch02_localVariables
+Info: Nothing to build for Factorial
+Info: Nothing to build for Learning
+Info: Nothing to build for Roots1
+Info: Nothing to build for RootsoftheEquation
+12:32:19 **** Rebuild of configuration Debug for project SUPD_TypeCast ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\SUPD_TypeCast.o" "..\\src\\SUPD_TypeCast.c" 
+gcc -o SUPD_TypeCast.exe "src\\SUPD_TypeCast.o" 
+12:32:22 **** Incremental Build of configuration Debug for project SUPD_TypeCast ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\SUPD_TypeCast.o" "..\\src\\SUPD_TypeCast.c" 
+gcc -o SUPD_TypeCast.exe "src\\SUPD_TypeCast.o" 
+Info: Nothing to build for C_Ref_Ch03_Statements_ForLoop
+Info: Nothing to build for C_Ref_Ch03_Statements_If_Else
+12:33:30 **** Incremental Build of configuration Debug for project C_Ref_Ch03_Statements_If_Else2 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0; -c -std=c99 -o "src\\C_Ref_Ch03_Statements_If_Else2.o" "..\\src\\C_Ref_Ch03_Statements_If_Else2.c" 
+gcc: error: argument to '-fmessage-length=' should be a non-negative integer
+Info: Nothing to build for C_Ref_Ch03_Statements_MagicNumber_TernaryOperator
+Info: Nothing to build for C_Ref_Ch03_Statements_MagicNumber_TheConditionalExpression
+12:33:30 **** Incremental Build of configuration Debug for project C_Ref_Ch03_Statements_Switch ****
+Info: Internal Builder is used for build
+gcc -o C_Ref_Ch03_Statements_Switch.exe "src\\C_Ref_Ch03_Statements_Switch.o" 
+src\C_Ref_Ch03_Statements_Switch.o: In function `main':
+C:\Users\Salil\workspace\C_Ref_Ch03_Statements_Switch\Debug/../src/C_Ref_Ch03_Statements_Switch.c:33: undefined reference to `check_spelling'
+C:\Users\Salil\workspace\C_Ref_Ch03_Statements_Switch\Debug/../src/C_Ref_Ch03_Statements_Switch.c:37: undefined reference to `correct_spelling'
+C:\Users\Salil\workspace\C_Ref_Ch03_Statements_Switch\Debug/../src/C_Ref_Ch03_Statements_Switch.c:41: undefined reference to `display_errors'
+collect2.exe: error: ld returned 1 exit status
+Info: Nothing to build for C_Ref_Ch03_Statements_TernaryOperator1
+Info: Nothing to build for C_Ref_Ch03_Statements_TernaryOperator2
+Info: Nothing to build for C_Ref_ch02_Expressions_Casts
+Info: Nothing to build for C_Ref_ch02_LV_Ex2
+Info: Nothing to build for C_Ref_ch02_Operators_BitwiseOperation
+Info: Nothing to build for C_Ref_ch02_Operators_PointersEg
+Info: Nothing to build for C_Ref_ch02_Operators_RelationalOperators
+Info: Nothing to build for C_Ref_ch02_TypeModifiers_const
+12:33:30 **** Incremental Build of configuration Debug for project C_Ref_ch02_TypeModifiers_extern ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 add -std=c99 -ansi -o "src\\C_Ref_ch02_TypeModifiers_extern.o" "..\\src\\C_Ref_ch02_TypeModifiers_extern.c" 
+gcc: error: add: No such file or directory
+Info: Nothing to build for C_Ref_ch02_TypeModifiers_registers
+Info: Nothing to build for C_Ref_ch02_TypeModifiers_static
+Info: Nothing to build for C_Ref_ch02_localVariables
+Info: Nothing to build for Factorial
+Info: Nothing to build for Learning
+Info: Nothing to build for Roots1
+Info: Nothing to build for RootsoftheEquation
+12:33:30 **** Incremental Build of configuration Debug for project SUPD_TypeCast ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\SUPD_TypeCast.o" "..\\src\\SUPD_TypeCast.c" 
+..\src\SUPD_TypeCast.c: In function 'main':
+..\src\SUPD_TypeCast.c:18:2: warning: format '%c' expects argument of type 'int', but argument 2 has type 'double' [-Wformat]
+gcc -o SUPD_TypeCast.exe "src\\SUPD_TypeCast.o" 
+Info: Nothing to build for SUPD_TypeCast
+Info: Nothing to build for C_Ref_Ch03_Statements_ForLoop
+Info: Nothing to build for C_Ref_Ch03_Statements_If_Else
+12:34:30 **** Incremental Build of configuration Debug for project C_Ref_Ch03_Statements_If_Else2 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0; -c -std=c99 -o "src\\C_Ref_Ch03_Statements_If_Else2.o" "..\\src\\C_Ref_Ch03_Statements_If_Else2.c" 
+gcc: error: argument to '-fmessage-length=' should be a non-negative integer
+Info: Nothing to build for C_Ref_Ch03_Statements_MagicNumber_TernaryOperator
+Info: Nothing to build for C_Ref_Ch03_Statements_MagicNumber_TheConditionalExpression
+12:34:30 **** Incremental Build of configuration Debug for project C_Ref_Ch03_Statements_Switch ****
+Info: Internal Builder is used for build
+gcc -o C_Ref_Ch03_Statements_Switch.exe "src\\C_Ref_Ch03_Statements_Switch.o" 
+src\C_Ref_Ch03_Statements_Switch.o: In function `main':
+C:\Users\Salil\workspace\C_Ref_Ch03_Statements_Switch\Debug/../src/C_Ref_Ch03_Statements_Switch.c:33: undefined reference to `check_spelling'
+C:\Users\Salil\workspace\C_Ref_Ch03_Statements_Switch\Debug/../src/C_Ref_Ch03_Statements_Switch.c:37: undefined reference to `correct_spelling'
+C:\Users\Salil\workspace\C_Ref_Ch03_Statements_Switch\Debug/../src/C_Ref_Ch03_Statements_Switch.c:41: undefined reference to `display_errors'
+collect2.exe: error: ld returned 1 exit status
+Info: Nothing to build for C_Ref_Ch03_Statements_TernaryOperator1
+Info: Nothing to build for C_Ref_Ch03_Statements_TernaryOperator2
+Info: Nothing to build for C_Ref_ch02_Expressions_Casts
+Info: Nothing to build for C_Ref_ch02_LV_Ex2
+Info: Nothing to build for C_Ref_ch02_Operators_BitwiseOperation
+Info: Nothing to build for C_Ref_ch02_Operators_PointersEg
+Info: Nothing to build for C_Ref_ch02_Operators_RelationalOperators
+Info: Nothing to build for C_Ref_ch02_TypeModifiers_const
+12:34:30 **** Incremental Build of configuration Debug for project C_Ref_ch02_TypeModifiers_extern ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 add -std=c99 -ansi -o "src\\C_Ref_ch02_TypeModifiers_extern.o" "..\\src\\C_Ref_ch02_TypeModifiers_extern.c" 
+gcc: error: add: No such file or directory
+Info: Nothing to build for C_Ref_ch02_TypeModifiers_registers
+Info: Nothing to build for C_Ref_ch02_TypeModifiers_static
+Info: Nothing to build for C_Ref_ch02_localVariables
+Info: Nothing to build for Factorial
+Info: Nothing to build for Learning
+Info: Nothing to build for Roots1
+Info: Nothing to build for RootsoftheEquation
+12:34:31 **** Incremental Build of configuration Debug for project SUPD_TypeCast ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\SUPD_TypeCast.o" "..\\src\\SUPD_TypeCast.c" 
+..\src\SUPD_TypeCast.c: In function 'main':
+..\src\SUPD_TypeCast.c:18:2: warning: conversion lacks type at end of format [-Wformat]
+..\src\SUPD_TypeCast.c:18:2: warning: too many arguments for format [-Wformat-extra-args]
+gcc -o SUPD_TypeCast.exe "src\\SUPD_TypeCast.o" 
+Info: Nothing to build for C_Ref_Ch03_Statements_ForLoop
+Info: Nothing to build for C_Ref_Ch03_Statements_If_Else
+12:35:10 **** Incremental Build of configuration Debug for project C_Ref_Ch03_Statements_If_Else2 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0; -c -std=c99 -o "src\\C_Ref_Ch03_Statements_If_Else2.o" "..\\src\\C_Ref_Ch03_Statements_If_Else2.c" 
+gcc: error: argument to '-fmessage-length=' should be a non-negative integer
+Info: Nothing to build for C_Ref_Ch03_Statements_MagicNumber_TernaryOperator
+Info: Nothing to build for C_Ref_Ch03_Statements_MagicNumber_TheConditionalExpression
+12:35:10 **** Incremental Build of configuration Debug for project C_Ref_Ch03_Statements_Switch ****
+Info: Internal Builder is used for build
+gcc -o C_Ref_Ch03_Statements_Switch.exe "src\\C_Ref_Ch03_Statements_Switch.o" 
+src\C_Ref_Ch03_Statements_Switch.o: In function `main':
+C:\Users\Salil\workspace\C_Ref_Ch03_Statements_Switch\Debug/../src/C_Ref_Ch03_Statements_Switch.c:33: undefined reference to `check_spelling'
+C:\Users\Salil\workspace\C_Ref_Ch03_Statements_Switch\Debug/../src/C_Ref_Ch03_Statements_Switch.c:37: undefined reference to `correct_spelling'
+C:\Users\Salil\workspace\C_Ref_Ch03_Statements_Switch\Debug/../src/C_Ref_Ch03_Statements_Switch.c:41: undefined reference to `display_errors'
+collect2.exe: error: ld returned 1 exit status
+Info: Nothing to build for C_Ref_Ch03_Statements_TernaryOperator1
+Info: Nothing to build for C_Ref_Ch03_Statements_TernaryOperator2
+Info: Nothing to build for C_Ref_ch02_Expressions_Casts
+Info: Nothing to build for C_Ref_ch02_LV_Ex2
+Info: Nothing to build for C_Ref_ch02_Operators_BitwiseOperation
+Info: Nothing to build for C_Ref_ch02_Operators_PointersEg
+Info: Nothing to build for C_Ref_ch02_Operators_RelationalOperators
+Info: Nothing to build for C_Ref_ch02_TypeModifiers_const
+12:35:10 **** Incremental Build of configuration Debug for project C_Ref_ch02_TypeModifiers_extern ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 add -std=c99 -ansi -o "src\\C_Ref_ch02_TypeModifiers_extern.o" "..\\src\\C_Ref_ch02_TypeModifiers_extern.c" 
+gcc: error: add: No such file or directory
+Info: Nothing to build for C_Ref_ch02_TypeModifiers_registers
+Info: Nothing to build for C_Ref_ch02_TypeModifiers_static
+Info: Nothing to build for C_Ref_ch02_localVariables
+Info: Nothing to build for Factorial
+Info: Nothing to build for Learning
+Info: Nothing to build for Roots1
+Info: Nothing to build for RootsoftheEquation
+12:35:10 **** Incremental Build of configuration Debug for project SUPD_TypeCast ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\SUPD_TypeCast.o" "..\\src\\SUPD_TypeCast.c" 
+gcc -o SUPD_TypeCast.exe "src\\SUPD_TypeCast.o" 
+Info: Nothing to build for SUPD_TypeCast
+12:35:37 **** Incremental Build of configuration Debug for project SUPD_TypeCast ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\SUPD_TypeCast.o" "..\\src\\SUPD_TypeCast.c" 
+gcc -o SUPD_TypeCast.exe "src\\SUPD_TypeCast.o" 
+Info: Nothing to build for C_Ref_Ch03_Statements_ForLoop
+17:25:43 **** Rebuild of configuration Debug for project C_Ref_Ch03_Statements_ForLoop2 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\C_Ref_Ch03_Statements_ForLoop2.o" "..\\src\\C_Ref_Ch03_Statements_ForLoop2.c" 
+..\src\C_Ref_Ch03_Statements_ForLoop2.c: In function 'main':
+..\src\C_Ref_Ch03_Statements_ForLoop2.c:21:1: warning: implicit declaration of function 'promt' [-Wimplicit-function-declaration]
+..\src\C_Ref_Ch03_Statements_ForLoop2.c:21:1: warning: suggest parentheses around assignment used as truth value [-Wparentheses]
+gcc -o C_Ref_Ch03_Statements_ForLoop2.exe "src\\C_Ref_Ch03_Statements_ForLoop2.o" 
+src\C_Ref_Ch03_Statements_ForLoop2.o: In function `main':
+C:\Users\Salil\workspace\C_Ref_Ch03_Statements_ForLoop2\Debug/../src/C_Ref_Ch03_Statements_ForLoop2.c:21: undefined reference to `promt'
+collect2.exe: error: ld returned 1 exit status
+Info: Nothing to build for C_Ref_Ch03_Statements_If_Else
+17:25:44 **** Incremental Build of configuration Debug for project C_Ref_Ch03_Statements_If_Else2 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0; -c -std=c99 -o "src\\C_Ref_Ch03_Statements_If_Else2.o" "..\\src\\C_Ref_Ch03_Statements_If_Else2.c" 
+gcc: error: argument to '-fmessage-length=' should be a non-negative integer
+Info: Nothing to build for C_Ref_Ch03_Statements_MagicNumber_TernaryOperator
+Info: Nothing to build for C_Ref_Ch03_Statements_MagicNumber_TheConditionalExpression
+17:25:44 **** Incremental Build of configuration Debug for project C_Ref_Ch03_Statements_Switch ****
+Info: Internal Builder is used for build
+gcc -o C_Ref_Ch03_Statements_Switch.exe "src\\C_Ref_Ch03_Statements_Switch.o" 
+src\C_Ref_Ch03_Statements_Switch.o: In function `main':
+C:\Users\Salil\workspace\C_Ref_Ch03_Statements_Switch\Debug/../src/C_Ref_Ch03_Statements_Switch.c:33: undefined reference to `check_spelling'
+C:\Users\Salil\workspace\C_Ref_Ch03_Statements_Switch\Debug/../src/C_Ref_Ch03_Statements_Switch.c:37: undefined reference to `correct_spelling'
+C:\Users\Salil\workspace\C_Ref_Ch03_Statements_Switch\Debug/../src/C_Ref_Ch03_Statements_Switch.c:41: undefined reference to `display_errors'
+collect2.exe: error: ld returned 1 exit status
+Info: Nothing to build for C_Ref_Ch03_Statements_TernaryOperator1
+Info: Nothing to build for C_Ref_Ch03_Statements_TernaryOperator2
+Info: Nothing to build for C_Ref_ch02_Expressions_Casts
+Info: Nothing to build for C_Ref_ch02_LV_Ex2
+Info: Nothing to build for C_Ref_ch02_Operators_BitwiseOperation
+Info: Nothing to build for C_Ref_ch02_Operators_PointersEg
+Info: Nothing to build for C_Ref_ch02_Operators_RelationalOperators
+Info: Nothing to build for C_Ref_ch02_TypeModifiers_const
+17:25:44 **** Incremental Build of configuration Debug for project C_Ref_ch02_TypeModifiers_extern ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 add -std=c99 -ansi -o "src\\C_Ref_ch02_TypeModifiers_extern.o" "..\\src\\C_Ref_ch02_TypeModifiers_extern.c" 
+gcc: error: add: No such file or directory
+Info: Nothing to build for C_Ref_ch02_TypeModifiers_registers
+Info: Nothing to build for C_Ref_ch02_TypeModifiers_static
+Info: Nothing to build for C_Ref_ch02_localVariables
+Info: Nothing to build for Factorial
+Info: Nothing to build for Learning
+Info: Nothing to build for Roots1
+Info: Nothing to build for RootsoftheEquation
+Info: Nothing to build for SUPD_TypeCast
+Info: Nothing to build for C_Ref_Ch03_Statements_ForLoop
+17:26:55 **** Incremental Build of configuration Debug for project C_Ref_Ch03_Statements_ForLoop2 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\C_Ref_Ch03_Statements_ForLoop2.o" "..\\src\\C_Ref_Ch03_Statements_ForLoop2.c" 
+..\src\C_Ref_Ch03_Statements_ForLoop2.c: In function 'main':
+..\src\C_Ref_Ch03_Statements_ForLoop2.c:21:1: warning: suggest parentheses around assignment used as truth value [-Wparentheses]
+gcc -o C_Ref_Ch03_Statements_ForLoop2.exe "src\\C_Ref_Ch03_Statements_ForLoop2.o" 
+Info: Nothing to build for C_Ref_Ch03_Statements_If_Else
+17:26:56 **** Incremental Build of configuration Debug for project C_Ref_Ch03_Statements_If_Else2 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0; -c -std=c99 -o "src\\C_Ref_Ch03_Statements_If_Else2.o" "..\\src\\C_Ref_Ch03_Statements_If_Else2.c" 
+gcc: error: argument to '-fmessage-length=' should be a non-negative integer
+Info: Nothing to build for C_Ref_Ch03_Statements_MagicNumber_TernaryOperator
+Info: Nothing to build for C_Ref_Ch03_Statements_MagicNumber_TheConditionalExpression
+17:26:56 **** Incremental Build of configuration Debug for project C_Ref_Ch03_Statements_Switch ****
+Info: Internal Builder is used for build
+gcc -o C_Ref_Ch03_Statements_Switch.exe "src\\C_Ref_Ch03_Statements_Switch.o" 
+src\C_Ref_Ch03_Statements_Switch.o: In function `main':
+C:\Users\Salil\workspace\C_Ref_Ch03_Statements_Switch\Debug/../src/C_Ref_Ch03_Statements_Switch.c:33: undefined reference to `check_spelling'
+C:\Users\Salil\workspace\C_Ref_Ch03_Statements_Switch\Debug/../src/C_Ref_Ch03_Statements_Switch.c:37: undefined reference to `correct_spelling'
+C:\Users\Salil\workspace\C_Ref_Ch03_Statements_Switch\Debug/../src/C_Ref_Ch03_Statements_Switch.c:41: undefined reference to `display_errors'
+collect2.exe: error: ld returned 1 exit status
+Info: Nothing to build for C_Ref_Ch03_Statements_TernaryOperator1
+Info: Nothing to build for C_Ref_Ch03_Statements_TernaryOperator2
+Info: Nothing to build for C_Ref_ch02_Expressions_Casts
+Info: Nothing to build for C_Ref_ch02_LV_Ex2
+Info: Nothing to build for C_Ref_ch02_Operators_BitwiseOperation
+Info: Nothing to build for C_Ref_ch02_Operators_PointersEg
+Info: Nothing to build for C_Ref_ch02_Operators_RelationalOperators
+Info: Nothing to build for C_Ref_ch02_TypeModifiers_const
+17:26:56 **** Incremental Build of configuration Debug for project C_Ref_ch02_TypeModifiers_extern ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 add -std=c99 -ansi -o "src\\C_Ref_ch02_TypeModifiers_extern.o" "..\\src\\C_Ref_ch02_TypeModifiers_extern.c" 
+gcc: error: add: No such file or directory
+Info: Nothing to build for C_Ref_ch02_TypeModifiers_registers
+Info: Nothing to build for C_Ref_ch02_TypeModifiers_static
+Info: Nothing to build for C_Ref_ch02_localVariables
+Info: Nothing to build for Factorial
+Info: Nothing to build for Learning
+Info: Nothing to build for Roots1
+Info: Nothing to build for RootsoftheEquation
+Info: Nothing to build for SUPD_TypeCast
+Info: Nothing to build for C_Ref_Ch03_Statements_ForLoop2
+17:27:32 **** Incremental Build of configuration Debug for project C_Ref_Ch03_Statements_ForLoop2 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\C_Ref_Ch03_Statements_ForLoop2.o" "..\\src\\C_Ref_Ch03_Statements_ForLoop2.c" 
+..\src\C_Ref_Ch03_Statements_ForLoop2.c: In function 'main':
+..\src\C_Ref_Ch03_Statements_ForLoop2.c:21:1: warning: suggest parentheses around assignment used as truth value [-Wparentheses]
+gcc -o C_Ref_Ch03_Statements_ForLoop2.exe "src\\C_Ref_Ch03_Statements_ForLoop2.o" 
+c:/flex windows/gcc/bin/../lib/gcc/mingw32/4.7.2/../../../../mingw32/bin/ld.exe: cannot open output file C_Ref_Ch03_Statements_ForLoop2.exe: Permission denied
+collect2.exe: error: ld returned 1 exit status
+17:27:50 **** Incremental Build of configuration Debug for project C_Ref_Ch03_Statements_ForLoop2 ****
+Info: Internal Builder is used for build
+gcc -o C_Ref_Ch03_Statements_ForLoop2.exe "src\\C_Ref_Ch03_Statements_ForLoop2.o" 
+17:28:02 **** Incremental Build of configuration Debug for project C_Ref_Ch03_Statements_ForLoop2 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\C_Ref_Ch03_Statements_ForLoop2.o" "..\\src\\C_Ref_Ch03_Statements_ForLoop2.c" 
+..\src\C_Ref_Ch03_Statements_ForLoop2.c: In function 'main':
+..\src\C_Ref_Ch03_Statements_ForLoop2.c:21:1: warning: suggest parentheses around assignment used as truth value [-Wparentheses]
+gcc -o C_Ref_Ch03_Statements_ForLoop2.exe "src\\C_Ref_Ch03_Statements_ForLoop2.o" 
+c:/flex windows/gcc/bin/../lib/gcc/mingw32/4.7.2/../../../../mingw32/bin/ld.exe: cannot open output file C_Ref_Ch03_Statements_ForLoop2.exe: Permission denied
+collect2.exe: error: ld returned 1 exit status
+17:28:30 **** Incremental Build of configuration Debug for project C_Ref_Ch03_Statements_ForLoop2 ****
+Info: Internal Builder is used for build
+gcc -o C_Ref_Ch03_Statements_ForLoop2.exe "src\\C_Ref_Ch03_Statements_ForLoop2.o" 
+17:30:00 **** Incremental Build of configuration Debug for project C_Ref_Ch03_Statements_ForLoop2 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\C_Ref_Ch03_Statements_ForLoop2.o" "..\\src\\C_Ref_Ch03_Statements_ForLoop2.c" 
+..\src\C_Ref_Ch03_Statements_ForLoop2.c: In function 'main':
+..\src\C_Ref_Ch03_Statements_ForLoop2.c:21:1: warning: suggest parentheses around assignment used as truth value [-Wparentheses]
+gcc -o C_Ref_Ch03_Statements_ForLoop2.exe "src\\C_Ref_Ch03_Statements_ForLoop2.o" 
+c:/flex windows/gcc/bin/../lib/gcc/mingw32/4.7.2/../../../../mingw32/bin/ld.exe: cannot open output file C_Ref_Ch03_Statements_ForLoop2.exe: Permission denied
+collect2.exe: error: ld returned 1 exit status
+17:30:13 **** Incremental Build of configuration Debug for project C_Ref_Ch03_Statements_ForLoop2 ****
+Info: Internal Builder is used for build
+gcc -o C_Ref_Ch03_Statements_ForLoop2.exe "src\\C_Ref_Ch03_Statements_ForLoop2.o" 
+17:30:39 **** Incremental Build of configuration Debug for project C_Ref_Ch03_Statements_ForLoop2 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\C_Ref_Ch03_Statements_ForLoop2.o" "..\\src\\C_Ref_Ch03_Statements_ForLoop2.c" 
+..\src\C_Ref_Ch03_Statements_ForLoop2.c: In function 'main':
+..\src\C_Ref_Ch03_Statements_ForLoop2.c:21:1: warning: suggest parentheses around assignment used as truth value [-Wparentheses]
+gcc -o C_Ref_Ch03_Statements_ForLoop2.exe "src\\C_Ref_Ch03_Statements_ForLoop2.o" 
+c:/flex windows/gcc/bin/../lib/gcc/mingw32/4.7.2/../../../../mingw32/bin/ld.exe: cannot open output file C_Ref_Ch03_Statements_ForLoop2.exe: Permission denied
+collect2.exe: error: ld returned 1 exit status
+17:30:49 **** Incremental Build of configuration Debug for project C_Ref_Ch03_Statements_ForLoop2 ****
+Info: Internal Builder is used for build
+gcc -o C_Ref_Ch03_Statements_ForLoop2.exe "src\\C_Ref_Ch03_Statements_ForLoop2.o" 
+17:42:16 **** Incremental Build of configuration Debug for project C_Ref_Ch03_Statements_ForLoop2 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\C_Ref_Ch03_Statements_ForLoop2.o" "..\\src\\C_Ref_Ch03_Statements_ForLoop2.c" 
+..\src\C_Ref_Ch03_Statements_ForLoop2.c: In function 'main':
+..\src\C_Ref_Ch03_Statements_ForLoop2.c:22:8: warning: 't' may be used uninitialized in this function [-Wuninitialized]
+gcc -o C_Ref_Ch03_Statements_ForLoop2.exe "src\\C_Ref_Ch03_Statements_ForLoop2.o" 
+17:42:32 **** Incremental Build of configuration Debug for project C_Ref_Ch03_Statements_ForLoop2 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\C_Ref_Ch03_Statements_ForLoop2.o" "..\\src\\C_Ref_Ch03_Statements_ForLoop2.c" 
+..\src\C_Ref_Ch03_Statements_ForLoop2.c: In function 'main':
+..\src\C_Ref_Ch03_Statements_ForLoop2.c:21:1: warning: suggest parentheses around assignment used as truth value [-Wparentheses]
+gcc -o C_Ref_Ch03_Statements_ForLoop2.exe "src\\C_Ref_Ch03_Statements_ForLoop2.o" 
+Info: Nothing to build for C_Ref_Ch03_Statements_ForLoop2
+Info: Nothing to build for C_Ref_Ch03_Statements_ForLoop2
+17:45:49 **** Incremental Build of configuration Debug for project C_Ref_Ch03_Statements_ForLoop2 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\C_Ref_Ch03_Statements_ForLoop2.o" "..\\src\\C_Ref_Ch03_Statements_ForLoop2.c" 
+..\src\C_Ref_Ch03_Statements_ForLoop2.c: In function 'main':
+..\src\C_Ref_Ch03_Statements_ForLoop2.c:21:1: warning: suggest parentheses around assignment used as truth value [-Wparentheses]
+gcc -o C_Ref_Ch03_Statements_ForLoop2.exe "src\\C_Ref_Ch03_Statements_ForLoop2.o" 
+c:/flex windows/gcc/bin/../lib/gcc/mingw32/4.7.2/../../../../mingw32/bin/ld.exe: cannot open output file C_Ref_Ch03_Statements_ForLoop2.exe: Permission denied
+collect2.exe: error: ld returned 1 exit status
+17:46:03 **** Incremental Build of configuration Debug for project C_Ref_Ch03_Statements_ForLoop2 ****
+Info: Internal Builder is used for build
+gcc -o C_Ref_Ch03_Statements_ForLoop2.exe "src\\C_Ref_Ch03_Statements_ForLoop2.o" 
+c:/flex windows/gcc/bin/../lib/gcc/mingw32/4.7.2/../../../../mingw32/bin/ld.exe: cannot open output file C_Ref_Ch03_Statements_ForLoop2.exe: Permission denied
+collect2.exe: error: ld returned 1 exit status
+17:46:27 **** Incremental Build of configuration Debug for project C_Ref_Ch03_Statements_ForLoop2 ****
+Info: Internal Builder is used for build
+gcc -o C_Ref_Ch03_Statements_ForLoop2.exe "src\\C_Ref_Ch03_Statements_ForLoop2.o" 
+c:/flex windows/gcc/bin/../lib/gcc/mingw32/4.7.2/../../../../mingw32/bin/ld.exe: cannot open output file C_Ref_Ch03_Statements_ForLoop2.exe: Permission denied
+collect2.exe: error: ld returned 1 exit status
+17:46:58 **** Incremental Build of configuration Debug for project C_Ref_Ch03_Statements_ForLoop2 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\C_Ref_Ch03_Statements_ForLoop2.o" "..\\src\\C_Ref_Ch03_Statements_ForLoop2.c" 
+..\src\C_Ref_Ch03_Statements_ForLoop2.c: In function 'main':
+..\src\C_Ref_Ch03_Statements_ForLoop2.c:21:1: warning: suggest parentheses around assignment used as truth value [-Wparentheses]
+gcc -o C_Ref_Ch03_Statements_ForLoop2.exe "src\\C_Ref_Ch03_Statements_ForLoop2.o" 
+Info: Nothing to build for C_Ref_Ch03_Statements_ForLoop2
+Info: Nothing to build for C_Ref_Ch03_Statements_ForLoop
+12:16:15 **** Incremental Build of configuration Debug for project C_Ref_Ch03_Statements_ForLoop2 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\C_Ref_Ch03_Statements_ForLoop2.o" "..\\src\\C_Ref_Ch03_Statements_ForLoop2.c" 
+..\src\C_Ref_Ch03_Statements_ForLoop2.c: In function 'main':
+..\src\C_Ref_Ch03_Statements_ForLoop2.c:21:1: warning: suggest parentheses around assignment used as truth value [-Wparentheses]
+gcc -o C_Ref_Ch03_Statements_ForLoop2.exe "src\\C_Ref_Ch03_Statements_ForLoop2.o" 
+12:16:15 **** Rebuild of configuration Debug for project C_Ref_Ch03_Statements_ForLoop_Infinite ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\C_Ref_Ch03_Statements_ForLoop_Infinite.o" "..\\src\\C_Ref_Ch03_Statements_ForLoop_Infinite.c" 
+gcc -o C_Ref_Ch03_Statements_ForLoop_Infinite.exe "src\\C_Ref_Ch03_Statements_ForLoop_Infinite.o" 
+Info: Nothing to build for C_Ref_Ch03_Statements_If_Else
+12:16:16 **** Incremental Build of configuration Debug for project C_Ref_Ch03_Statements_If_Else2 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0; -c -std=c99 -o "src\\C_Ref_Ch03_Statements_If_Else2.o" "..\\src\\C_Ref_Ch03_Statements_If_Else2.c" 
+gcc: error: argument to '-fmessage-length=' should be a non-negative integer
+Info: Nothing to build for C_Ref_Ch03_Statements_MagicNumber_TernaryOperator
+Info: Nothing to build for C_Ref_Ch03_Statements_MagicNumber_TheConditionalExpression
+12:16:16 **** Incremental Build of configuration Debug for project C_Ref_Ch03_Statements_Switch ****
+Info: Internal Builder is used for build
+gcc -o C_Ref_Ch03_Statements_Switch.exe "src\\C_Ref_Ch03_Statements_Switch.o" 
+src\C_Ref_Ch03_Statements_Switch.o: In function `main':
+C:\Users\Salil\workspace\C_Ref_Ch03_Statements_Switch\Debug/../src/C_Ref_Ch03_Statements_Switch.c:33: undefined reference to `check_spelling'
+C:\Users\Salil\workspace\C_Ref_Ch03_Statements_Switch\Debug/../src/C_Ref_Ch03_Statements_Switch.c:37: undefined reference to `correct_spelling'
+C:\Users\Salil\workspace\C_Ref_Ch03_Statements_Switch\Debug/../src/C_Ref_Ch03_Statements_Switch.c:41: undefined reference to `display_errors'
+collect2.exe: error: ld returned 1 exit status
+Info: Nothing to build for C_Ref_Ch03_Statements_TernaryOperator1
+Info: Nothing to build for C_Ref_Ch03_Statements_TernaryOperator2
+Info: Nothing to build for C_Ref_ch02_Expressions_Casts
+Info: Nothing to build for C_Ref_ch02_LV_Ex2
+Info: Nothing to build for C_Ref_ch02_Operators_BitwiseOperation
+Info: Nothing to build for C_Ref_ch02_Operators_PointersEg
+Info: Nothing to build for C_Ref_ch02_Operators_RelationalOperators
+Info: Nothing to build for C_Ref_ch02_TypeModifiers_const
+12:16:16 **** Incremental Build of configuration Debug for project C_Ref_ch02_TypeModifiers_extern ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 add -std=c99 -ansi -o "src\\C_Ref_ch02_TypeModifiers_extern.o" "..\\src\\C_Ref_ch02_TypeModifiers_extern.c" 
+gcc: error: add: No such file or directory
+Info: Nothing to build for C_Ref_ch02_TypeModifiers_registers
+Info: Nothing to build for C_Ref_ch02_TypeModifiers_static
+Info: Nothing to build for C_Ref_ch02_localVariables
+Info: Nothing to build for Factorial
+Info: Nothing to build for Learning
+Info: Nothing to build for Roots1
+Info: Nothing to build for RootsoftheEquation
+Info: Nothing to build for SUPD_TypeCast
+Info: Nothing to build for C_Ref_Ch03_Statements_ForLoop_Infinite
+Info: Nothing to build for C_Ref_Ch03_Statements_ForLoop_Infinite

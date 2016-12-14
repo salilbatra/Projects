@@ -1,0 +1,39 @@
+/*
+ ============================================================================
+ Name        : C_Ref_Ch03_Statements_TernaryOperator2.c
+ Author      : 
+ Version     :
+ Copyright   : Your copyright notice
+ Description : Hello World in C, Ansi-style
+ ============================================================================
+ */
+
+#include <stdio.h>
+#include <stdlib.h>
+
+int f1(int n);
+int f2(void);
+
+int main(void) {
+    setvbuf(stdout, NULL, _IONBF, 0);
+	int t;
+	printf("Enter a number: ");
+	scanf("%d", &t);
+	t ? f1(t) + f2() : printf("Zero Entered");
+	printf("\n");
+
+	return 0;
+}
+
+int f1(int n){
+	printf("%d", n);
+	return 0;
+}
+
+int f2(){
+	printf(" has been entered ");
+	return 0;
+}
+
+
+//why entering 0 executes the printf statement in line 22

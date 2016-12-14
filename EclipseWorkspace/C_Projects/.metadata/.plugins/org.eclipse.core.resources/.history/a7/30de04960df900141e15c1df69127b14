@@ -1,0 +1,21 @@
+/*
+ * learning.c
+ *
+ *  Created on: May 8, 2015
+ *      Author: Salil
+ */
+
+
+#include <stdio.h>
+#include <math.h>
+float main(){
+	float a,b,c, root1,root2;
+	printf("Enter the constants to find roots of the equation ax^2+bx+c: ");
+	scanf("%f,%f,%f", &a,&b,&c);
+ root1= ((b*b) + sqrt((b*b)-4*a*a))/2*a ;
+ root2= ((b*b) - sqrt((b*b)-4*a*a))/2*a ;
+
+ printf("The roots of the equation are: \n First Root: %f", root1);
+ printf("\nSecond root: %f", root2);
+
+}

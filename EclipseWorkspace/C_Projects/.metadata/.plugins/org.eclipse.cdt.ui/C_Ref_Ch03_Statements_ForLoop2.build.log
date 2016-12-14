@@ -1,0 +1,9 @@
+12:16:15 **** Incremental Build of configuration Debug for project C_Ref_Ch03_Statements_ForLoop2 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\C_Ref_Ch03_Statements_ForLoop2.o" "..\\src\\C_Ref_Ch03_Statements_ForLoop2.c" 
+..\src\C_Ref_Ch03_Statements_ForLoop2.c: In function 'main':
+..\src\C_Ref_Ch03_Statements_ForLoop2.c:21:1: warning: suggest parentheses around assignment used as truth value [-Wparentheses]
+gcc -o C_Ref_Ch03_Statements_ForLoop2.exe "src\\C_Ref_Ch03_Statements_ForLoop2.o" 
+
+12:16:15 Build Finished (took 399ms)
+
