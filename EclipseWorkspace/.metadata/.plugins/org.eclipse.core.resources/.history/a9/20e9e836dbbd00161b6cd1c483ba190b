@@ -1,0 +1,41 @@
+/*
+ ============================================================================
+ Name        : PointerTests.c
+ Author      : 
+ Version     :
+ Copyright   : Your copyright notice
+ Description : Hello World in C, Ansi-style
+ ============================================================================
+ */
+
+#include <stdio.h>
+#include <stdlib.h>
+
+typedef struct database{
+	int id, age;
+	float salary;
+}database;
+
+int main(void) {
+	setvbuf(stdout, NULL, _IONBF, 0);
+
+	database emp;
+	emp.id = 10;
+	emp.age = 40;
+	emp.salary = 200.12;
+
+	printf("%d%d%f", emp.id, emp.age, emp.salary);
+
+
+//	printf("Enter a number : ");
+//	scanf("%d", &x);
+//
+//	p = &x;
+//
+//	printf("Pointer p points to : %d", *p);
+//	printf("\np = &x is p = %d", p);
+
+
+
+	return EXIT_SUCCESS;
+}

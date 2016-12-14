@@ -1,0 +1,64 @@
+/*
+ ============================================================================
+ Name        : subString.c
+ Author      : 
+ Version     :
+ Copyright   : Your copyright notice
+ Description : Hello World in C, Ansi-style
+ ============================================================================
+ */
+
+#include <stdio.h>
+#include <stdlib.h>
+
+int sizeOfCharArray(char array[]){
+	int i = 0;
+	while(array[i]!='\0'){i++;}
+	return i;
+}
+
+char findLongestSubstring(char string1[], char string2[], int string1Size, int string2Size, int size){
+	int i = 0, j = 0, k;
+	char longestSubString[size];
+	char singleChar;
+
+	for(i = 0; i<string1Size; i++){
+		if(string1[i] == string2[j]){
+			singleChar = string2[j];
+			for(k=0; k<size; k++){
+				longestSubString[k] = string2[j];
+			}
+			j++;
+			if(j == string2Size) break;
+			}
+		else {
+			j = 0;
+			for(k = 0; k<size; k++) longestSubString[k] = '\0';
+		}
+	}
+
+	return longestSubString;
+}
+
+
+int main(void) {
+		int size = 10, i;
+		char string1[size], string2[size], longestSubString[size];
+		//get input for the first string and store in char mainString(string)
+		scanf("%s", &string1);
+
+		//get input string and store in char mainString(subString) to find if that string exists as substring.
+		scanf("%s", &string2);
+
+		int string1Size = sizeOfCharArray(string1);
+		int string2Size = sizeOfCharArray(string2);
+
+		longestSubString[size] = findLongestSubstring(string1, string2, string1Size, string2Size, size);
+
+		for(i = 0; i < size; i++){
+			printf("Inside for\n");
+			printf("%c\t", longestSubString[i]);
+		}
+
+return EXIT_SUCCESS;
+}

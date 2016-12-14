@@ -1,0 +1,7 @@
+12:41:02 **** Incremental Build of configuration Debug for project PointerTests ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\PointerTests.o" "..\\src\\PointerTests.c" 
+gcc -o PointerTests.exe "src\\PointerTests.o" 
+
+12:41:02 Build Finished (took 344ms)
+

@@ -1,0 +1,10 @@
+content_assist_disabled_computers=org.eclipse.cdt.ui.textProposalCategory\u0000org.eclipse.cdt.ui.parserProposalCategory\u0000
+eclipse.preferences.version=1
+sourceHoverBackgroundColor=255,255,225
+spelling_ignore_string_literals=false
+spelling_locale_initialized=true
+spelling_user_dictionary=C\:\\Users\\salil\\Downloads\\eclipse-cpp-neon-1-win32-x86_64\\eclipse\\Self_Dictionary
+spelling_user_dictionary_encoding=UTF-8
+useAnnotationsPrefPage=true
+useQuickDiffPrefPage=true
+wizard.preferred.toolchains=cdt.managedbuild.toolchain.gnu.mingw.exe.debug

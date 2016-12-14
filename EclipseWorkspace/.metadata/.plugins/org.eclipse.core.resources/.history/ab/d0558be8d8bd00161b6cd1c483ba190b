@@ -1,0 +1,25 @@
+/*
+ ============================================================================
+ Name        : PointerTests.c
+ Author      : 
+ Version     :
+ Copyright   : Your copyright notice
+ Description : Hello World in C, Ansi-style
+ ============================================================================
+ */
+
+#include <stdio.h>
+#include <stdlib.h>
+
+int main(void) {
+	setvbuf(stdout, NULL, _IONBF, 0);
+	int x, *p;
+	printf("Enter a number : ");
+	scanf("%d", &x);
+
+	p = &x;
+
+	printf("Pointer p points to : %d", *p);
+
+	return EXIT_SUCCESS;
+}

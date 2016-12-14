@@ -1,0 +1,38 @@
+/*
+ ============================================================================
+ Name        : HRT.c
+ Author      : 
+ Version     :
+ Copyright   : Your copyright notice
+ Description : Hello World in C, Ansi-style
+ ============================================================================
+ */
+
+#include <stdio.h>
+#include <stdlib.h>
+
+void insertionSort(int array[], int n)
+{
+   int i, k, j;
+   for (i = 1; i < n; i++)
+   {
+       k = array[i];
+       j = i-1;
+
+       /* Move elements of arr[0..i-1], that are
+          greater than key, to one position ahead
+          of their current position */
+       while (j >= 0 && array[j] > k)
+       {
+           array[j+1] = array[j];
+           j = j-1;
+       }
+       array[j+1] = k;
+   }
+}
+
+int main(void) {
+	int array[] = {1,2,5,4,6,5};
+	int array2[] = insertionSort(array, 6);
+	return EXIT_SUCCESS;
+}

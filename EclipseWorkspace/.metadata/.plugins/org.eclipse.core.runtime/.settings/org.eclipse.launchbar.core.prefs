@@ -1,0 +1,7 @@
+LaunchTargetManager/org.eclipse.launchbar.core.launchTargetType.local,Local/arch=x86_64
+LaunchTargetManager/org.eclipse.launchbar.core.launchTargetType.local,Local/os=win32
+configDescList=org.eclipse.launchbar.core.descriptorType.default\:HeaderFile.exe,org.eclipse.launchbar.core.descriptorType.default\:HRT.exe,org.eclipse.launchbar.core.descriptorType.default\:StatisticalOperations2.exe,org.eclipse.launchbar.core.descriptorType.default\:subString.exe,org.eclipse.launchbar.core.descriptorType.default\:Test.exe,org.eclipse.launchbar.core.descriptorType.default\:PointerTests.exe,org.eclipse.launchbar.core.descriptorType.default\:LinkedList.exe,org.eclipse.launchbar.core.descriptorType.default\:LongestSubString.exe
+eclipse.preferences.version=1
+org.eclipse.launchbar.core.descriptorType.default\:HeaderFile.exe/activeLaunchMode=run
+org.eclipse.launchbar.core.descriptorType.default\:HeaderFile.exe/activeLaunchTarget=org.eclipse.launchbar.core.launchTargetType.local\:Local
+org.eclipse.launchbar.core.descriptorType.default\:PointerTests.exe/activeLaunchMode=run

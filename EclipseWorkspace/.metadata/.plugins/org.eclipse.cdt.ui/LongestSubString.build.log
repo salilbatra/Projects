@@ -1,0 +1,21 @@
+20:43:54 **** Incremental Build of configuration Debug for project LongestSubString ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\LongestSubString.o" "..\\src\\LongestSubString.c" 
+..\src\LongestSubString.c: In function 'findLongestSubstring':
+..\src\LongestSubString.c:21:20: warning: unused variable 'k' [-Wunused-variable]
+  int i = 0, j = 0, k;
+                    ^
+..\src\LongestSubString.c: In function 'main':
+..\src\LongestSubString.c:75:11: warning: format '%s' expects argument of type 'char *', but argument 2 has type 'char (*)[(sizetype)(size)]' [-Wformat=]
+   scanf("%s", &string1);
+           ^
+..\src\LongestSubString.c:78:11: warning: format '%s' expects argument of type 'char *', but argument 2 has type 'char (*)[(sizetype)(size)]' [-Wformat=]
+   scanf("%s", &string2);
+           ^
+..\src\LongestSubString.c:72:18: warning: unused variable 'i' [-Wunused-variable]
+   int size = 10, i;
+                  ^
+gcc -o LongestSubString.exe "src\\LongestSubString.o" 
+
+20:43:54 Build Finished (took 357ms)
+

@@ -1,0 +1,133 @@
+/*
+ ============================================================================
+ Name        : HeaderFile.c
+ Author      : 
+ Version     :
+ Copyright   : Your copyright notice
+ Description : Hello World in C, Ansi-style
+ ============================================================================
+ */
+
+#include <stdio.h>
+#include <stdlib.h>
+
+#define ROW 10
+#define COLUMN 1000
+
+int sizeOfIntegerArray(int array[]){
+	int i;
+	for(i = 0; i < ROW; i++){
+		if(array[i] == NULL)
+			return i;
+	}
+return i;
+}
+
+int sizeOfCharArray(char array[]){
+	int i;
+	for(i = 0; i < ROW; i++){
+		if(array[i] == NULL)
+			return i;
+	}
+return i;
+}
+
+int sizeOf2DArray(int array[][COLUMN]){
+	int i;
+	for(i = 0;i < ROW; i++){
+		if(array[i][0] == NULL)
+			return i;
+		}
+}
+
+void nullify1DArray(int array[]){
+	int i;
+	for(i = 0; i<ROW; i++){
+		array[i] = NULL;
+	}
+}
+
+void nullify2DArray(int array[][COLUMN]){
+	int i,j;
+	for(i = 0; i < ROW; i++){
+	for(j = 0; j < COLUMN; j++)
+		array[i][j] = NULL;
+	}
+}
+
+void insertionSort(int array[], int sizeOfIntegerArray)
+{
+   int i, pivot, key;
+   for (i = 1; i < sizeOfIntegerArray; i++)
+   {
+       pivot = array[i];
+       key = i-1;
+
+       while (key >= 0 && array[key] > pivot)
+       {
+           array[key+1] = array[key];
+           key = key-1;
+       }
+       array[key+1] = key;
+   }
+}
+
+/*
+char readStringToCharArray(char ){
+
+}
+*/
+
+//int readString() {
+//
+//    char *line = NULL;  /* forces getline to allocate with malloc */
+//    size_t len = 0;     /* ignored when line = NULL */
+//    ssize_t read;
+//
+//    printf ("\nEnter string below [ctrl + d] to quit\n");
+//
+//    while ((read = getline(&line, &len, stdin)) != -1) {
+//
+//        if (read > 0)
+//            printf ("\n  read %zd chars from stdin, allocated %zd bytes for line : %s\n", read, len, line);
+//
+//        printf ("Enter string below [ctrl + d] to quit\n");
+//    }
+//
+//    free (line);  /* free memory allocated by getline */
+//
+//    return 0;
+//}
+
+/*
+ * pointer to an array
+ * length of the array
+ *
+ */
+
+typedef struct arrayOperations{
+	char * PTRc;
+	int * PTRi;
+
+} arrayOperations;
+
+
+typedef int INTEGER;
+
+int main() {
+	//readString();
+	char c[6] = "salil";
+	int arr[5][5] = {1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25};
+	printf("\n%d",arr[4][0]);
+	printf("\n%d",arr[1][10]);
+	char * ptrC[6];
+	ptrC[0] = &c;
+	printf("\n%s",*ptrC);
+	exit(1);
+	INTEGER a[10];
+	nullify1DArray(a);
+	printf("%d", a[9]);
+	return EXIT_SUCCESS;
+
+
+}

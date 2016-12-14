@@ -1,0 +1,3027 @@
+22:23:07 **** Incremental Build of configuration Debug for project HeaderFile ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\HeaderFile.o" "..\\src\\HeaderFile.c" 
+..\src\HeaderFile.c: In function 'sizeOfIntegerArray':
+..\src\HeaderFile.c:21:15: warning: comparison between pointer and integer
+   if(array[i] == NULL)
+               ^~
+..\src\HeaderFile.c: In function 'sizeOf2DArray':
+..\src\HeaderFile.c:30:18: warning: comparison between pointer and integer
+   if(array[i][0] == NULL)
+                  ^~
+..\src\HeaderFile.c: In function 'nullify1DArray':
+..\src\HeaderFile.c:38:12: warning: assignment makes integer from pointer without a cast [-Wint-conversion]
+   array[i] = NULL;
+            ^
+..\src\HeaderFile.c: In function 'nullify2DArray':
+..\src\HeaderFile.c:46:15: warning: assignment makes integer from pointer without a cast [-Wint-conversion]
+   array[i][j] = NULL;
+               ^
+..\src\HeaderFile.c: At top level:
+..\src\HeaderFile.c:118:1: warning: useless storage class specifier in empty declaration
+ };
+ ^
+..\src\HeaderFile.c: In function 'createLinkedList':
+..\src\HeaderFile.c:126:2: error: expected ';' before '}' token
+  }
+  ^
+..\src\HeaderFile.c:128:1: error: expected ';' before '}' token
+ }
+ ^
+..\src\HeaderFile.c: In function 'main':
+..\src\HeaderFile.c:138:10: warning: format '%s' expects argument of type 'char *', but argument 2 has type 'char (*)[(sizetype)(size)]' [-Wformat=]
+  scanf("%s", &arr);
+          ^
+..\src\HeaderFile.c:142:10: warning: format '%s' expects argument of type 'char *', but argument 2 has type 'char (*)[(sizetype)(size)]' [-Wformat=]
+  scanf("%s", &arr2);
+          ^
+..\src\HeaderFile.c: In function 'sizeOf2DArray':
+..\src\HeaderFile.c:33:1: warning: control reaches end of non-void function [-Wreturn-type]
+ }
+ ^
+..\src\HeaderFile.c: In function 'createLinkedList':
+..\src\HeaderFile.c:128:1: warning: control reaches end of non-void function [-Wreturn-type]
+ }
+ ^
+22:23:10 **** Incremental Build of configuration Debug for project HeaderFile ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\HeaderFile.o" "..\\src\\HeaderFile.c" 
+..\src\HeaderFile.c: In function 'sizeOfIntegerArray':
+..\src\HeaderFile.c:21:15: warning: comparison between pointer and integer
+   if(array[i] == NULL)
+               ^~
+..\src\HeaderFile.c: In function 'sizeOf2DArray':
+..\src\HeaderFile.c:30:18: warning: comparison between pointer and integer
+   if(array[i][0] == NULL)
+                  ^~
+..\src\HeaderFile.c: In function 'nullify1DArray':
+..\src\HeaderFile.c:38:12: warning: assignment makes integer from pointer without a cast [-Wint-conversion]
+   array[i] = NULL;
+            ^
+..\src\HeaderFile.c: In function 'nullify2DArray':
+..\src\HeaderFile.c:46:15: warning: assignment makes integer from pointer without a cast [-Wint-conversion]
+   array[i][j] = NULL;
+               ^
+..\src\HeaderFile.c: At top level:
+..\src\HeaderFile.c:118:1: warning: useless storage class specifier in empty declaration
+ };
+ ^
+..\src\HeaderFile.c: In function 'createLinkedList':
+..\src\HeaderFile.c:126:2: error: expected ';' before '}' token
+  }
+  ^
+..\src\HeaderFile.c:128:1: error: expected ';' before '}' token
+ }
+ ^
+..\src\HeaderFile.c: In function 'main':
+..\src\HeaderFile.c:138:10: warning: format '%s' expects argument of type 'char *', but argument 2 has type 'char (*)[(sizetype)(size)]' [-Wformat=]
+  scanf("%s", &arr);
+          ^
+..\src\HeaderFile.c:142:10: warning: format '%s' expects argument of type 'char *', but argument 2 has type 'char (*)[(sizetype)(size)]' [-Wformat=]
+  scanf("%s", &arr2);
+          ^
+..\src\HeaderFile.c: In function 'sizeOf2DArray':
+..\src\HeaderFile.c:33:1: warning: control reaches end of non-void function [-Wreturn-type]
+ }
+ ^
+..\src\HeaderFile.c: In function 'createLinkedList':
+..\src\HeaderFile.c:128:1: warning: control reaches end of non-void function [-Wreturn-type]
+ }
+ ^
+22:23:16 **** Incremental Build of configuration Debug for project HeaderFile ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\HeaderFile.o" "..\\src\\HeaderFile.c" 
+..\src\HeaderFile.c: In function 'sizeOfIntegerArray':
+..\src\HeaderFile.c:21:15: warning: comparison between pointer and integer
+   if(array[i] == NULL)
+               ^~
+..\src\HeaderFile.c: In function 'sizeOf2DArray':
+..\src\HeaderFile.c:30:18: warning: comparison between pointer and integer
+   if(array[i][0] == NULL)
+                  ^~
+..\src\HeaderFile.c: In function 'nullify1DArray':
+..\src\HeaderFile.c:38:12: warning: assignment makes integer from pointer without a cast [-Wint-conversion]
+   array[i] = NULL;
+            ^
+..\src\HeaderFile.c: In function 'nullify2DArray':
+..\src\HeaderFile.c:46:15: warning: assignment makes integer from pointer without a cast [-Wint-conversion]
+   array[i][j] = NULL;
+               ^
+..\src\HeaderFile.c: At top level:
+..\src\HeaderFile.c:118:1: warning: useless storage class specifier in empty declaration
+ };
+ ^
+..\src\HeaderFile.c: In function 'createLinkedList':
+..\src\HeaderFile.c:126:2: error: expected ';' before '}' token
+  }
+  ^
+..\src\HeaderFile.c:128:1: error: expected ';' before '}' token
+ }
+ ^
+..\src\HeaderFile.c: In function 'main':
+..\src\HeaderFile.c:138:10: warning: format '%s' expects argument of type 'char *', but argument 2 has type 'char (*)[(sizetype)(size)]' [-Wformat=]
+  scanf("%s", &arr);
+          ^
+..\src\HeaderFile.c:142:10: warning: format '%s' expects argument of type 'char *', but argument 2 has type 'char (*)[(sizetype)(size)]' [-Wformat=]
+  scanf("%s", &arr2);
+          ^
+..\src\HeaderFile.c: In function 'sizeOf2DArray':
+..\src\HeaderFile.c:33:1: warning: control reaches end of non-void function [-Wreturn-type]
+ }
+ ^
+..\src\HeaderFile.c: In function 'createLinkedList':
+..\src\HeaderFile.c:128:1: warning: control reaches end of non-void function [-Wreturn-type]
+ }
+ ^
+22:23:28 **** Incremental Build of configuration Debug for project HeaderFile ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\HeaderFile.o" "..\\src\\HeaderFile.c" 
+..\src\HeaderFile.c: In function 'sizeOfIntegerArray':
+..\src\HeaderFile.c:21:15: warning: comparison between pointer and integer
+   if(array[i] == NULL)
+               ^~
+..\src\HeaderFile.c: In function 'sizeOf2DArray':
+..\src\HeaderFile.c:30:18: warning: comparison between pointer and integer
+   if(array[i][0] == NULL)
+                  ^~
+..\src\HeaderFile.c: In function 'nullify1DArray':
+..\src\HeaderFile.c:38:12: warning: assignment makes integer from pointer without a cast [-Wint-conversion]
+   array[i] = NULL;
+            ^
+..\src\HeaderFile.c: In function 'nullify2DArray':
+..\src\HeaderFile.c:46:15: warning: assignment makes integer from pointer without a cast [-Wint-conversion]
+   array[i][j] = NULL;
+               ^
+..\src\HeaderFile.c: At top level:
+..\src\HeaderFile.c:118:1: warning: useless storage class specifier in empty declaration
+ };
+ ^
+..\src\HeaderFile.c: In function 'main':
+..\src\HeaderFile.c:138:10: warning: format '%s' expects argument of type 'char *', but argument 2 has type 'char (*)[(sizetype)(size)]' [-Wformat=]
+  scanf("%s", &arr);
+          ^
+..\src\HeaderFile.c:142:10: warning: format '%s' expects argument of type 'char *', but argument 2 has type 'char (*)[(sizetype)(size)]' [-Wformat=]
+  scanf("%s", &arr2);
+          ^
+..\src\HeaderFile.c: In function 'sizeOf2DArray':
+..\src\HeaderFile.c:33:1: warning: control reaches end of non-void function [-Wreturn-type]
+ }
+ ^
+gcc -o HeaderFile.exe "src\\HeaderFile.o" 
+23:29:14 **** Rebuild of configuration Debug for project PointerTests ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\PointerTests.o" "..\\src\\PointerTests.c" 
+gcc -o PointerTests.exe "src\\PointerTests.o" 
+23:29:17 **** Incremental Build of configuration Debug for project PointerTests ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\PointerTests.o" "..\\src\\PointerTests.c" 
+gcc -o PointerTests.exe "src\\PointerTests.o" 
+23:29:59 **** Incremental Build of configuration Debug for project PointerTests ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\PointerTests.o" "..\\src\\PointerTests.c" 
+..\src\PointerTests.c: In function 'main':
+..\src\PointerTests.c:23:26: warning: format '%d' expects argument of type 'int', but argument 2 has type 'int *' [-Wformat=]
+  printf(" p = &x is p = %d", p);
+                          ^
+gcc -o PointerTests.exe "src\\PointerTests.o" 
+23:30:18 **** Incremental Build of configuration Debug for project PointerTests ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\PointerTests.o" "..\\src\\PointerTests.c" 
+..\src\PointerTests.c: In function 'main':
+..\src\PointerTests.c:23:27: warning: format '%d' expects argument of type 'int', but argument 2 has type 'int *' [-Wformat=]
+  printf("\np = &x is p = %d", p);
+                           ^
+gcc -o PointerTests.exe "src\\PointerTests.o" 
+23:34:14 **** Incremental Build of configuration Debug for project PointerTests ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\PointerTests.o" "..\\src\\PointerTests.c" 
+..\src\PointerTests.c: In function 'main':
+..\src\PointerTests.c:27:7: warning: assignment makes integer from pointer without a cast [-Wint-conversion]
+  *ptr = malloc(sizeof(int));
+       ^
+..\src\PointerTests.c:29:11: warning: format '%d' expects argument of type 'int', but argument 2 has type 'int *' [-Wformat=]
+  printf("%d ptr", ptr);
+           ^
+..\src\PointerTests.c:17:10: warning: unused variable 'p' [-Wunused-variable]
+  int x, *p;
+          ^
+..\src\PointerTests.c:17:6: warning: unused variable 'x' [-Wunused-variable]
+  int x, *p;
+      ^
+..\src\PointerTests.c:27:7: warning: 'ptr' is used uninitialized in this function [-Wuninitialized]
+  *ptr = malloc(sizeof(int));
+  ~~~~~^~~~~~~~~~~~~~~~~~~~~
+gcc -o PointerTests.exe "src\\PointerTests.o" 
+23:35:21 **** Incremental Build of configuration Debug for project PointerTests ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\PointerTests.o" "..\\src\\PointerTests.c" 
+..\src\PointerTests.c: In function 'main':
+..\src\PointerTests.c:27:7: warning: assignment makes integer from pointer without a cast [-Wint-conversion]
+  *ptr = malloc(sizeof(int));
+       ^
+..\src\PointerTests.c:29:11: warning: format '%d' expects argument of type 'int', but argument 2 has type 'int *' [-Wformat=]
+  printf("%d ptr", ptr);
+           ^
+..\src\PointerTests.c:17:10: warning: unused variable 'p' [-Wunused-variable]
+  int x, *p;
+          ^
+..\src\PointerTests.c:17:6: warning: unused variable 'x' [-Wunused-variable]
+  int x, *p;
+      ^
+..\src\PointerTests.c:27:7: warning: 'ptr' is used uninitialized in this function [-Wuninitialized]
+  *ptr = malloc(sizeof(int));
+  ~~~~~^~~~~~~~~~~~~~~~~~~~~
+gcc -o PointerTests.exe "src\\PointerTests.o" 
+23:35:50 **** Incremental Build of configuration Debug for project PointerTests ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\PointerTests.o" "..\\src\\PointerTests.c" 
+..\src\PointerTests.c: In function 'main':
+..\src\PointerTests.c:27:7: warning: assignment makes integer from pointer without a cast [-Wint-conversion]
+  *ptr = malloc(sizeof(int));
+       ^
+..\src\PointerTests.c:17:10: warning: unused variable 'p' [-Wunused-variable]
+  int x, *p;
+          ^
+..\src\PointerTests.c:17:6: warning: unused variable 'x' [-Wunused-variable]
+  int x, *p;
+      ^
+..\src\PointerTests.c:27:7: warning: 'ptr' is used uninitialized in this function [-Wuninitialized]
+  *ptr = malloc(sizeof(int));
+  ~~~~~^~~~~~~~~~~~~~~~~~~~~
+gcc -o PointerTests.exe "src\\PointerTests.o" 
+23:36:08 **** Incremental Build of configuration Debug for project PointerTests ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\PointerTests.o" "..\\src\\PointerTests.c" 
+..\src\PointerTests.c: In function 'main':
+..\src\PointerTests.c:29:11: warning: format '%d' expects argument of type 'int', but argument 2 has type 'int *' [-Wformat=]
+  printf("%d ptr", ptr);
+           ^
+..\src\PointerTests.c:17:10: warning: unused variable 'p' [-Wunused-variable]
+  int x, *p;
+          ^
+..\src\PointerTests.c:17:6: warning: unused variable 'x' [-Wunused-variable]
+  int x, *p;
+      ^
+gcc -o PointerTests.exe "src\\PointerTests.o" 
+23:36:43 **** Incremental Build of configuration Debug for project PointerTests ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\PointerTests.o" "..\\src\\PointerTests.c" 
+..\src\PointerTests.c: In function 'main':
+..\src\PointerTests.c:29:13: warning: format '%d' expects argument of type 'int', but argument 2 has type 'int *' [-Wformat=]
+  printf("\n%d ptr", ptr);
+             ^
+..\src\PointerTests.c:17:10: warning: unused variable 'p' [-Wunused-variable]
+  int x, *p;
+          ^
+..\src\PointerTests.c:17:6: warning: unused variable 'x' [-Wunused-variable]
+  int x, *p;
+      ^
+gcc -o PointerTests.exe "src\\PointerTests.o" 
+23:37:16 **** Incremental Build of configuration Debug for project PointerTests ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\PointerTests.o" "..\\src\\PointerTests.c" 
+..\src\PointerTests.c: In function 'main':
+..\src\PointerTests.c:29:13: warning: format '%d' expects argument of type 'int', but argument 2 has type 'int *' [-Wformat=]
+  printf("\n%d ptr", ptr);
+             ^
+..\src\PointerTests.c:30:7: warning: passing argument 1 of 'free' makes pointer from integer without a cast [-Wint-conversion]
+  free(*ptr);
+       ^
+In file included from ..\src\PointerTests.c:12:0:
+c:\users\salil\gcc\x86_64-w64-mingw32\include\stdlib.h:447:16: note: expected 'void *' but argument is of type 'int'
+   void __cdecl free(void *_Memory);
+                ^~~~
+..\src\PointerTests.c:17:10: warning: unused variable 'p' [-Wunused-variable]
+  int x, *p;
+          ^
+..\src\PointerTests.c:17:6: warning: unused variable 'x' [-Wunused-variable]
+  int x, *p;
+      ^
+gcc -o PointerTests.exe "src\\PointerTests.o" 
+23:46:06 **** Incremental Build of configuration Debug for project PointerTests ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\PointerTests.o" "..\\src\\PointerTests.c" 
+gcc -o PointerTests.exe "src\\PointerTests.o" 
+23:46:29 **** Incremental Build of configuration Debug for project PointerTests ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\PointerTests.o" "..\\src\\PointerTests.c" 
+gcc -o PointerTests.exe "src\\PointerTests.o" 
+23:49:41 **** Incremental Build of configuration Debug for project PointerTests ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\PointerTests.o" "..\\src\\PointerTests.c" 
+gcc -o PointerTests.exe "src\\PointerTests.o" 
+23:51:03 **** Incremental Build of configuration Debug for project PointerTests ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\PointerTests.o" "..\\src\\PointerTests.c" 
+..\src\PointerTests.c: In function 'main':
+..\src\PointerTests.c:29:23: error: invalid type argument of unary '*' (have 'int')
+  printf("%d\n%d\n%f", *ptr->age, ptr->id, ptr->salary);
+                       ^~~~~~~~~
+23:51:17 **** Incremental Build of configuration Debug for project PointerTests ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\PointerTests.o" "..\\src\\PointerTests.c" 
+gcc -o PointerTests.exe "src\\PointerTests.o" 
+23:52:25 **** Incremental Build of configuration Debug for project PointerTests ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\PointerTests.o" "..\\src\\PointerTests.c" 
+..\src\PointerTests.c: In function 'main':
+..\src\PointerTests.c:25:5: error: 'ptr' is a pointer; did you mean to use '->'?
+  ptr.id = 10;
+     ^
+     ->
+23:52:48 **** Incremental Build of configuration Debug for project PointerTests ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\PointerTests.o" "..\\src\\PointerTests.c" 
+gcc -o PointerTests.exe "src\\PointerTests.o" 
+21:21:26 **** Incremental Build of configuration Debug for project PointerTests ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\PointerTests.o" "..\\src\\PointerTests.c" 
+..\src\PointerTests.c: In function 'printLL':
+..\src\PointerTests.c:32:16: error: invalid type argument of unary '*' (have 'int')
+   printf("%d", *node2.x);
+                ^~~~~~~~
+21:21:47 **** Incremental Build of configuration Debug for project PointerTests ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\PointerTests.o" "..\\src\\PointerTests.c" 
+gcc -o PointerTests.exe "src\\PointerTests.o" 
+21:22:29 **** Incremental Build of configuration Debug for project PointerTests ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\PointerTests.o" "..\\src\\PointerTests.c" 
+gcc -o PointerTests.exe "src\\PointerTests.o" 
+21:22:48 **** Incremental Build of configuration Debug for project PointerTests ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\PointerTests.o" "..\\src\\PointerTests.c" 
+gcc -o PointerTests.exe "src\\PointerTests.o" 
+12:12:15 **** Incremental Build of configuration Debug for project PointerTests ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\PointerTests.o" "..\\src\\PointerTests.c" 
+..\src\PointerTests.c: In function 'printLL':
+..\src\PointerTests.c:29:23: error: 'linkedList {aka struct linkedList}' has no member named 'p'
+  printf("->%d", *node1.p);
+                       ^
+..\src\PointerTests.c:31:23: error: 'linkedList {aka struct linkedList}' has no member named 'p'
+  printf("->%d", *node2.p);
+                       ^
+..\src\PointerTests.c: In function 'main':
+..\src\PointerTests.c:65:7: error: 'linkedList {aka struct linkedList}' has no member named 'p'
+  node1.p = &node2.x;
+       ^
+..\src\PointerTests.c:66:7: error: 'linkedList {aka struct linkedList}' has no member named 'p'
+  node2.p = &node3.x;
+       ^
+12:12:33 **** Incremental Build of configuration Debug for project HeaderFile ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\HeaderFile.o" "..\\src\\HeaderFile.c" 
+..\src\HeaderFile.c: In function 'sizeOfIntegerArray':
+..\src\HeaderFile.c:21:15: warning: comparison between pointer and integer
+   if(array[i] == NULL)
+               ^~
+..\src\HeaderFile.c: In function 'sizeOf2DArray':
+..\src\HeaderFile.c:30:18: warning: comparison between pointer and integer
+   if(array[i][0] == NULL)
+                  ^~
+..\src\HeaderFile.c: In function 'nullify1DArray':
+..\src\HeaderFile.c:38:12: warning: assignment makes integer from pointer without a cast [-Wint-conversion]
+   array[i] = NULL;
+            ^
+..\src\HeaderFile.c: In function 'nullify2DArray':
+..\src\HeaderFile.c:46:15: warning: assignment makes integer from pointer without a cast [-Wint-conversion]
+   array[i][j] = NULL;
+               ^
+..\src\HeaderFile.c: In function 'main':
+..\src\HeaderFile.c:138:10: warning: format '%s' expects argument of type 'char *', but argument 2 has type 'char (*)[(sizetype)(size)]' [-Wformat=]
+  scanf("%s", &arr);
+          ^
+..\src\HeaderFile.c:142:10: warning: format '%s' expects argument of type 'char *', but argument 2 has type 'char (*)[(sizetype)(size)]' [-Wformat=]
+  scanf("%s", &arr2);
+          ^
+..\src\HeaderFile.c: In function 'sizeOf2DArray':
+..\src\HeaderFile.c:33:1: warning: control reaches end of non-void function [-Wreturn-type]
+ }
+ ^
+gcc -o HeaderFile.exe "src\\HeaderFile.o" 
+13:49:26 **** Incremental Build of configuration Debug for project HeaderFile ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\HeaderFile.o" "..\\src\\HeaderFile.c" 
+..\src\HeaderFile.c: In function 'sizeOfIntegerArray':
+..\src\HeaderFile.c:21:15: warning: comparison between pointer and integer
+   if(array[i] == NULL)
+               ^~
+..\src\HeaderFile.c: In function 'sizeOf2DArray':
+..\src\HeaderFile.c:30:18: warning: comparison between pointer and integer
+   if(array[i][0] == NULL)
+                  ^~
+..\src\HeaderFile.c: In function 'nullify1DArray':
+..\src\HeaderFile.c:38:12: warning: assignment makes integer from pointer without a cast [-Wint-conversion]
+   array[i] = NULL;
+            ^
+..\src\HeaderFile.c: In function 'nullify2DArray':
+..\src\HeaderFile.c:46:15: warning: assignment makes integer from pointer without a cast [-Wint-conversion]
+   array[i][j] = NULL;
+               ^
+..\src\HeaderFile.c: In function 'main':
+..\src\HeaderFile.c:145:10: warning: format '%s' expects argument of type 'char *', but argument 2 has type 'char (*)[(sizetype)(size)]' [-Wformat=]
+  scanf("%s", &arr);
+          ^
+..\src\HeaderFile.c:149:10: warning: format '%s' expects argument of type 'char *', but argument 2 has type 'char (*)[(sizetype)(size)]' [-Wformat=]
+  scanf("%s", &arr2);
+          ^
+..\src\HeaderFile.c:152:17: warning: implicit declaration of function 'sizeOfCharArray' [-Wimplicit-function-declaration]
+  int arr2Size = sizeOfCharArray(arr2);
+                 ^~~~~~~~~~~~~~~
+..\src\HeaderFile.c: In function 'sizeOf2DArray':
+..\src\HeaderFile.c:33:1: warning: control reaches end of non-void function [-Wreturn-type]
+ }
+ ^
+gcc -o HeaderFile.exe "src\\HeaderFile.o" 
+src\HeaderFile.o: In function `main':
+C:\Users\salil\EclipseWorkspace\HeaderFile\Debug/../src/HeaderFile.c:152: undefined reference to `sizeOfCharArray'
+collect2.exe: error: ld returned 1 exit status
+13:49:41 **** Incremental Build of configuration Debug for project HeaderFile ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\HeaderFile.o" "..\\src\\HeaderFile.c" 
+..\src\HeaderFile.c: In function 'sizeOfIntegerArray':
+..\src\HeaderFile.c:21:15: warning: comparison between pointer and integer
+   if(array[i] == NULL)
+               ^~
+..\src\HeaderFile.c: In function 'sizeOf2DArray':
+..\src\HeaderFile.c:30:18: warning: comparison between pointer and integer
+   if(array[i][0] == NULL)
+                  ^~
+..\src\HeaderFile.c: In function 'nullify1DArray':
+..\src\HeaderFile.c:38:12: warning: assignment makes integer from pointer without a cast [-Wint-conversion]
+   array[i] = NULL;
+            ^
+..\src\HeaderFile.c: In function 'nullify2DArray':
+..\src\HeaderFile.c:46:15: warning: assignment makes integer from pointer without a cast [-Wint-conversion]
+   array[i][j] = NULL;
+               ^
+..\src\HeaderFile.c: In function 'main':
+..\src\HeaderFile.c:145:10: warning: format '%s' expects argument of type 'char *', but argument 2 has type 'char (*)[(sizetype)(size)]' [-Wformat=]
+  scanf("%s", &arr);
+          ^
+..\src\HeaderFile.c:149:10: warning: format '%s' expects argument of type 'char *', but argument 2 has type 'char (*)[(sizetype)(size)]' [-Wformat=]
+  scanf("%s", &arr2);
+          ^
+..\src\HeaderFile.c: In function 'sizeOf2DArray':
+..\src\HeaderFile.c:33:1: warning: control reaches end of non-void function [-Wreturn-type]
+ }
+ ^
+gcc -o HeaderFile.exe "src\\HeaderFile.o" 
+13:50:42 **** Incremental Build of configuration Debug for project HeaderFile ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\HeaderFile.o" "..\\src\\HeaderFile.c" 
+..\src\HeaderFile.c: In function 'sizeOfIntegerArray':
+..\src\HeaderFile.c:21:15: warning: comparison between pointer and integer
+   if(array[i] == NULL)
+               ^~
+..\src\HeaderFile.c: In function 'sizeOf2DArray':
+..\src\HeaderFile.c:30:18: warning: comparison between pointer and integer
+   if(array[i][0] == NULL)
+                  ^~
+..\src\HeaderFile.c: In function 'nullify1DArray':
+..\src\HeaderFile.c:38:12: warning: assignment makes integer from pointer without a cast [-Wint-conversion]
+   array[i] = NULL;
+            ^
+..\src\HeaderFile.c: In function 'nullify2DArray':
+..\src\HeaderFile.c:46:15: warning: assignment makes integer from pointer without a cast [-Wint-conversion]
+   array[i][j] = NULL;
+               ^
+..\src\HeaderFile.c: In function 'main':
+..\src\HeaderFile.c:145:10: warning: format '%s' expects argument of type 'char *', but argument 2 has type 'char (*)[(sizetype)(size)]' [-Wformat=]
+  scanf("%s", &arr);
+          ^
+..\src\HeaderFile.c:149:10: warning: format '%s' expects argument of type 'char *', but argument 2 has type 'char (*)[(sizetype)(size)]' [-Wformat=]
+  scanf("%s", &arr2);
+          ^
+..\src\HeaderFile.c: In function 'sizeOf2DArray':
+..\src\HeaderFile.c:33:1: warning: control reaches end of non-void function [-Wreturn-type]
+ }
+ ^
+gcc -o HeaderFile.exe "src\\HeaderFile.o" 
+13:54:31 **** Incremental Build of configuration Debug for project HeaderFile ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\HeaderFile.o" "..\\src\\HeaderFile.c" 
+..\src\HeaderFile.c: In function 'sizeOfIntegerArray':
+..\src\HeaderFile.c:21:15: warning: comparison between pointer and integer
+   if(array[i] == NULL)
+               ^~
+..\src\HeaderFile.c: In function 'sizeOf2DArray':
+..\src\HeaderFile.c:30:18: warning: comparison between pointer and integer
+   if(array[i][0] == NULL)
+                  ^~
+..\src\HeaderFile.c: In function 'nullify1DArray':
+..\src\HeaderFile.c:38:12: warning: assignment makes integer from pointer without a cast [-Wint-conversion]
+   array[i] = NULL;
+            ^
+..\src\HeaderFile.c: In function 'nullify2DArray':
+..\src\HeaderFile.c:46:15: warning: assignment makes integer from pointer without a cast [-Wint-conversion]
+   array[i][j] = NULL;
+               ^
+..\src\HeaderFile.c: In function 'main':
+..\src\HeaderFile.c:141:10: warning: format '%s' expects argument of type 'char *', but argument 2 has type 'char (*)[(sizetype)(size)]' [-Wformat=]
+  scanf("%s", &arr);
+          ^
+..\src\HeaderFile.c:145:10: warning: format '%s' expects argument of type 'char *', but argument 2 has type 'char (*)[(sizetype)(size)]' [-Wformat=]
+  scanf("%s", &arr2);
+          ^
+..\src\HeaderFile.c: In function 'sizeOf2DArray':
+..\src\HeaderFile.c:33:1: warning: control reaches end of non-void function [-Wreturn-type]
+ }
+ ^
+gcc -o HeaderFile.exe "src\\HeaderFile.o" 
+13:58:11 **** Incremental Build of configuration Debug for project HeaderFile ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\HeaderFile.o" "..\\src\\HeaderFile.c" 
+..\src\HeaderFile.c: In function 'sizeOfIntegerArray':
+..\src\HeaderFile.c:21:15: warning: comparison between pointer and integer
+   if(array[i] == NULL)
+               ^~
+..\src\HeaderFile.c: In function 'sizeOf2DArray':
+..\src\HeaderFile.c:30:18: warning: comparison between pointer and integer
+   if(array[i][0] == NULL)
+                  ^~
+..\src\HeaderFile.c: In function 'nullify1DArray':
+..\src\HeaderFile.c:38:12: warning: assignment makes integer from pointer without a cast [-Wint-conversion]
+   array[i] = NULL;
+            ^
+..\src\HeaderFile.c: In function 'nullify2DArray':
+..\src\HeaderFile.c:46:15: warning: assignment makes integer from pointer without a cast [-Wint-conversion]
+   array[i][j] = NULL;
+               ^
+..\src\HeaderFile.c: In function 'main':
+..\src\HeaderFile.c:142:10: warning: format '%s' expects argument of type 'char *', but argument 2 has type 'char (*)[(sizetype)(size)]' [-Wformat=]
+  scanf("%s", &arr);
+          ^
+..\src\HeaderFile.c:146:10: warning: format '%s' expects argument of type 'char *', but argument 2 has type 'char (*)[(sizetype)(size)]' [-Wformat=]
+  scanf("%s", &arr2);
+          ^
+..\src\HeaderFile.c: In function 'sizeOf2DArray':
+..\src\HeaderFile.c:33:1: warning: control reaches end of non-void function [-Wreturn-type]
+ }
+ ^
+gcc -o HeaderFile.exe "src\\HeaderFile.o" 
+13:58:46 **** Incremental Build of configuration Debug for project HeaderFile ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\HeaderFile.o" "..\\src\\HeaderFile.c" 
+..\src\HeaderFile.c: In function 'sizeOfIntegerArray':
+..\src\HeaderFile.c:21:15: warning: comparison between pointer and integer
+   if(array[i] == NULL)
+               ^~
+..\src\HeaderFile.c: In function 'sizeOf2DArray':
+..\src\HeaderFile.c:30:18: warning: comparison between pointer and integer
+   if(array[i][0] == NULL)
+                  ^~
+..\src\HeaderFile.c: In function 'nullify1DArray':
+..\src\HeaderFile.c:38:12: warning: assignment makes integer from pointer without a cast [-Wint-conversion]
+   array[i] = NULL;
+            ^
+..\src\HeaderFile.c: In function 'nullify2DArray':
+..\src\HeaderFile.c:46:15: warning: assignment makes integer from pointer without a cast [-Wint-conversion]
+   array[i][j] = NULL;
+               ^
+..\src\HeaderFile.c: In function 'main':
+..\src\HeaderFile.c:142:10: warning: format '%s' expects argument of type 'char *', but argument 2 has type 'char (*)[(sizetype)(size)]' [-Wformat=]
+  scanf("%s", &arr);
+          ^
+..\src\HeaderFile.c:146:10: warning: format '%s' expects argument of type 'char *', but argument 2 has type 'char (*)[(sizetype)(size)]' [-Wformat=]
+  scanf("%s", &arr2);
+          ^
+..\src\HeaderFile.c: In function 'sizeOf2DArray':
+..\src\HeaderFile.c:33:1: warning: control reaches end of non-void function [-Wreturn-type]
+ }
+ ^
+gcc -o HeaderFile.exe "src\\HeaderFile.o" 
+14:04:31 **** Incremental Build of configuration Debug for project HeaderFile ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\HeaderFile.o" "..\\src\\HeaderFile.c" 
+..\src\HeaderFile.c: In function 'sizeOfIntegerArray':
+..\src\HeaderFile.c:21:15: warning: comparison between pointer and integer
+   if(array[i] == NULL)
+               ^~
+..\src\HeaderFile.c: In function 'sizeOf2DArray':
+..\src\HeaderFile.c:30:18: warning: comparison between pointer and integer
+   if(array[i][0] == NULL)
+                  ^~
+..\src\HeaderFile.c: In function 'nullify1DArray':
+..\src\HeaderFile.c:38:12: warning: assignment makes integer from pointer without a cast [-Wint-conversion]
+   array[i] = NULL;
+            ^
+..\src\HeaderFile.c: In function 'nullify2DArray':
+..\src\HeaderFile.c:46:15: warning: assignment makes integer from pointer without a cast [-Wint-conversion]
+   array[i][j] = NULL;
+               ^
+..\src\HeaderFile.c: In function 'main':
+..\src\HeaderFile.c:143:10: warning: format '%s' expects argument of type 'char *', but argument 2 has type 'char (*)[(sizetype)(size)]' [-Wformat=]
+  scanf("%s", &arr);
+          ^
+..\src\HeaderFile.c:147:10: warning: format '%s' expects argument of type 'char *', but argument 2 has type 'char (*)[(sizetype)(size)]' [-Wformat=]
+  scanf("%s", &arr2);
+          ^
+..\src\HeaderFile.c: In function 'sizeOf2DArray':
+..\src\HeaderFile.c:33:1: warning: control reaches end of non-void function [-Wreturn-type]
+ }
+ ^
+gcc -o HeaderFile.exe "src\\HeaderFile.o" 
+14:08:49 **** Incremental Build of configuration Debug for project HeaderFile ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\HeaderFile.o" "..\\src\\HeaderFile.c" 
+..\src\HeaderFile.c: In function 'sizeOfIntegerArray':
+..\src\HeaderFile.c:21:15: warning: comparison between pointer and integer
+   if(array[i] == NULL)
+               ^~
+..\src\HeaderFile.c: In function 'sizeOf2DArray':
+..\src\HeaderFile.c:30:18: warning: comparison between pointer and integer
+   if(array[i][0] == NULL)
+                  ^~
+..\src\HeaderFile.c: In function 'nullify1DArray':
+..\src\HeaderFile.c:38:12: warning: assignment makes integer from pointer without a cast [-Wint-conversion]
+   array[i] = NULL;
+            ^
+..\src\HeaderFile.c: In function 'nullify2DArray':
+..\src\HeaderFile.c:46:15: warning: assignment makes integer from pointer without a cast [-Wint-conversion]
+   array[i][j] = NULL;
+               ^
+..\src\HeaderFile.c: In function 'main':
+..\src\HeaderFile.c:141:10: warning: format '%s' expects argument of type 'char *', but argument 2 has type 'char (*)[(sizetype)(size)]' [-Wformat=]
+  scanf("%s", &arr);
+          ^
+..\src\HeaderFile.c:145:10: warning: format '%s' expects argument of type 'char *', but argument 2 has type 'char (*)[(sizetype)(size)]' [-Wformat=]
+  scanf("%s", &arr2);
+          ^
+..\src\HeaderFile.c: In function 'sizeOf2DArray':
+..\src\HeaderFile.c:33:1: warning: control reaches end of non-void function [-Wreturn-type]
+ }
+ ^
+gcc -o HeaderFile.exe "src\\HeaderFile.o" 
+14:14:58 **** Incremental Build of configuration Debug for project HeaderFile ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\HeaderFile.o" "..\\src\\HeaderFile.c" 
+..\src\HeaderFile.c: In function 'sizeOfIntegerArray':
+..\src\HeaderFile.c:21:15: warning: comparison between pointer and integer
+   if(array[i] == NULL)
+               ^~
+..\src\HeaderFile.c: In function 'sizeOf2DArray':
+..\src\HeaderFile.c:30:18: warning: comparison between pointer and integer
+   if(array[i][0] == NULL)
+                  ^~
+..\src\HeaderFile.c: In function 'nullify1DArray':
+..\src\HeaderFile.c:38:12: warning: assignment makes integer from pointer without a cast [-Wint-conversion]
+   array[i] = NULL;
+            ^
+..\src\HeaderFile.c: In function 'nullify2DArray':
+..\src\HeaderFile.c:46:15: warning: assignment makes integer from pointer without a cast [-Wint-conversion]
+   array[i][j] = NULL;
+               ^
+..\src\HeaderFile.c: In function 'main':
+..\src\HeaderFile.c:142:10: warning: format '%s' expects argument of type 'char *', but argument 2 has type 'char (*)[(sizetype)(size)]' [-Wformat=]
+  scanf("%s", &arr);
+          ^
+..\src\HeaderFile.c:146:10: warning: format '%s' expects argument of type 'char *', but argument 2 has type 'char (*)[(sizetype)(size)]' [-Wformat=]
+  scanf("%s", &arr2);
+          ^
+..\src\HeaderFile.c: In function 'sizeOf2DArray':
+..\src\HeaderFile.c:33:1: warning: control reaches end of non-void function [-Wreturn-type]
+ }
+ ^
+gcc -o HeaderFile.exe "src\\HeaderFile.o" 
+14:15:59 **** Incremental Build of configuration Debug for project HeaderFile ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\HeaderFile.o" "..\\src\\HeaderFile.c" 
+..\src\HeaderFile.c: In function 'sizeOfIntegerArray':
+..\src\HeaderFile.c:21:15: warning: comparison between pointer and integer
+   if(array[i] == NULL)
+               ^~
+..\src\HeaderFile.c: In function 'sizeOf2DArray':
+..\src\HeaderFile.c:30:18: warning: comparison between pointer and integer
+   if(array[i][0] == NULL)
+                  ^~
+..\src\HeaderFile.c: In function 'nullify1DArray':
+..\src\HeaderFile.c:38:12: warning: assignment makes integer from pointer without a cast [-Wint-conversion]
+   array[i] = NULL;
+            ^
+..\src\HeaderFile.c: In function 'nullify2DArray':
+..\src\HeaderFile.c:46:15: warning: assignment makes integer from pointer without a cast [-Wint-conversion]
+   array[i][j] = NULL;
+               ^
+..\src\HeaderFile.c: In function 'main':
+..\src\HeaderFile.c:142:10: warning: format '%s' expects argument of type 'char *', but argument 2 has type 'char (*)[(sizetype)(size)]' [-Wformat=]
+  scanf("%s", &arr);
+          ^
+..\src\HeaderFile.c:146:10: warning: format '%s' expects argument of type 'char *', but argument 2 has type 'char (*)[(sizetype)(size)]' [-Wformat=]
+  scanf("%s", &arr2);
+          ^
+..\src\HeaderFile.c: In function 'sizeOf2DArray':
+..\src\HeaderFile.c:33:1: warning: control reaches end of non-void function [-Wreturn-type]
+ }
+ ^
+gcc -o HeaderFile.exe "src\\HeaderFile.o" 
+14:16:22 **** Incremental Build of configuration Debug for project HeaderFile ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\HeaderFile.o" "..\\src\\HeaderFile.c" 
+..\src\HeaderFile.c: In function 'sizeOfIntegerArray':
+..\src\HeaderFile.c:21:15: warning: comparison between pointer and integer
+   if(array[i] == NULL)
+               ^~
+..\src\HeaderFile.c: In function 'sizeOf2DArray':
+..\src\HeaderFile.c:30:18: warning: comparison between pointer and integer
+   if(array[i][0] == NULL)
+                  ^~
+..\src\HeaderFile.c: In function 'nullify1DArray':
+..\src\HeaderFile.c:38:12: warning: assignment makes integer from pointer without a cast [-Wint-conversion]
+   array[i] = NULL;
+            ^
+..\src\HeaderFile.c: In function 'nullify2DArray':
+..\src\HeaderFile.c:46:15: warning: assignment makes integer from pointer without a cast [-Wint-conversion]
+   array[i][j] = NULL;
+               ^
+..\src\HeaderFile.c: In function 'main':
+..\src\HeaderFile.c:143:10: warning: format '%s' expects argument of type 'char *', but argument 2 has type 'char (*)[(sizetype)(size)]' [-Wformat=]
+  scanf("%s", &arr);
+          ^
+..\src\HeaderFile.c:147:10: warning: format '%s' expects argument of type 'char *', but argument 2 has type 'char (*)[(sizetype)(size)]' [-Wformat=]
+  scanf("%s", &arr2);
+          ^
+..\src\HeaderFile.c: In function 'sizeOf2DArray':
+..\src\HeaderFile.c:33:1: warning: control reaches end of non-void function [-Wreturn-type]
+ }
+ ^
+gcc -o HeaderFile.exe "src\\HeaderFile.o" 
+14:17:16 **** Incremental Build of configuration Debug for project HeaderFile ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\HeaderFile.o" "..\\src\\HeaderFile.c" 
+..\src\HeaderFile.c: In function 'sizeOfIntegerArray':
+..\src\HeaderFile.c:21:15: warning: comparison between pointer and integer
+   if(array[i] == NULL)
+               ^~
+..\src\HeaderFile.c: In function 'sizeOf2DArray':
+..\src\HeaderFile.c:30:18: warning: comparison between pointer and integer
+   if(array[i][0] == NULL)
+                  ^~
+..\src\HeaderFile.c: In function 'nullify1DArray':
+..\src\HeaderFile.c:38:12: warning: assignment makes integer from pointer without a cast [-Wint-conversion]
+   array[i] = NULL;
+            ^
+..\src\HeaderFile.c: In function 'nullify2DArray':
+..\src\HeaderFile.c:46:15: warning: assignment makes integer from pointer without a cast [-Wint-conversion]
+   array[i][j] = NULL;
+               ^
+..\src\HeaderFile.c: In function 'main':
+..\src\HeaderFile.c:142:10: warning: format '%s' expects argument of type 'char *', but argument 2 has type 'char (*)[(sizetype)(size)]' [-Wformat=]
+  scanf("%s", &arr);
+          ^
+..\src\HeaderFile.c:146:10: warning: format '%s' expects argument of type 'char *', but argument 2 has type 'char (*)[(sizetype)(size)]' [-Wformat=]
+  scanf("%s", &arr2);
+          ^
+..\src\HeaderFile.c: In function 'sizeOf2DArray':
+..\src\HeaderFile.c:33:1: warning: control reaches end of non-void function [-Wreturn-type]
+ }
+ ^
+gcc -o HeaderFile.exe "src\\HeaderFile.o" 
+14:47:29 **** Incremental Build of configuration Debug for project HeaderFile ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\HeaderFile.o" "..\\src\\HeaderFile.c" 
+..\src\HeaderFile.c: In function 'sizeOfIntegerArray':
+..\src\HeaderFile.c:21:15: warning: comparison between pointer and integer
+   if(array[i] == NULL)
+               ^~
+..\src\HeaderFile.c: In function 'sizeOf2DArray':
+..\src\HeaderFile.c:30:18: warning: comparison between pointer and integer
+   if(array[i][0] == NULL)
+                  ^~
+..\src\HeaderFile.c: In function 'nullify1DArray':
+..\src\HeaderFile.c:38:12: warning: assignment makes integer from pointer without a cast [-Wint-conversion]
+   array[i] = NULL;
+            ^
+..\src\HeaderFile.c: In function 'nullify2DArray':
+..\src\HeaderFile.c:46:15: warning: assignment makes integer from pointer without a cast [-Wint-conversion]
+   array[i][j] = NULL;
+               ^
+..\src\HeaderFile.c: In function 'containsSubString':
+..\src\HeaderFile.c:101:41: warning: comparison between pointer and integer
+    if(array[i] == array2[j] && array[i] != "\0"){
+                                         ^~
+..\src\HeaderFile.c:101:41: warning: comparison with string literal results in unspecified behavior [-Waddress]
+..\src\HeaderFile.c: In function 'main':
+..\src\HeaderFile.c:151:10: warning: format '%s' expects argument of type 'char *', but argument 2 has type 'char (*)[(sizetype)(size)]' [-Wformat=]
+  scanf("%s", &arr);
+          ^
+..\src\HeaderFile.c:155:10: warning: format '%s' expects argument of type 'char *', but argument 2 has type 'char (*)[(sizetype)(size)]' [-Wformat=]
+  scanf("%s", &arr2);
+          ^
+..\src\HeaderFile.c: In function 'sizeOf2DArray':
+..\src\HeaderFile.c:33:1: warning: control reaches end of non-void function [-Wreturn-type]
+ }
+ ^
+gcc -o HeaderFile.exe "src\\HeaderFile.o" 
+14:48:27 **** Incremental Build of configuration Debug for project HeaderFile ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\HeaderFile.o" "..\\src\\HeaderFile.c" 
+..\src\HeaderFile.c: In function 'sizeOfIntegerArray':
+..\src\HeaderFile.c:21:15: warning: comparison between pointer and integer
+   if(array[i] == NULL)
+               ^~
+..\src\HeaderFile.c: In function 'sizeOf2DArray':
+..\src\HeaderFile.c:30:18: warning: comparison between pointer and integer
+   if(array[i][0] == NULL)
+                  ^~
+..\src\HeaderFile.c: In function 'nullify1DArray':
+..\src\HeaderFile.c:38:12: warning: assignment makes integer from pointer without a cast [-Wint-conversion]
+   array[i] = NULL;
+            ^
+..\src\HeaderFile.c: In function 'nullify2DArray':
+..\src\HeaderFile.c:46:15: warning: assignment makes integer from pointer without a cast [-Wint-conversion]
+   array[i][j] = NULL;
+               ^
+..\src\HeaderFile.c: In function 'main':
+..\src\HeaderFile.c:152:10: warning: format '%s' expects argument of type 'char *', but argument 2 has type 'char (*)[(sizetype)(size)]' [-Wformat=]
+  scanf("%s", &arr);
+          ^
+..\src\HeaderFile.c:156:10: warning: format '%s' expects argument of type 'char *', but argument 2 has type 'char (*)[(sizetype)(size)]' [-Wformat=]
+  scanf("%s", &arr2);
+          ^
+..\src\HeaderFile.c: In function 'sizeOf2DArray':
+..\src\HeaderFile.c:33:1: warning: control reaches end of non-void function [-Wreturn-type]
+ }
+ ^
+gcc -o HeaderFile.exe "src\\HeaderFile.o" 
+14:48:43 **** Incremental Build of configuration Debug for project HeaderFile ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\HeaderFile.o" "..\\src\\HeaderFile.c" 
+..\src\HeaderFile.c: In function 'sizeOfIntegerArray':
+..\src\HeaderFile.c:21:15: warning: comparison between pointer and integer
+   if(array[i] == NULL)
+               ^~
+..\src\HeaderFile.c: In function 'sizeOf2DArray':
+..\src\HeaderFile.c:30:18: warning: comparison between pointer and integer
+   if(array[i][0] == NULL)
+                  ^~
+..\src\HeaderFile.c: In function 'nullify1DArray':
+..\src\HeaderFile.c:38:12: warning: assignment makes integer from pointer without a cast [-Wint-conversion]
+   array[i] = NULL;
+            ^
+..\src\HeaderFile.c: In function 'nullify2DArray':
+..\src\HeaderFile.c:46:15: warning: assignment makes integer from pointer without a cast [-Wint-conversion]
+   array[i][j] = NULL;
+               ^
+..\src\HeaderFile.c: In function 'main':
+..\src\HeaderFile.c:153:10: warning: format '%s' expects argument of type 'char *', but argument 2 has type 'char (*)[(sizetype)(size)]' [-Wformat=]
+  scanf("%s", &arr);
+          ^
+..\src\HeaderFile.c:157:10: warning: format '%s' expects argument of type 'char *', but argument 2 has type 'char (*)[(sizetype)(size)]' [-Wformat=]
+  scanf("%s", &arr2);
+          ^
+..\src\HeaderFile.c: In function 'sizeOf2DArray':
+..\src\HeaderFile.c:33:1: warning: control reaches end of non-void function [-Wreturn-type]
+ }
+ ^
+gcc -o HeaderFile.exe "src\\HeaderFile.o" 
+Info: Nothing to build for HeaderFile
+14:50:53 **** Incremental Build of configuration Debug for project HeaderFile ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\HeaderFile.o" "..\\src\\HeaderFile.c" 
+..\src\HeaderFile.c: In function 'sizeOfIntegerArray':
+..\src\HeaderFile.c:21:15: warning: comparison between pointer and integer
+   if(array[i] == NULL)
+               ^~
+..\src\HeaderFile.c: In function 'sizeOf2DArray':
+..\src\HeaderFile.c:30:18: warning: comparison between pointer and integer
+   if(array[i][0] == NULL)
+                  ^~
+..\src\HeaderFile.c: In function 'nullify1DArray':
+..\src\HeaderFile.c:38:12: warning: assignment makes integer from pointer without a cast [-Wint-conversion]
+   array[i] = NULL;
+            ^
+..\src\HeaderFile.c: In function 'nullify2DArray':
+..\src\HeaderFile.c:46:15: warning: assignment makes integer from pointer without a cast [-Wint-conversion]
+   array[i][j] = NULL;
+               ^
+..\src\HeaderFile.c: In function 'main':
+..\src\HeaderFile.c:142:10: warning: format '%s' expects argument of type 'char *', but argument 2 has type 'char (*)[(sizetype)(size)]' [-Wformat=]
+  scanf("%s", &arr);
+          ^
+..\src\HeaderFile.c:146:10: warning: format '%s' expects argument of type 'char *', but argument 2 has type 'char (*)[(sizetype)(size)]' [-Wformat=]
+  scanf("%s", &arr2);
+          ^
+..\src\HeaderFile.c: In function 'sizeOf2DArray':
+..\src\HeaderFile.c:33:1: warning: control reaches end of non-void function [-Wreturn-type]
+ }
+ ^
+gcc -o HeaderFile.exe "src\\HeaderFile.o" 
+14:52:35 **** Incremental Build of configuration Debug for project HeaderFile ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\HeaderFile.o" "..\\src\\HeaderFile.c" 
+..\src\HeaderFile.c: In function 'sizeOfIntegerArray':
+..\src\HeaderFile.c:21:15: warning: comparison between pointer and integer
+   if(array[i] == NULL)
+               ^~
+..\src\HeaderFile.c: In function 'sizeOf2DArray':
+..\src\HeaderFile.c:30:18: warning: comparison between pointer and integer
+   if(array[i][0] == NULL)
+                  ^~
+..\src\HeaderFile.c: In function 'nullify1DArray':
+..\src\HeaderFile.c:38:12: warning: assignment makes integer from pointer without a cast [-Wint-conversion]
+   array[i] = NULL;
+            ^
+..\src\HeaderFile.c: In function 'nullify2DArray':
+..\src\HeaderFile.c:46:15: warning: assignment makes integer from pointer without a cast [-Wint-conversion]
+   array[i][j] = NULL;
+               ^
+..\src\HeaderFile.c: In function 'main':
+..\src\HeaderFile.c:143:10: warning: format '%s' expects argument of type 'char *', but argument 2 has type 'char (*)[(sizetype)(size)]' [-Wformat=]
+  scanf("%s", &arr);
+          ^
+..\src\HeaderFile.c:147:10: warning: format '%s' expects argument of type 'char *', but argument 2 has type 'char (*)[(sizetype)(size)]' [-Wformat=]
+  scanf("%s", &arr2);
+          ^
+..\src\HeaderFile.c: In function 'sizeOf2DArray':
+..\src\HeaderFile.c:33:1: warning: control reaches end of non-void function [-Wreturn-type]
+ }
+ ^
+gcc -o HeaderFile.exe "src\\HeaderFile.o" 
+20:44:46 **** Incremental Build of configuration Debug for project HeaderFile ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\HeaderFile.o" "..\\src\\HeaderFile.c" 
+..\src\HeaderFile.c: In function 'sizeOfIntegerArray':
+..\src\HeaderFile.c:21:15: warning: comparison between pointer and integer
+   if(array[i] == NULL)
+               ^~
+..\src\HeaderFile.c: In function 'sizeOf2DArray':
+..\src\HeaderFile.c:30:18: warning: comparison between pointer and integer
+   if(array[i][0] == NULL)
+                  ^~
+..\src\HeaderFile.c: In function 'nullify1DArray':
+..\src\HeaderFile.c:38:12: warning: assignment makes integer from pointer without a cast [-Wint-conversion]
+   array[i] = NULL;
+            ^
+..\src\HeaderFile.c: In function 'nullify2DArray':
+..\src\HeaderFile.c:46:15: warning: assignment makes integer from pointer without a cast [-Wint-conversion]
+   array[i][j] = NULL;
+               ^
+..\src\HeaderFile.c: In function 'containsSubString':
+..\src\HeaderFile.c:81:6: warning: variable 'foundAtIndex' set but not used [-Wunused-but-set-variable]
+  int foundAtIndex = 0;
+      ^~~~~~~~~~~~
+..\src\HeaderFile.c: In function 'main':
+..\src\HeaderFile.c:139:10: warning: format '%s' expects argument of type 'char *', but argument 2 has type 'char (*)[(sizetype)(size)]' [-Wformat=]
+  scanf("%s", &arr);
+          ^
+..\src\HeaderFile.c:143:10: warning: format '%s' expects argument of type 'char *', but argument 2 has type 'char (*)[(sizetype)(size)]' [-Wformat=]
+  scanf("%s", &arr2);
+          ^
+..\src\HeaderFile.c: In function 'sizeOf2DArray':
+..\src\HeaderFile.c:33:1: warning: control reaches end of non-void function [-Wreturn-type]
+ }
+ ^
+gcc -o HeaderFile.exe "src\\HeaderFile.o" 
+20:45:28 **** Incremental Build of configuration Debug for project HeaderFile ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\HeaderFile.o" "..\\src\\HeaderFile.c" 
+..\src\HeaderFile.c: In function 'sizeOfIntegerArray':
+..\src\HeaderFile.c:21:15: warning: comparison between pointer and integer
+   if(array[i] == NULL)
+               ^~
+..\src\HeaderFile.c: In function 'sizeOf2DArray':
+..\src\HeaderFile.c:30:18: warning: comparison between pointer and integer
+   if(array[i][0] == NULL)
+                  ^~
+..\src\HeaderFile.c: In function 'nullify1DArray':
+..\src\HeaderFile.c:38:12: warning: assignment makes integer from pointer without a cast [-Wint-conversion]
+   array[i] = NULL;
+            ^
+..\src\HeaderFile.c: In function 'nullify2DArray':
+..\src\HeaderFile.c:46:15: warning: assignment makes integer from pointer without a cast [-Wint-conversion]
+   array[i][j] = NULL;
+               ^
+..\src\HeaderFile.c: In function 'containsSubString':
+..\src\HeaderFile.c:81:6: warning: unused variable 'foundAtIndex' [-Wunused-variable]
+  int foundAtIndex = 0;
+      ^~~~~~~~~~~~
+..\src\HeaderFile.c: In function 'main':
+..\src\HeaderFile.c:139:10: warning: format '%s' expects argument of type 'char *', but argument 2 has type 'char (*)[(sizetype)(size)]' [-Wformat=]
+  scanf("%s", &arr);
+          ^
+..\src\HeaderFile.c:143:10: warning: format '%s' expects argument of type 'char *', but argument 2 has type 'char (*)[(sizetype)(size)]' [-Wformat=]
+  scanf("%s", &arr2);
+          ^
+..\src\HeaderFile.c: In function 'sizeOf2DArray':
+..\src\HeaderFile.c:33:1: warning: control reaches end of non-void function [-Wreturn-type]
+ }
+ ^
+gcc -o HeaderFile.exe "src\\HeaderFile.o" 
+Info: Nothing to build for HeaderFile
+20:46:29 **** Incremental Build of configuration Debug for project HeaderFile ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\HeaderFile.o" "..\\src\\HeaderFile.c" 
+..\src\HeaderFile.c: In function 'sizeOfIntegerArray':
+..\src\HeaderFile.c:21:15: warning: comparison between pointer and integer
+   if(array[i] == NULL)
+               ^~
+..\src\HeaderFile.c: In function 'sizeOf2DArray':
+..\src\HeaderFile.c:30:18: warning: comparison between pointer and integer
+   if(array[i][0] == NULL)
+                  ^~
+..\src\HeaderFile.c: In function 'nullify1DArray':
+..\src\HeaderFile.c:38:12: warning: assignment makes integer from pointer without a cast [-Wint-conversion]
+   array[i] = NULL;
+            ^
+..\src\HeaderFile.c: In function 'nullify2DArray':
+..\src\HeaderFile.c:46:15: warning: assignment makes integer from pointer without a cast [-Wint-conversion]
+   array[i][j] = NULL;
+               ^
+..\src\HeaderFile.c: In function 'containsSubString':
+..\src\HeaderFile.c:81:6: warning: unused variable 'foundAtIndex' [-Wunused-variable]
+  int foundAtIndex = 0;
+      ^~~~~~~~~~~~
+..\src\HeaderFile.c: In function 'main':
+..\src\HeaderFile.c:140:10: warning: format '%s' expects argument of type 'char *', but argument 2 has type 'char (*)[(sizetype)(size)]' [-Wformat=]
+  scanf("%s", &arr);
+          ^
+..\src\HeaderFile.c:144:10: warning: format '%s' expects argument of type 'char *', but argument 2 has type 'char (*)[(sizetype)(size)]' [-Wformat=]
+  scanf("%s", &arr2);
+          ^
+..\src\HeaderFile.c: In function 'sizeOf2DArray':
+..\src\HeaderFile.c:33:1: warning: control reaches end of non-void function [-Wreturn-type]
+ }
+ ^
+gcc -o HeaderFile.exe "src\\HeaderFile.o" 
+Info: Nothing to build for HeaderFile
+20:47:58 **** Incremental Build of configuration Debug for project HeaderFile ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\HeaderFile.o" "..\\src\\HeaderFile.c" 
+..\src\HeaderFile.c: In function 'sizeOfIntegerArray':
+..\src\HeaderFile.c:21:15: warning: comparison between pointer and integer
+   if(array[i] == NULL)
+               ^~
+..\src\HeaderFile.c: In function 'sizeOf2DArray':
+..\src\HeaderFile.c:30:18: warning: comparison between pointer and integer
+   if(array[i][0] == NULL)
+                  ^~
+..\src\HeaderFile.c: In function 'nullify1DArray':
+..\src\HeaderFile.c:38:12: warning: assignment makes integer from pointer without a cast [-Wint-conversion]
+   array[i] = NULL;
+            ^
+..\src\HeaderFile.c: In function 'nullify2DArray':
+..\src\HeaderFile.c:46:15: warning: assignment makes integer from pointer without a cast [-Wint-conversion]
+   array[i][j] = NULL;
+               ^
+..\src\HeaderFile.c: In function 'main':
+..\src\HeaderFile.c:139:10: warning: format '%s' expects argument of type 'char *', but argument 2 has type 'char (*)[(sizetype)(size)]' [-Wformat=]
+  scanf("%s", &arr);
+          ^
+..\src\HeaderFile.c:143:10: warning: format '%s' expects argument of type 'char *', but argument 2 has type 'char (*)[(sizetype)(size)]' [-Wformat=]
+  scanf("%s", &arr2);
+          ^
+..\src\HeaderFile.c: In function 'sizeOf2DArray':
+..\src\HeaderFile.c:33:1: warning: control reaches end of non-void function [-Wreturn-type]
+ }
+ ^
+gcc -o HeaderFile.exe "src\\HeaderFile.o" 
+20:49:22 **** Incremental Build of configuration Debug for project HeaderFile ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\HeaderFile.o" "..\\src\\HeaderFile.c" 
+..\src\HeaderFile.c: In function 'sizeOfIntegerArray':
+..\src\HeaderFile.c:21:15: warning: comparison between pointer and integer
+   if(array[i] == NULL)
+               ^~
+..\src\HeaderFile.c: In function 'sizeOf2DArray':
+..\src\HeaderFile.c:30:18: warning: comparison between pointer and integer
+   if(array[i][0] == NULL)
+                  ^~
+..\src\HeaderFile.c: In function 'nullify1DArray':
+..\src\HeaderFile.c:38:12: warning: assignment makes integer from pointer without a cast [-Wint-conversion]
+   array[i] = NULL;
+            ^
+..\src\HeaderFile.c: In function 'nullify2DArray':
+..\src\HeaderFile.c:46:15: warning: assignment makes integer from pointer without a cast [-Wint-conversion]
+   array[i][j] = NULL;
+               ^
+..\src\HeaderFile.c: In function 'main':
+..\src\HeaderFile.c:140:10: warning: format '%s' expects argument of type 'char *', but argument 2 has type 'char (*)[(sizetype)(size)]' [-Wformat=]
+  scanf("%s", &arr);
+          ^
+..\src\HeaderFile.c:144:10: warning: format '%s' expects argument of type 'char *', but argument 2 has type 'char (*)[(sizetype)(size)]' [-Wformat=]
+  scanf("%s", &arr2);
+          ^
+..\src\HeaderFile.c: In function 'sizeOf2DArray':
+..\src\HeaderFile.c:33:1: warning: control reaches end of non-void function [-Wreturn-type]
+ }
+ ^
+gcc -o HeaderFile.exe "src\\HeaderFile.o" 
+20:52:06 **** Incremental Build of configuration Debug for project HeaderFile ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\HeaderFile.o" "..\\src\\HeaderFile.c" 
+..\src\HeaderFile.c: In function 'sizeOfIntegerArray':
+..\src\HeaderFile.c:21:15: warning: comparison between pointer and integer
+   if(array[i] == NULL)
+               ^~
+..\src\HeaderFile.c: In function 'sizeOf2DArray':
+..\src\HeaderFile.c:30:18: warning: comparison between pointer and integer
+   if(array[i][0] == NULL)
+                  ^~
+..\src\HeaderFile.c: In function 'nullify1DArray':
+..\src\HeaderFile.c:38:12: warning: assignment makes integer from pointer without a cast [-Wint-conversion]
+   array[i] = NULL;
+            ^
+..\src\HeaderFile.c: In function 'nullify2DArray':
+..\src\HeaderFile.c:46:15: warning: assignment makes integer from pointer without a cast [-Wint-conversion]
+   array[i][j] = NULL;
+               ^
+..\src\HeaderFile.c: In function 'containsSubString':
+..\src\HeaderFile.c:79:17: warning: unused variable 'nextIndex' [-Wunused-variable]
+  int i= 0, j=0, nextIndex = 0;
+                 ^~~~~~~~~
+..\src\HeaderFile.c: In function 'main':
+..\src\HeaderFile.c:131:10: warning: format '%s' expects argument of type 'char *', but argument 2 has type 'char (*)[(sizetype)(size)]' [-Wformat=]
+  scanf("%s", &arr);
+          ^
+..\src\HeaderFile.c:135:10: warning: format '%s' expects argument of type 'char *', but argument 2 has type 'char (*)[(sizetype)(size)]' [-Wformat=]
+  scanf("%s", &arr2);
+          ^
+..\src\HeaderFile.c: In function 'sizeOf2DArray':
+..\src\HeaderFile.c:33:1: warning: control reaches end of non-void function [-Wreturn-type]
+ }
+ ^
+gcc -o HeaderFile.exe "src\\HeaderFile.o" 
+20:52:56 **** Incremental Build of configuration Debug for project HeaderFile ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\HeaderFile.o" "..\\src\\HeaderFile.c" 
+..\src\HeaderFile.c: In function 'sizeOfIntegerArray':
+..\src\HeaderFile.c:21:15: warning: comparison between pointer and integer
+   if(array[i] == NULL)
+               ^~
+..\src\HeaderFile.c: In function 'sizeOf2DArray':
+..\src\HeaderFile.c:30:18: warning: comparison between pointer and integer
+   if(array[i][0] == NULL)
+                  ^~
+..\src\HeaderFile.c: In function 'nullify1DArray':
+..\src\HeaderFile.c:38:12: warning: assignment makes integer from pointer without a cast [-Wint-conversion]
+   array[i] = NULL;
+            ^
+..\src\HeaderFile.c: In function 'nullify2DArray':
+..\src\HeaderFile.c:46:15: warning: assignment makes integer from pointer without a cast [-Wint-conversion]
+   array[i][j] = NULL;
+               ^
+..\src\HeaderFile.c: In function 'containsSubString':
+..\src\HeaderFile.c:79:17: warning: unused variable 'nextIndex' [-Wunused-variable]
+  int i= 0, j=0, nextIndex = 0;
+                 ^~~~~~~~~
+..\src\HeaderFile.c: In function 'main':
+..\src\HeaderFile.c:132:10: warning: format '%s' expects argument of type 'char *', but argument 2 has type 'char (*)[(sizetype)(size)]' [-Wformat=]
+  scanf("%s", &arr);
+          ^
+..\src\HeaderFile.c:136:10: warning: format '%s' expects argument of type 'char *', but argument 2 has type 'char (*)[(sizetype)(size)]' [-Wformat=]
+  scanf("%s", &arr2);
+          ^
+..\src\HeaderFile.c: In function 'sizeOf2DArray':
+..\src\HeaderFile.c:33:1: warning: control reaches end of non-void function [-Wreturn-type]
+ }
+ ^
+gcc -o HeaderFile.exe "src\\HeaderFile.o" 
+20:54:04 **** Incremental Build of configuration Debug for project HeaderFile ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\HeaderFile.o" "..\\src\\HeaderFile.c" 
+..\src\HeaderFile.c: In function 'sizeOfIntegerArray':
+..\src\HeaderFile.c:21:15: warning: comparison between pointer and integer
+   if(array[i] == NULL)
+               ^~
+..\src\HeaderFile.c: In function 'sizeOf2DArray':
+..\src\HeaderFile.c:30:18: warning: comparison between pointer and integer
+   if(array[i][0] == NULL)
+                  ^~
+..\src\HeaderFile.c: In function 'nullify1DArray':
+..\src\HeaderFile.c:38:12: warning: assignment makes integer from pointer without a cast [-Wint-conversion]
+   array[i] = NULL;
+            ^
+..\src\HeaderFile.c: In function 'nullify2DArray':
+..\src\HeaderFile.c:46:15: warning: assignment makes integer from pointer without a cast [-Wint-conversion]
+   array[i][j] = NULL;
+               ^
+..\src\HeaderFile.c: In function 'containsSubString':
+..\src\HeaderFile.c:79:17: warning: unused variable 'nextIndex' [-Wunused-variable]
+  int i= 0, j=0, nextIndex = 0;
+                 ^~~~~~~~~
+..\src\HeaderFile.c: In function 'main':
+..\src\HeaderFile.c:133:10: warning: format '%s' expects argument of type 'char *', but argument 2 has type 'char (*)[(sizetype)(size)]' [-Wformat=]
+  scanf("%s", &arr);
+          ^
+..\src\HeaderFile.c:137:10: warning: format '%s' expects argument of type 'char *', but argument 2 has type 'char (*)[(sizetype)(size)]' [-Wformat=]
+  scanf("%s", &arr2);
+          ^
+..\src\HeaderFile.c: In function 'sizeOf2DArray':
+..\src\HeaderFile.c:33:1: warning: control reaches end of non-void function [-Wreturn-type]
+ }
+ ^
+gcc -o HeaderFile.exe "src\\HeaderFile.o" 
+20:55:26 **** Incremental Build of configuration Debug for project HeaderFile ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\HeaderFile.o" "..\\src\\HeaderFile.c" 
+..\src\HeaderFile.c: In function 'sizeOfIntegerArray':
+..\src\HeaderFile.c:21:15: warning: comparison between pointer and integer
+   if(array[i] == NULL)
+               ^~
+..\src\HeaderFile.c: In function 'sizeOf2DArray':
+..\src\HeaderFile.c:30:18: warning: comparison between pointer and integer
+   if(array[i][0] == NULL)
+                  ^~
+..\src\HeaderFile.c: In function 'nullify1DArray':
+..\src\HeaderFile.c:38:12: warning: assignment makes integer from pointer without a cast [-Wint-conversion]
+   array[i] = NULL;
+            ^
+..\src\HeaderFile.c: In function 'nullify2DArray':
+..\src\HeaderFile.c:46:15: warning: assignment makes integer from pointer without a cast [-Wint-conversion]
+   array[i][j] = NULL;
+               ^
+..\src\HeaderFile.c: In function 'containsSubString':
+..\src\HeaderFile.c:79:17: warning: unused variable 'nextIndex' [-Wunused-variable]
+  int i= 0, j=0, nextIndex = 0;
+                 ^~~~~~~~~
+..\src\HeaderFile.c: In function 'main':
+..\src\HeaderFile.c:133:10: warning: format '%s' expects argument of type 'char *', but argument 2 has type 'char (*)[(sizetype)(size)]' [-Wformat=]
+  scanf("%s", &arr);
+          ^
+..\src\HeaderFile.c:137:10: warning: format '%s' expects argument of type 'char *', but argument 2 has type 'char (*)[(sizetype)(size)]' [-Wformat=]
+  scanf("%s", &arr2);
+          ^
+..\src\HeaderFile.c: In function 'sizeOf2DArray':
+..\src\HeaderFile.c:33:1: warning: control reaches end of non-void function [-Wreturn-type]
+ }
+ ^
+gcc -o HeaderFile.exe "src\\HeaderFile.o" 
+20:56:33 **** Incremental Build of configuration Debug for project HeaderFile ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\HeaderFile.o" "..\\src\\HeaderFile.c" 
+..\src\HeaderFile.c: In function 'sizeOfIntegerArray':
+..\src\HeaderFile.c:21:15: warning: comparison between pointer and integer
+   if(array[i] == NULL)
+               ^~
+..\src\HeaderFile.c: In function 'sizeOf2DArray':
+..\src\HeaderFile.c:30:18: warning: comparison between pointer and integer
+   if(array[i][0] == NULL)
+                  ^~
+..\src\HeaderFile.c: In function 'nullify1DArray':
+..\src\HeaderFile.c:38:12: warning: assignment makes integer from pointer without a cast [-Wint-conversion]
+   array[i] = NULL;
+            ^
+..\src\HeaderFile.c: In function 'nullify2DArray':
+..\src\HeaderFile.c:46:15: warning: assignment makes integer from pointer without a cast [-Wint-conversion]
+   array[i][j] = NULL;
+               ^
+..\src\HeaderFile.c: In function 'containsSubString':
+..\src\HeaderFile.c:79:17: warning: unused variable 'nextIndex' [-Wunused-variable]
+  int i= 0, j=0, nextIndex = 0;
+                 ^~~~~~~~~
+..\src\HeaderFile.c: In function 'main':
+..\src\HeaderFile.c:134:10: warning: format '%s' expects argument of type 'char *', but argument 2 has type 'char (*)[(sizetype)(size)]' [-Wformat=]
+  scanf("%s", &arr);
+          ^
+..\src\HeaderFile.c:138:10: warning: format '%s' expects argument of type 'char *', but argument 2 has type 'char (*)[(sizetype)(size)]' [-Wformat=]
+  scanf("%s", &arr2);
+          ^
+..\src\HeaderFile.c: In function 'sizeOf2DArray':
+..\src\HeaderFile.c:33:1: warning: control reaches end of non-void function [-Wreturn-type]
+ }
+ ^
+gcc -o HeaderFile.exe "src\\HeaderFile.o" 
+20:57:16 **** Incremental Build of configuration Debug for project HeaderFile ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\HeaderFile.o" "..\\src\\HeaderFile.c" 
+..\src\HeaderFile.c: In function 'sizeOfIntegerArray':
+..\src\HeaderFile.c:21:15: warning: comparison between pointer and integer
+   if(array[i] == NULL)
+               ^~
+..\src\HeaderFile.c: In function 'sizeOf2DArray':
+..\src\HeaderFile.c:30:18: warning: comparison between pointer and integer
+   if(array[i][0] == NULL)
+                  ^~
+..\src\HeaderFile.c: In function 'nullify1DArray':
+..\src\HeaderFile.c:38:12: warning: assignment makes integer from pointer without a cast [-Wint-conversion]
+   array[i] = NULL;
+            ^
+..\src\HeaderFile.c: In function 'nullify2DArray':
+..\src\HeaderFile.c:46:15: warning: assignment makes integer from pointer without a cast [-Wint-conversion]
+   array[i][j] = NULL;
+               ^
+..\src\HeaderFile.c: In function 'containsSubString':
+..\src\HeaderFile.c:79:17: warning: unused variable 'nextIndex' [-Wunused-variable]
+  int i= 0, j=0, nextIndex = 0;
+                 ^~~~~~~~~
+..\src\HeaderFile.c: In function 'main':
+..\src\HeaderFile.c:135:10: warning: format '%s' expects argument of type 'char *', but argument 2 has type 'char (*)[(sizetype)(size)]' [-Wformat=]
+  scanf("%s", &arr);
+          ^
+..\src\HeaderFile.c:139:10: warning: format '%s' expects argument of type 'char *', but argument 2 has type 'char (*)[(sizetype)(size)]' [-Wformat=]
+  scanf("%s", &arr2);
+          ^
+..\src\HeaderFile.c: In function 'sizeOf2DArray':
+..\src\HeaderFile.c:33:1: warning: control reaches end of non-void function [-Wreturn-type]
+ }
+ ^
+gcc -o HeaderFile.exe "src\\HeaderFile.o" 
+20:58:59 **** Incremental Build of configuration Debug for project HeaderFile ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\HeaderFile.o" "..\\src\\HeaderFile.c" 
+..\src\HeaderFile.c: In function 'sizeOfIntegerArray':
+..\src\HeaderFile.c:21:15: warning: comparison between pointer and integer
+   if(array[i] == NULL)
+               ^~
+..\src\HeaderFile.c: In function 'sizeOf2DArray':
+..\src\HeaderFile.c:30:18: warning: comparison between pointer and integer
+   if(array[i][0] == NULL)
+                  ^~
+..\src\HeaderFile.c: In function 'nullify1DArray':
+..\src\HeaderFile.c:38:12: warning: assignment makes integer from pointer without a cast [-Wint-conversion]
+   array[i] = NULL;
+            ^
+..\src\HeaderFile.c: In function 'nullify2DArray':
+..\src\HeaderFile.c:46:15: warning: assignment makes integer from pointer without a cast [-Wint-conversion]
+   array[i][j] = NULL;
+               ^
+..\src\HeaderFile.c: In function 'containsSubString':
+..\src\HeaderFile.c:79:17: warning: unused variable 'nextIndex' [-Wunused-variable]
+  int i= 0, j=0, nextIndex = 0;
+                 ^~~~~~~~~
+..\src\HeaderFile.c: In function 'main':
+..\src\HeaderFile.c:135:10: warning: format '%s' expects argument of type 'char *', but argument 2 has type 'char (*)[(sizetype)(size)]' [-Wformat=]
+  scanf("%s", &arr);
+          ^
+..\src\HeaderFile.c:139:10: warning: format '%s' expects argument of type 'char *', but argument 2 has type 'char (*)[(sizetype)(size)]' [-Wformat=]
+  scanf("%s", &arr2);
+          ^
+..\src\HeaderFile.c: In function 'sizeOf2DArray':
+..\src\HeaderFile.c:33:1: warning: control reaches end of non-void function [-Wreturn-type]
+ }
+ ^
+gcc -o HeaderFile.exe "src\\HeaderFile.o" 
+20:59:30 **** Incremental Build of configuration Debug for project HeaderFile ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\HeaderFile.o" "..\\src\\HeaderFile.c" 
+..\src\HeaderFile.c: In function 'sizeOfIntegerArray':
+..\src\HeaderFile.c:21:15: warning: comparison between pointer and integer
+   if(array[i] == NULL)
+               ^~
+..\src\HeaderFile.c: In function 'sizeOf2DArray':
+..\src\HeaderFile.c:30:18: warning: comparison between pointer and integer
+   if(array[i][0] == NULL)
+                  ^~
+..\src\HeaderFile.c: In function 'nullify1DArray':
+..\src\HeaderFile.c:38:12: warning: assignment makes integer from pointer without a cast [-Wint-conversion]
+   array[i] = NULL;
+            ^
+..\src\HeaderFile.c: In function 'nullify2DArray':
+..\src\HeaderFile.c:46:15: warning: assignment makes integer from pointer without a cast [-Wint-conversion]
+   array[i][j] = NULL;
+               ^
+..\src\HeaderFile.c: In function 'containsSubString':
+..\src\HeaderFile.c:79:17: warning: unused variable 'nextIndex' [-Wunused-variable]
+  int i= 0, j=0, nextIndex = 0;
+                 ^~~~~~~~~
+..\src\HeaderFile.c: In function 'main':
+..\src\HeaderFile.c:135:10: warning: format '%s' expects argument of type 'char *', but argument 2 has type 'char (*)[(sizetype)(size)]' [-Wformat=]
+  scanf("%s", &arr);
+          ^
+..\src\HeaderFile.c:139:10: warning: format '%s' expects argument of type 'char *', but argument 2 has type 'char (*)[(sizetype)(size)]' [-Wformat=]
+  scanf("%s", &arr2);
+          ^
+..\src\HeaderFile.c: In function 'sizeOf2DArray':
+..\src\HeaderFile.c:33:1: warning: control reaches end of non-void function [-Wreturn-type]
+ }
+ ^
+gcc -o HeaderFile.exe "src\\HeaderFile.o" 
+21:00:21 **** Incremental Build of configuration Debug for project HeaderFile ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\HeaderFile.o" "..\\src\\HeaderFile.c" 
+..\src\HeaderFile.c: In function 'sizeOfIntegerArray':
+..\src\HeaderFile.c:21:15: warning: comparison between pointer and integer
+   if(array[i] == NULL)
+               ^~
+..\src\HeaderFile.c: In function 'sizeOf2DArray':
+..\src\HeaderFile.c:30:18: warning: comparison between pointer and integer
+   if(array[i][0] == NULL)
+                  ^~
+..\src\HeaderFile.c: In function 'nullify1DArray':
+..\src\HeaderFile.c:38:12: warning: assignment makes integer from pointer without a cast [-Wint-conversion]
+   array[i] = NULL;
+            ^
+..\src\HeaderFile.c: In function 'nullify2DArray':
+..\src\HeaderFile.c:46:15: warning: assignment makes integer from pointer without a cast [-Wint-conversion]
+   array[i][j] = NULL;
+               ^
+..\src\HeaderFile.c: In function 'containsSubString':
+..\src\HeaderFile.c:79:17: warning: unused variable 'nextIndex' [-Wunused-variable]
+  int i= 0, j=0, nextIndex = 0;
+                 ^~~~~~~~~
+..\src\HeaderFile.c: In function 'main':
+..\src\HeaderFile.c:135:10: warning: format '%s' expects argument of type 'char *', but argument 2 has type 'char (*)[(sizetype)(size)]' [-Wformat=]
+  scanf("%s", &arr);
+          ^
+..\src\HeaderFile.c:139:10: warning: format '%s' expects argument of type 'char *', but argument 2 has type 'char (*)[(sizetype)(size)]' [-Wformat=]
+  scanf("%s", &arr2);
+          ^
+..\src\HeaderFile.c: In function 'sizeOf2DArray':
+..\src\HeaderFile.c:33:1: warning: control reaches end of non-void function [-Wreturn-type]
+ }
+ ^
+gcc -o HeaderFile.exe "src\\HeaderFile.o" 
+21:00:59 **** Incremental Build of configuration Debug for project HeaderFile ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\HeaderFile.o" "..\\src\\HeaderFile.c" 
+..\src\HeaderFile.c: In function 'sizeOfIntegerArray':
+..\src\HeaderFile.c:21:15: warning: comparison between pointer and integer
+   if(array[i] == NULL)
+               ^~
+..\src\HeaderFile.c: In function 'sizeOf2DArray':
+..\src\HeaderFile.c:30:18: warning: comparison between pointer and integer
+   if(array[i][0] == NULL)
+                  ^~
+..\src\HeaderFile.c: In function 'nullify1DArray':
+..\src\HeaderFile.c:38:12: warning: assignment makes integer from pointer without a cast [-Wint-conversion]
+   array[i] = NULL;
+            ^
+..\src\HeaderFile.c: In function 'nullify2DArray':
+..\src\HeaderFile.c:46:15: warning: assignment makes integer from pointer without a cast [-Wint-conversion]
+   array[i][j] = NULL;
+               ^
+..\src\HeaderFile.c: In function 'containsSubString':
+..\src\HeaderFile.c:79:17: warning: unused variable 'nextIndex' [-Wunused-variable]
+  int i= 0, j=0, nextIndex = 0;
+                 ^~~~~~~~~
+..\src\HeaderFile.c: In function 'main':
+..\src\HeaderFile.c:136:10: warning: format '%s' expects argument of type 'char *', but argument 2 has type 'char (*)[(sizetype)(size)]' [-Wformat=]
+  scanf("%s", &arr);
+          ^
+..\src\HeaderFile.c:140:10: warning: format '%s' expects argument of type 'char *', but argument 2 has type 'char (*)[(sizetype)(size)]' [-Wformat=]
+  scanf("%s", &arr2);
+          ^
+..\src\HeaderFile.c: In function 'sizeOf2DArray':
+..\src\HeaderFile.c:33:1: warning: control reaches end of non-void function [-Wreturn-type]
+ }
+ ^
+gcc -o HeaderFile.exe "src\\HeaderFile.o" 
+21:02:13 **** Incremental Build of configuration Debug for project HeaderFile ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\HeaderFile.o" "..\\src\\HeaderFile.c" 
+..\src\HeaderFile.c: In function 'sizeOfIntegerArray':
+..\src\HeaderFile.c:21:15: warning: comparison between pointer and integer
+   if(array[i] == NULL)
+               ^~
+..\src\HeaderFile.c: In function 'sizeOf2DArray':
+..\src\HeaderFile.c:30:18: warning: comparison between pointer and integer
+   if(array[i][0] == NULL)
+                  ^~
+..\src\HeaderFile.c: In function 'nullify1DArray':
+..\src\HeaderFile.c:38:12: warning: assignment makes integer from pointer without a cast [-Wint-conversion]
+   array[i] = NULL;
+            ^
+..\src\HeaderFile.c: In function 'nullify2DArray':
+..\src\HeaderFile.c:46:15: warning: assignment makes integer from pointer without a cast [-Wint-conversion]
+   array[i][j] = NULL;
+               ^
+..\src\HeaderFile.c: In function 'containsSubString':
+..\src\HeaderFile.c:79:17: warning: unused variable 'nextIndex' [-Wunused-variable]
+  int i= 0, j=0, nextIndex = 0;
+                 ^~~~~~~~~
+..\src\HeaderFile.c: In function 'main':
+..\src\HeaderFile.c:136:10: warning: format '%s' expects argument of type 'char *', but argument 2 has type 'char (*)[(sizetype)(size)]' [-Wformat=]
+  scanf("%s", &arr);
+          ^
+..\src\HeaderFile.c:140:10: warning: format '%s' expects argument of type 'char *', but argument 2 has type 'char (*)[(sizetype)(size)]' [-Wformat=]
+  scanf("%s", &arr2);
+          ^
+..\src\HeaderFile.c: In function 'sizeOf2DArray':
+..\src\HeaderFile.c:33:1: warning: control reaches end of non-void function [-Wreturn-type]
+ }
+ ^
+gcc -o HeaderFile.exe "src\\HeaderFile.o" 
+21:04:59 **** Incremental Build of configuration Debug for project HeaderFile ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\HeaderFile.o" "..\\src\\HeaderFile.c" 
+..\src\HeaderFile.c: In function 'sizeOfIntegerArray':
+..\src\HeaderFile.c:21:15: warning: comparison between pointer and integer
+   if(array[i] == NULL)
+               ^~
+..\src\HeaderFile.c: In function 'sizeOf2DArray':
+..\src\HeaderFile.c:30:18: warning: comparison between pointer and integer
+   if(array[i][0] == NULL)
+                  ^~
+..\src\HeaderFile.c: In function 'nullify1DArray':
+..\src\HeaderFile.c:38:12: warning: assignment makes integer from pointer without a cast [-Wint-conversion]
+   array[i] = NULL;
+            ^
+..\src\HeaderFile.c: In function 'nullify2DArray':
+..\src\HeaderFile.c:46:15: warning: assignment makes integer from pointer without a cast [-Wint-conversion]
+   array[i][j] = NULL;
+               ^
+..\src\HeaderFile.c: In function 'containsSubString':
+..\src\HeaderFile.c:79:17: warning: unused variable 'nextIndex' [-Wunused-variable]
+  int i= 0, j=0, nextIndex = 0;
+                 ^~~~~~~~~
+..\src\HeaderFile.c: In function 'main':
+..\src\HeaderFile.c:137:10: warning: format '%s' expects argument of type 'char *', but argument 2 has type 'char (*)[(sizetype)(size)]' [-Wformat=]
+  scanf("%s", &arr);
+          ^
+..\src\HeaderFile.c:141:10: warning: format '%s' expects argument of type 'char *', but argument 2 has type 'char (*)[(sizetype)(size)]' [-Wformat=]
+  scanf("%s", &arr2);
+          ^
+..\src\HeaderFile.c: In function 'sizeOf2DArray':
+..\src\HeaderFile.c:33:1: warning: control reaches end of non-void function [-Wreturn-type]
+ }
+ ^
+gcc -o HeaderFile.exe "src\\HeaderFile.o" 
+21:06:38 **** Incremental Build of configuration Debug for project HeaderFile ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\HeaderFile.o" "..\\src\\HeaderFile.c" 
+..\src\HeaderFile.c: In function 'sizeOfIntegerArray':
+..\src\HeaderFile.c:21:15: warning: comparison between pointer and integer
+   if(array[i] == NULL)
+               ^~
+..\src\HeaderFile.c: In function 'sizeOf2DArray':
+..\src\HeaderFile.c:30:18: warning: comparison between pointer and integer
+   if(array[i][0] == NULL)
+                  ^~
+..\src\HeaderFile.c: In function 'nullify1DArray':
+..\src\HeaderFile.c:38:12: warning: assignment makes integer from pointer without a cast [-Wint-conversion]
+   array[i] = NULL;
+            ^
+..\src\HeaderFile.c: In function 'nullify2DArray':
+..\src\HeaderFile.c:46:15: warning: assignment makes integer from pointer without a cast [-Wint-conversion]
+   array[i][j] = NULL;
+               ^
+..\src\HeaderFile.c: In function 'containsSubString':
+..\src\HeaderFile.c:79:17: warning: unused variable 'nextIndex' [-Wunused-variable]
+  int i= 0, j=0, nextIndex = 0;
+                 ^~~~~~~~~
+..\src\HeaderFile.c: In function 'main':
+..\src\HeaderFile.c:138:10: warning: format '%s' expects argument of type 'char *', but argument 2 has type 'char (*)[(sizetype)(size)]' [-Wformat=]
+  scanf("%s", &arr);
+          ^
+..\src\HeaderFile.c:142:10: warning: format '%s' expects argument of type 'char *', but argument 2 has type 'char (*)[(sizetype)(size)]' [-Wformat=]
+  scanf("%s", &arr2);
+          ^
+..\src\HeaderFile.c: In function 'sizeOf2DArray':
+..\src\HeaderFile.c:33:1: warning: control reaches end of non-void function [-Wreturn-type]
+ }
+ ^
+gcc -o HeaderFile.exe "src\\HeaderFile.o" 
+21:07:53 **** Incremental Build of configuration Debug for project HeaderFile ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\HeaderFile.o" "..\\src\\HeaderFile.c" 
+..\src\HeaderFile.c: In function 'sizeOfIntegerArray':
+..\src\HeaderFile.c:21:15: warning: comparison between pointer and integer
+   if(array[i] == NULL)
+               ^~
+..\src\HeaderFile.c: In function 'sizeOf2DArray':
+..\src\HeaderFile.c:30:18: warning: comparison between pointer and integer
+   if(array[i][0] == NULL)
+                  ^~
+..\src\HeaderFile.c: In function 'nullify1DArray':
+..\src\HeaderFile.c:38:12: warning: assignment makes integer from pointer without a cast [-Wint-conversion]
+   array[i] = NULL;
+            ^
+..\src\HeaderFile.c: In function 'nullify2DArray':
+..\src\HeaderFile.c:46:15: warning: assignment makes integer from pointer without a cast [-Wint-conversion]
+   array[i][j] = NULL;
+               ^
+..\src\HeaderFile.c: In function 'containsSubString':
+..\src\HeaderFile.c:79:17: warning: unused variable 'nextIndex' [-Wunused-variable]
+  int i= 0, j=0, nextIndex = 0;
+                 ^~~~~~~~~
+..\src\HeaderFile.c: In function 'main':
+..\src\HeaderFile.c:138:10: warning: format '%s' expects argument of type 'char *', but argument 2 has type 'char (*)[(sizetype)(size)]' [-Wformat=]
+  scanf("%s", &arr);
+          ^
+..\src\HeaderFile.c:142:10: warning: format '%s' expects argument of type 'char *', but argument 2 has type 'char (*)[(sizetype)(size)]' [-Wformat=]
+  scanf("%s", &arr2);
+          ^
+..\src\HeaderFile.c: In function 'sizeOf2DArray':
+..\src\HeaderFile.c:33:1: warning: control reaches end of non-void function [-Wreturn-type]
+ }
+ ^
+gcc -o HeaderFile.exe "src\\HeaderFile.o" 
+Info: Nothing to build for HeaderFile
+Info: Nothing to build for HeaderFile
+21:12:07 **** Incremental Build of configuration Debug for project HeaderFile ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\HeaderFile.o" "..\\src\\HeaderFile.c" 
+..\src\HeaderFile.c: In function 'sizeOfIntegerArray':
+..\src\HeaderFile.c:21:15: warning: comparison between pointer and integer
+   if(array[i] == NULL)
+               ^~
+..\src\HeaderFile.c: In function 'sizeOf2DArray':
+..\src\HeaderFile.c:30:18: warning: comparison between pointer and integer
+   if(array[i][0] == NULL)
+                  ^~
+..\src\HeaderFile.c: In function 'nullify1DArray':
+..\src\HeaderFile.c:38:12: warning: assignment makes integer from pointer without a cast [-Wint-conversion]
+   array[i] = NULL;
+            ^
+..\src\HeaderFile.c: In function 'nullify2DArray':
+..\src\HeaderFile.c:46:15: warning: assignment makes integer from pointer without a cast [-Wint-conversion]
+   array[i][j] = NULL;
+               ^
+..\src\HeaderFile.c: In function 'containsSubString':
+..\src\HeaderFile.c:79:17: warning: unused variable 'nextIndex' [-Wunused-variable]
+  int i= 0, j=0, nextIndex = 0;
+                 ^~~~~~~~~
+..\src\HeaderFile.c: In function 'main':
+..\src\HeaderFile.c:139:10: warning: format '%s' expects argument of type 'char *', but argument 2 has type 'char (*)[(sizetype)(size)]' [-Wformat=]
+  scanf("%s", &arr);
+          ^
+..\src\HeaderFile.c:143:10: warning: format '%s' expects argument of type 'char *', but argument 2 has type 'char (*)[(sizetype)(size)]' [-Wformat=]
+  scanf("%s", &arr2);
+          ^
+..\src\HeaderFile.c: In function 'sizeOf2DArray':
+..\src\HeaderFile.c:33:1: warning: control reaches end of non-void function [-Wreturn-type]
+ }
+ ^
+gcc -o HeaderFile.exe "src\\HeaderFile.o" 
+Info: Nothing to build for HeaderFile
+Info: Nothing to build for HeaderFile
+Info: Nothing to build for HeaderFile
+21:14:15 **** Incremental Build of configuration Debug for project HeaderFile ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\HeaderFile.o" "..\\src\\HeaderFile.c" 
+..\src\HeaderFile.c: In function 'sizeOfIntegerArray':
+..\src\HeaderFile.c:21:15: warning: comparison between pointer and integer
+   if(array[i] == NULL)
+               ^~
+..\src\HeaderFile.c: In function 'sizeOf2DArray':
+..\src\HeaderFile.c:30:18: warning: comparison between pointer and integer
+   if(array[i][0] == NULL)
+                  ^~
+..\src\HeaderFile.c: In function 'nullify1DArray':
+..\src\HeaderFile.c:38:12: warning: assignment makes integer from pointer without a cast [-Wint-conversion]
+   array[i] = NULL;
+            ^
+..\src\HeaderFile.c: In function 'nullify2DArray':
+..\src\HeaderFile.c:46:15: warning: assignment makes integer from pointer without a cast [-Wint-conversion]
+   array[i][j] = NULL;
+               ^
+..\src\HeaderFile.c: In function 'main':
+..\src\HeaderFile.c:128:10: warning: format '%s' expects argument of type 'char *', but argument 2 has type 'char (*)[(sizetype)(size)]' [-Wformat=]
+  scanf("%s", &arr);
+          ^
+..\src\HeaderFile.c:131:10: warning: format '%s' expects argument of type 'char *', but argument 2 has type 'char (*)[(sizetype)(size)]' [-Wformat=]
+  scanf("%s", &arr2);
+          ^
+..\src\HeaderFile.c: In function 'sizeOf2DArray':
+..\src\HeaderFile.c:33:1: warning: control reaches end of non-void function [-Wreturn-type]
+ }
+ ^
+gcc -o HeaderFile.exe "src\\HeaderFile.o" 
+Info: Nothing to build for HeaderFile
+Info: Nothing to build for HeaderFile
+21:15:27 **** Incremental Build of configuration Debug for project HeaderFile ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\HeaderFile.o" "..\\src\\HeaderFile.c" 
+..\src\HeaderFile.c: In function 'sizeOfIntegerArray':
+..\src\HeaderFile.c:21:15: warning: comparison between pointer and integer
+   if(array[i] == NULL)
+               ^~
+..\src\HeaderFile.c: In function 'sizeOf2DArray':
+..\src\HeaderFile.c:30:18: warning: comparison between pointer and integer
+   if(array[i][0] == NULL)
+                  ^~
+..\src\HeaderFile.c: In function 'nullify1DArray':
+..\src\HeaderFile.c:38:12: warning: assignment makes integer from pointer without a cast [-Wint-conversion]
+   array[i] = NULL;
+            ^
+..\src\HeaderFile.c: In function 'nullify2DArray':
+..\src\HeaderFile.c:46:15: warning: assignment makes integer from pointer without a cast [-Wint-conversion]
+   array[i][j] = NULL;
+               ^
+..\src\HeaderFile.c: In function 'main':
+..\src\HeaderFile.c:128:10: warning: format '%s' expects argument of type 'char *', but argument 2 has type 'char (*)[(sizetype)(size)]' [-Wformat=]
+  scanf("%s", &arr);
+          ^
+..\src\HeaderFile.c:131:10: warning: format '%s' expects argument of type 'char *', but argument 2 has type 'char (*)[(sizetype)(size)]' [-Wformat=]
+  scanf("%s", &arr2);
+          ^
+..\src\HeaderFile.c: In function 'sizeOf2DArray':
+..\src\HeaderFile.c:33:1: warning: control reaches end of non-void function [-Wreturn-type]
+ }
+ ^
+gcc -o HeaderFile.exe "src\\HeaderFile.o" 
+21:15:39 **** Incremental Build of configuration Debug for project HeaderFile ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\HeaderFile.o" "..\\src\\HeaderFile.c" 
+..\src\HeaderFile.c: In function 'sizeOfIntegerArray':
+..\src\HeaderFile.c:21:15: warning: comparison between pointer and integer
+   if(array[i] == NULL)
+               ^~
+..\src\HeaderFile.c: In function 'sizeOf2DArray':
+..\src\HeaderFile.c:30:18: warning: comparison between pointer and integer
+   if(array[i][0] == NULL)
+                  ^~
+..\src\HeaderFile.c: In function 'nullify1DArray':
+..\src\HeaderFile.c:38:12: warning: assignment makes integer from pointer without a cast [-Wint-conversion]
+   array[i] = NULL;
+            ^
+..\src\HeaderFile.c: In function 'nullify2DArray':
+..\src\HeaderFile.c:46:15: warning: assignment makes integer from pointer without a cast [-Wint-conversion]
+   array[i][j] = NULL;
+               ^
+..\src\HeaderFile.c: In function 'main':
+..\src\HeaderFile.c:128:10: warning: format '%s' expects argument of type 'char *', but argument 2 has type 'char (*)[(sizetype)(size)]' [-Wformat=]
+  scanf("%s", &arr);
+          ^
+..\src\HeaderFile.c:131:10: warning: format '%s' expects argument of type 'char *', but argument 2 has type 'char (*)[(sizetype)(size)]' [-Wformat=]
+  scanf("%s", &arr2);
+          ^
+..\src\HeaderFile.c: In function 'sizeOf2DArray':
+..\src\HeaderFile.c:33:1: warning: control reaches end of non-void function [-Wreturn-type]
+ }
+ ^
+gcc -o HeaderFile.exe "src\\HeaderFile.o" 
+Info: Nothing to build for HeaderFile
+21:16:49 **** Incremental Build of configuration Debug for project HeaderFile ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\HeaderFile.o" "..\\src\\HeaderFile.c" 
+..\src\HeaderFile.c: In function 'sizeOfIntegerArray':
+..\src\HeaderFile.c:21:15: warning: comparison between pointer and integer
+   if(array[i] == NULL)
+               ^~
+..\src\HeaderFile.c: In function 'sizeOf2DArray':
+..\src\HeaderFile.c:30:18: warning: comparison between pointer and integer
+   if(array[i][0] == NULL)
+                  ^~
+..\src\HeaderFile.c: In function 'nullify1DArray':
+..\src\HeaderFile.c:38:12: warning: assignment makes integer from pointer without a cast [-Wint-conversion]
+   array[i] = NULL;
+            ^
+..\src\HeaderFile.c: In function 'nullify2DArray':
+..\src\HeaderFile.c:46:15: warning: assignment makes integer from pointer without a cast [-Wint-conversion]
+   array[i][j] = NULL;
+               ^
+..\src\HeaderFile.c: In function 'main':
+..\src\HeaderFile.c:128:10: warning: format '%s' expects argument of type 'char *', but argument 2 has type 'char (*)[(sizetype)(size)]' [-Wformat=]
+  scanf("%s", &arr);
+          ^
+..\src\HeaderFile.c:131:10: warning: format '%s' expects argument of type 'char *', but argument 2 has type 'char (*)[(sizetype)(size)]' [-Wformat=]
+  scanf("%s", &arr2);
+          ^
+..\src\HeaderFile.c: In function 'sizeOf2DArray':
+..\src\HeaderFile.c:33:1: warning: control reaches end of non-void function [-Wreturn-type]
+ }
+ ^
+gcc -o HeaderFile.exe "src\\HeaderFile.o" 
+Info: Nothing to build for HeaderFile
+22:07:30 **** Rebuild of configuration Debug for project subString ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\subString.o" "..\\src\\subString.c" 
+gcc -o subString.exe "src\\subString.o" 
+22:07:34 **** Incremental Build of configuration Debug for project subString ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\subString.o" "..\\src\\subString.c" 
+..\src\subString.c: In function 'main':
+..\src\subString.c:44:11: warning: format '%s' expects argument of type 'char *', but argument 2 has type 'char (*)[(sizetype)(size)]' [-Wformat=]
+   scanf("%s", &arr);
+           ^
+..\src\subString.c:47:11: warning: format '%s' expects argument of type 'char *', but argument 2 has type 'char (*)[(sizetype)(size)]' [-Wformat=]
+   scanf("%s", &arr2);
+           ^
+..\src\subString.c:53:3: warning: implicit declaration of function 'printContainsSubstring' [-Wimplicit-function-declaration]
+   printContainsSubstring(flag, arr2Size);
+   ^~~~~~~~~~~~~~~~~~~~~~
+gcc -o subString.exe "src\\subString.o" 
+src\subString.o: In function `main':
+C:\Users\salil\EclipseWorkspace\subString\Debug/../src/subString.c:53: undefined reference to `printContainsSubstring'
+collect2.exe: error: ld returned 1 exit status
+22:07:58 **** Incremental Build of configuration Debug for project subString ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\subString.o" "..\\src\\subString.c" 
+..\src\subString.c: In function 'main':
+..\src\subString.c:50:11: warning: format '%s' expects argument of type 'char *', but argument 2 has type 'char (*)[(sizetype)(size)]' [-Wformat=]
+   scanf("%s", &arr);
+           ^
+..\src\subString.c:53:11: warning: format '%s' expects argument of type 'char *', but argument 2 has type 'char (*)[(sizetype)(size)]' [-Wformat=]
+   scanf("%s", &arr2);
+           ^
+gcc -o subString.exe "src\\subString.o" 
+Info: Nothing to build for subString
+Info: Nothing to build for subString
+22:08:41 **** Incremental Build of configuration Debug for project subString ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\subString.o" "..\\src\\subString.c" 
+..\src\subString.c: In function 'main':
+..\src\subString.c:50:11: warning: format '%s' expects argument of type 'char *', but argument 2 has type 'char (*)[(sizetype)(size)]' [-Wformat=]
+   scanf("%s", &arr);
+           ^
+..\src\subString.c:53:11: warning: format '%s' expects argument of type 'char *', but argument 2 has type 'char (*)[(sizetype)(size)]' [-Wformat=]
+   scanf("%s", &arr2);
+           ^
+gcc -o subString.exe "src\\subString.o" 
+22:12:45 **** Incremental Build of configuration Debug for project subString ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\subString.o" "..\\src\\subString.c" 
+..\src\subString.c: In function 'main':
+..\src\subString.c:53:11: warning: format '%s' expects argument of type 'char *', but argument 2 has type 'char (*)[(sizetype)(size)]' [-Wformat=]
+   scanf("%s", &arr);
+           ^
+..\src\subString.c:56:11: warning: format '%s' expects argument of type 'char *', but argument 2 has type 'char (*)[(sizetype)(size)]' [-Wformat=]
+   scanf("%s", &arr2);
+           ^
+gcc -o subString.exe "src\\subString.o" 
+Info: Nothing to build for subString
+Info: Nothing to build for subString
+Info: Nothing to build for subString
+Info: Nothing to build for subString
+Info: Nothing to build for subString
+11:49:08 **** Incremental Build of configuration Debug for project PointerTests ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\PointerTests.o" "..\\src\\PointerTests.c" 
+..\src\PointerTests.c:28:1: error: expected identifier or '(' before '}' token
+ }
+ ^
+11:49:26 **** Incremental Build of configuration Debug for project PointerTests ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\PointerTests.o" "..\\src\\PointerTests.c" 
+gcc -o PointerTests.exe "src\\PointerTests.o" 
+11:51:34 **** Incremental Build of configuration Debug for project PointerTests ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\PointerTests.o" "..\\src\\PointerTests.c" 
+..\src\PointerTests.c: In function 'main':
+..\src\PointerTests.c:61:15: warning: comparison between pointer and integer
+   while(scanf !='\n'){
+               ^~
+gcc -o PointerTests.exe "src\\PointerTests.o" 
+11:54:01 **** Incremental Build of configuration Debug for project PointerTests ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\PointerTests.o" "..\\src\\PointerTests.c" 
+..\src\PointerTests.c: In function 'main':
+..\src\PointerTests.c:61:15: warning: comparison between pointer and integer
+   while(scanf !='\n'){
+               ^~
+..\src\PointerTests.c:70:17: error: 'traversal' is a pointer; did you mean to use '->'?
+  while(traversal.next != NULL){
+                 ^
+                 ->
+11:54:27 **** Incremental Build of configuration Debug for project PointerTests ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\PointerTests.o" "..\\src\\PointerTests.c" 
+..\src\PointerTests.c: In function 'main':
+..\src\PointerTests.c:61:15: warning: comparison between pointer and integer
+   while(scanf !='\n'){
+               ^~
+gcc -o PointerTests.exe "src\\PointerTests.o" 
+c:/users/salil/gcc/bin/../lib/gcc/x86_64-w64-mingw32/6.2.0/../../../../x86_64-w64-mingw32/bin/ld.exe: cannot open output file PointerTests.exe: Permission denied
+collect2.exe: error: ld returned 1 exit status
+11:54:42 **** Incremental Build of configuration Debug for project PointerTests ****
+Info: Internal Builder is used for build
+gcc -o PointerTests.exe "src\\PointerTests.o" 
+c:/users/salil/gcc/bin/../lib/gcc/x86_64-w64-mingw32/6.2.0/../../../../x86_64-w64-mingw32/bin/ld.exe: cannot open output file PointerTests.exe: Permission denied
+collect2.exe: error: ld returned 1 exit status
+11:55:41 **** Incremental Build of configuration Debug for project PointerTests ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\PointerTests.o" "..\\src\\PointerTests.c" 
+gcc -o PointerTests.exe "src\\PointerTests.o" 
+c:/users/salil/gcc/bin/../lib/gcc/x86_64-w64-mingw32/6.2.0/../../../../x86_64-w64-mingw32/bin/ld.exe: cannot open output file PointerTests.exe: Permission denied
+collect2.exe: error: ld returned 1 exit status
+11:57:31 **** Incremental Build of configuration Debug for project PointerTests ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\PointerTests.o" "..\\src\\PointerTests.c" 
+gcc -o PointerTests.exe "src\\PointerTests.o" 
+11:59:02 **** Incremental Build of configuration Debug for project PointerTests ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\PointerTests.o" "..\\src\\PointerTests.c" 
+gcc -o PointerTests.exe "src\\PointerTests.o" 
+c:/users/salil/gcc/bin/../lib/gcc/x86_64-w64-mingw32/6.2.0/../../../../x86_64-w64-mingw32/bin/ld.exe: cannot open output file PointerTests.exe: Permission denied
+collect2.exe: error: ld returned 1 exit status
+12:00:21 **** Incremental Build of configuration Debug for project PointerTests ****
+Info: Internal Builder is used for build
+gcc -o PointerTests.exe "src\\PointerTests.o" 
+12:01:45 **** Incremental Build of configuration Debug for project PointerTests ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\PointerTests.o" "..\\src\\PointerTests.c" 
+gcc -o PointerTests.exe "src\\PointerTests.o" 
+12:03:46 **** Incremental Build of configuration Debug for project PointerTests ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\PointerTests.o" "..\\src\\PointerTests.c" 
+gcc -o PointerTests.exe "src\\PointerTests.o" 
+12:05:29 **** Incremental Build of configuration Debug for project PointerTests ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\PointerTests.o" "..\\src\\PointerTests.c" 
+gcc -o PointerTests.exe "src\\PointerTests.o" 
+12:06:42 **** Incremental Build of configuration Debug for project PointerTests ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\PointerTests.o" "..\\src\\PointerTests.c" 
+gcc -o PointerTests.exe "src\\PointerTests.o" 
+12:09:55 **** Incremental Build of configuration Debug for project PointerTests ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\PointerTests.o" "..\\src\\PointerTests.c" 
+gcc -o PointerTests.exe "src\\PointerTests.o" 
+12:11:05 **** Incremental Build of configuration Debug for project PointerTests ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\PointerTests.o" "..\\src\\PointerTests.c" 
+gcc -o PointerTests.exe "src\\PointerTests.o" 
+12:12:04 **** Incremental Build of configuration Debug for project PointerTests ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\PointerTests.o" "..\\src\\PointerTests.c" 
+gcc -o PointerTests.exe "src\\PointerTests.o" 
+12:13:20 **** Incremental Build of configuration Debug for project PointerTests ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\PointerTests.o" "..\\src\\PointerTests.c" 
+gcc -o PointerTests.exe "src\\PointerTests.o" 
+12:14:56 **** Incremental Build of configuration Debug for project PointerTests ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\PointerTests.o" "..\\src\\PointerTests.c" 
+gcc -o PointerTests.exe "src\\PointerTests.o" 
+Info: Nothing to build for PointerTests
+12:19:49 **** Incremental Build of configuration Debug for project PointerTests ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\PointerTests.o" "..\\src\\PointerTests.c" 
+gcc -o PointerTests.exe "src\\PointerTests.o" 
+12:20:21 **** Incremental Build of configuration Debug for project PointerTests ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\PointerTests.o" "..\\src\\PointerTests.c" 
+gcc -o PointerTests.exe "src\\PointerTests.o" 
+12:21:04 **** Incremental Build of configuration Debug for project PointerTests ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\PointerTests.o" "..\\src\\PointerTests.c" 
+gcc -o PointerTests.exe "src\\PointerTests.o" 
+Info: Nothing to build for PointerTests
+Info: Nothing to build for PointerTests
+Info: Nothing to build for PointerTests
+Info: Nothing to build for PointerTests
+Info: Nothing to build for PointerTests
+12:27:40 **** Incremental Build of configuration Debug for project PointerTests ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\PointerTests.o" "..\\src\\PointerTests.c" 
+gcc -o PointerTests.exe "src\\PointerTests.o" 
+12:36:52 **** Incremental Build of configuration Debug for project PointerTests ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\PointerTests.o" "..\\src\\PointerTests.c" 
+gcc -o PointerTests.exe "src\\PointerTests.o" 
+12:38:34 **** Incremental Build of configuration Debug for project PointerTests ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\PointerTests.o" "..\\src\\PointerTests.c" 
+gcc -o PointerTests.exe "src\\PointerTests.o" 
+12:38:52 **** Incremental Build of configuration Debug for project PointerTests ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\PointerTests.o" "..\\src\\PointerTests.c" 
+gcc -o PointerTests.exe "src\\PointerTests.o" 
+12:40:29 **** Incremental Build of configuration Debug for project PointerTests ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\PointerTests.o" "..\\src\\PointerTests.c" 
+gcc -o PointerTests.exe "src\\PointerTests.o" 
+12:41:02 **** Incremental Build of configuration Debug for project PointerTests ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\PointerTests.o" "..\\src\\PointerTests.c" 
+gcc -o PointerTests.exe "src\\PointerTests.o" 
+12:54:47 **** Rebuild of configuration Debug for project LinkedList ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\LinkedList.o" "..\\src\\LinkedList.c" 
+gcc -o LinkedList.exe "src\\LinkedList.o" 
+12:54:51 **** Incremental Build of configuration Debug for project LinkedList ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\LinkedList.o" "..\\src\\LinkedList.c" 
+gcc -o LinkedList.exe "src\\LinkedList.o" 
+12:55:10 **** Incremental Build of configuration Debug for project LinkedList ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\LinkedList.o" "..\\src\\LinkedList.c" 
+gcc -o LinkedList.exe "src\\LinkedList.o" 
+14:08:21 **** Rebuild of configuration Debug for project LongestSubString ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\LongestSubString.o" "..\\src\\LongestSubString.c" 
+gcc -o LongestSubString.exe "src\\LongestSubString.o" 
+14:08:25 **** Incremental Build of configuration Debug for project LongestSubString ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\LongestSubString.o" "..\\src\\LongestSubString.c" 
+..\src\LongestSubString.c: In function 'findLongestSubstring':
+..\src\LongestSubString.c:41:9: warning: return makes integer from pointer without a cast [-Wint-conversion]
+  return longestSubString;
+         ^~~~~~~~~~~~~~~~
+..\src\LongestSubString.c:41:9: warning: function returns address of local variable [-Wreturn-local-addr]
+..\src\LongestSubString.c:24:7: warning: variable 'singleChar' set but not used [-Wunused-but-set-variable]
+  char singleChar;
+       ^~~~~~~~~~
+..\src\LongestSubString.c: In function 'main':
+..\src\LongestSubString.c:49:11: warning: format '%s' expects argument of type 'char *', but argument 2 has type 'char (*)[(sizetype)(size)]' [-Wformat=]
+   scanf("%s", &string1);
+           ^
+..\src\LongestSubString.c:52:11: warning: format '%s' expects argument of type 'char *', but argument 2 has type 'char (*)[(sizetype)(size)]' [-Wformat=]
+   scanf("%s", &string2);
+           ^
+..\src\LongestSubString.c:57:3: error: variable-sized object may not be initialized
+   char longestSubString[size] = findLongestSubstring(char string1[], char string2[], int string1Size, int string2Size, int size);
+   ^~~~
+..\src\LongestSubString.c:57:54: error: expected expression before 'char'
+   char longestSubString[size] = findLongestSubstring(char string1[], char string2[], int string1Size, int string2Size, int size);
+                                                      ^~~~
+..\src\LongestSubString.c:57:33: error: too few arguments to function 'findLongestSubstring'
+   char longestSubString[size] = findLongestSubstring(char string1[], char string2[], int string1Size, int string2Size, int size);
+                                 ^~~~~~~~~~~~~~~~~~~~
+..\src\LongestSubString.c:21:6: note: declared here
+ char findLongestSubstring(char string1[], char string2[], int string1Size, int string2Size, int size){
+      ^~~~~~~~~~~~~~~~~~~~
+..\src\LongestSubString.c:57:8: warning: unused variable 'longestSubString' [-Wunused-variable]
+   char longestSubString[size] = findLongestSubstring(char string1[], char string2[], int string1Size, int string2Size, int size);
+        ^~~~~~~~~~~~~~~~
+..\src\LongestSubString.c:55:7: warning: unused variable 'string2Size' [-Wunused-variable]
+   int string2Size = sizeOfCharArray(string2);
+       ^~~~~~~~~~~
+..\src\LongestSubString.c:54:7: warning: unused variable 'string1Size' [-Wunused-variable]
+   int string1Size = sizeOfCharArray(string1);
+       ^~~~~~~~~~~
+14:09:54 **** Incremental Build of configuration Debug for project LongestSubString ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\LongestSubString.o" "..\\src\\LongestSubString.c" 
+..\src\LongestSubString.c: In function 'findLongestSubstring':
+..\src\LongestSubString.c:40:9: warning: return makes integer from pointer without a cast [-Wint-conversion]
+  return longestSubString;
+         ^~~~~~~~~~~~~~~~
+..\src\LongestSubString.c:40:9: warning: function returns address of local variable [-Wreturn-local-addr]
+..\src\LongestSubString.c:23:7: warning: variable 'singleChar' set but not used [-Wunused-but-set-variable]
+  char singleChar;
+       ^~~~~~~~~~
+..\src\LongestSubString.c: In function 'main':
+..\src\LongestSubString.c:48:11: warning: format '%s' expects argument of type 'char *', but argument 2 has type 'char (*)[(sizetype)(size)]' [-Wformat=]
+   scanf("%s", &string1);
+           ^
+..\src\LongestSubString.c:51:11: warning: format '%s' expects argument of type 'char *', but argument 2 has type 'char (*)[(sizetype)(size)]' [-Wformat=]
+   scanf("%s", &string2);
+           ^
+..\src\LongestSubString.c:56:49: error: expected expression before 'char'
+   longestSubString[size] = findLongestSubstring(char string1[], char string2[], int string1Size, int string2Size, int size);
+                                                 ^~~~
+..\src\LongestSubString.c:56:28: error: too few arguments to function 'findLongestSubstring'
+   longestSubString[size] = findLongestSubstring(char string1[], char string2[], int string1Size, int string2Size, int size);
+                            ^~~~~~~~~~~~~~~~~~~~
+..\src\LongestSubString.c:20:6: note: declared here
+ char findLongestSubstring(char string1[], char string2[], int string1Size, int string2Size, int size){
+      ^~~~~~~~~~~~~~~~~~~~
+..\src\LongestSubString.c:54:7: warning: unused variable 'string2Size' [-Wunused-variable]
+   int string2Size = sizeOfCharArray(string2);
+       ^~~~~~~~~~~
+..\src\LongestSubString.c:53:7: warning: unused variable 'string1Size' [-Wunused-variable]
+   int string1Size = sizeOfCharArray(string1);
+       ^~~~~~~~~~~
+..\src\LongestSubString.c:46:38: warning: variable 'longestSubString' set but not used [-Wunused-but-set-variable]
+   char string1[size], string2[size], longestSubString[size];
+                                      ^~~~~~~~~~~~~~~~
+14:11:06 **** Incremental Build of configuration Debug for project LongestSubString ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\LongestSubString.o" "..\\src\\LongestSubString.c" 
+..\src\LongestSubString.c: In function 'findLongestSubstring':
+..\src\LongestSubString.c:40:9: warning: return makes integer from pointer without a cast [-Wint-conversion]
+  return longestSubString;
+         ^~~~~~~~~~~~~~~~
+..\src\LongestSubString.c:40:9: warning: function returns address of local variable [-Wreturn-local-addr]
+..\src\LongestSubString.c:23:7: warning: variable 'singleChar' set but not used [-Wunused-but-set-variable]
+  char singleChar;
+       ^~~~~~~~~~
+..\src\LongestSubString.c: In function 'main':
+..\src\LongestSubString.c:48:11: warning: format '%s' expects argument of type 'char *', but argument 2 has type 'char (*)[(sizetype)(size)]' [-Wformat=]
+   scanf("%s", &string1);
+           ^
+..\src\LongestSubString.c:51:11: warning: format '%s' expects argument of type 'char *', but argument 2 has type 'char (*)[(sizetype)(size)]' [-Wformat=]
+   scanf("%s", &string2);
+           ^
+..\src\LongestSubString.c:46:38: warning: variable 'longestSubString' set but not used [-Wunused-but-set-variable]
+   char string1[size], string2[size], longestSubString[size];
+                                      ^~~~~~~~~~~~~~~~
+gcc -o LongestSubString.exe "src\\LongestSubString.o" 
+14:12:26 **** Incremental Build of configuration Debug for project LongestSubString ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\LongestSubString.o" "..\\src\\LongestSubString.c" 
+..\src\LongestSubString.c: In function 'findLongestSubstring':
+..\src\LongestSubString.c:40:9: warning: return makes integer from pointer without a cast [-Wint-conversion]
+  return longestSubString;
+         ^~~~~~~~~~~~~~~~
+..\src\LongestSubString.c:40:9: warning: function returns address of local variable [-Wreturn-local-addr]
+..\src\LongestSubString.c:23:7: warning: variable 'singleChar' set but not used [-Wunused-but-set-variable]
+  char singleChar;
+       ^~~~~~~~~~
+..\src\LongestSubString.c: In function 'main':
+..\src\LongestSubString.c:48:11: warning: format '%s' expects argument of type 'char *', but argument 2 has type 'char (*)[(sizetype)(size)]' [-Wformat=]
+   scanf("%s", &string1);
+           ^
+..\src\LongestSubString.c:51:11: warning: format '%s' expects argument of type 'char *', but argument 2 has type 'char (*)[(sizetype)(size)]' [-Wformat=]
+   scanf("%s", &string2);
+           ^
+gcc -o LongestSubString.exe "src\\LongestSubString.o" 
+14:13:01 **** Incremental Build of configuration Debug for project LongestSubString ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\LongestSubString.o" "..\\src\\LongestSubString.c" 
+..\src\LongestSubString.c: In function 'findLongestSubstring':
+..\src\LongestSubString.c:40:9: warning: return makes integer from pointer without a cast [-Wint-conversion]
+  return longestSubString;
+         ^~~~~~~~~~~~~~~~
+..\src\LongestSubString.c:40:9: warning: function returns address of local variable [-Wreturn-local-addr]
+..\src\LongestSubString.c:23:7: warning: variable 'singleChar' set but not used [-Wunused-but-set-variable]
+  char singleChar;
+       ^~~~~~~~~~
+..\src\LongestSubString.c: In function 'main':
+..\src\LongestSubString.c:48:11: warning: format '%s' expects argument of type 'char *', but argument 2 has type 'char (*)[(sizetype)(size)]' [-Wformat=]
+   scanf("%s", &string1);
+           ^
+..\src\LongestSubString.c:51:11: warning: format '%s' expects argument of type 'char *', but argument 2 has type 'char (*)[(sizetype)(size)]' [-Wformat=]
+   scanf("%s", &string2);
+           ^
+gcc -o LongestSubString.exe "src\\LongestSubString.o" 
+14:14:55 **** Incremental Build of configuration Debug for project LongestSubString ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\LongestSubString.o" "..\\src\\LongestSubString.c" 
+..\src\LongestSubString.c: In function 'findLongestSubstring':
+..\src\LongestSubString.c:40:9: warning: return makes integer from pointer without a cast [-Wint-conversion]
+  return longestSubString;
+         ^~~~~~~~~~~~~~~~
+..\src\LongestSubString.c:40:9: warning: function returns address of local variable [-Wreturn-local-addr]
+..\src\LongestSubString.c:23:7: warning: variable 'singleChar' set but not used [-Wunused-but-set-variable]
+  char singleChar;
+       ^~~~~~~~~~
+..\src\LongestSubString.c: In function 'main':
+..\src\LongestSubString.c:48:11: warning: format '%s' expects argument of type 'char *', but argument 2 has type 'char (*)[(sizetype)(size)]' [-Wformat=]
+   scanf("%s", &string1);
+           ^
+..\src\LongestSubString.c:51:11: warning: format '%s' expects argument of type 'char *', but argument 2 has type 'char (*)[(sizetype)(size)]' [-Wformat=]
+   scanf("%s", &string2);
+           ^
+gcc -o LongestSubString.exe "src\\LongestSubString.o" 
+14:17:12 **** Incremental Build of configuration Debug for project LongestSubString ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\LongestSubString.o" "..\\src\\LongestSubString.c" 
+..\src\LongestSubString.c: In function 'findLongestSubstring':
+..\src\LongestSubString.c:40:25: warning: left-hand operand of comma expression has no effect [-Wunused-value]
+  return longestSubString, singleChar;
+                         ^
+..\src\LongestSubString.c:22:7: warning: variable 'longestSubString' set but not used [-Wunused-but-set-variable]
+  char longestSubString[size];
+       ^~~~~~~~~~~~~~~~
+..\src\LongestSubString.c: In function 'main':
+..\src\LongestSubString.c:48:11: warning: format '%s' expects argument of type 'char *', but argument 2 has type 'char (*)[(sizetype)(size)]' [-Wformat=]
+   scanf("%s", &string1);
+           ^
+..\src\LongestSubString.c:51:11: warning: format '%s' expects argument of type 'char *', but argument 2 has type 'char (*)[(sizetype)(size)]' [-Wformat=]
+   scanf("%s", &string2);
+           ^
+gcc -o LongestSubString.exe "src\\LongestSubString.o" 
+14:18:01 **** Incremental Build of configuration Debug for project LongestSubString ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\LongestSubString.o" "..\\src\\LongestSubString.c" 
+..\src\LongestSubString.c: In function 'findLongestSubstring':
+..\src\LongestSubString.c:39:25: warning: left-hand operand of comma expression has no effect [-Wunused-value]
+  return longestSubString, singleChar;
+                         ^
+..\src\LongestSubString.c:22:7: warning: variable 'longestSubString' set but not used [-Wunused-but-set-variable]
+  char longestSubString[size];
+       ^~~~~~~~~~~~~~~~
+..\src\LongestSubString.c: In function 'main':
+..\src\LongestSubString.c:47:11: warning: format '%s' expects argument of type 'char *', but argument 2 has type 'char (*)[(sizetype)(size)]' [-Wformat=]
+   scanf("%s", &string1);
+           ^
+..\src\LongestSubString.c:50:11: warning: format '%s' expects argument of type 'char *', but argument 2 has type 'char (*)[(sizetype)(size)]' [-Wformat=]
+   scanf("%s", &string2);
+           ^
+gcc -o LongestSubString.exe "src\\LongestSubString.o" 
+14:18:28 **** Incremental Build of configuration Debug for project LongestSubString ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\LongestSubString.o" "..\\src\\LongestSubString.c" 
+..\src\LongestSubString.c: In function 'findLongestSubstring':
+..\src\LongestSubString.c:39:9: warning: return makes integer from pointer without a cast [-Wint-conversion]
+  return longestSubString;
+         ^~~~~~~~~~~~~~~~
+..\src\LongestSubString.c:39:9: warning: function returns address of local variable [-Wreturn-local-addr]
+..\src\LongestSubString.c:23:7: warning: variable 'singleChar' set but not used [-Wunused-but-set-variable]
+  char singleChar;
+       ^~~~~~~~~~
+..\src\LongestSubString.c: In function 'main':
+..\src\LongestSubString.c:47:11: warning: format '%s' expects argument of type 'char *', but argument 2 has type 'char (*)[(sizetype)(size)]' [-Wformat=]
+   scanf("%s", &string1);
+           ^
+..\src\LongestSubString.c:50:11: warning: format '%s' expects argument of type 'char *', but argument 2 has type 'char (*)[(sizetype)(size)]' [-Wformat=]
+   scanf("%s", &string2);
+           ^
+gcc -o LongestSubString.exe "src\\LongestSubString.o" 
+14:19:40 **** Incremental Build of configuration Debug for project LongestSubString ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\LongestSubString.o" "..\\src\\LongestSubString.c" 
+..\src\LongestSubString.c: In function 'findLongestSubstring':
+..\src\LongestSubString.c:40:9: warning: return makes integer from pointer without a cast [-Wint-conversion]
+  return longestSubString;
+         ^~~~~~~~~~~~~~~~
+..\src\LongestSubString.c:40:9: warning: function returns address of local variable [-Wreturn-local-addr]
+..\src\LongestSubString.c:23:7: warning: variable 'singleChar' set but not used [-Wunused-but-set-variable]
+  char singleChar;
+       ^~~~~~~~~~
+..\src\LongestSubString.c: In function 'main':
+..\src\LongestSubString.c:48:11: warning: format '%s' expects argument of type 'char *', but argument 2 has type 'char (*)[(sizetype)(size)]' [-Wformat=]
+   scanf("%s", &string1);
+           ^
+..\src\LongestSubString.c:51:11: warning: format '%s' expects argument of type 'char *', but argument 2 has type 'char (*)[(sizetype)(size)]' [-Wformat=]
+   scanf("%s", &string2);
+           ^
+gcc -o LongestSubString.exe "src\\LongestSubString.o" 
+15:28:12 **** Incremental Build of configuration Debug for project LongestSubString ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\LongestSubString.o" "..\\src\\LongestSubString.c" 
+..\src\LongestSubString.c: In function 'findLongestSubstring':
+..\src\LongestSubString.c:42:9: warning: return makes integer from pointer without a cast [-Wint-conversion]
+  return longestSubString;
+         ^~~~~~~~~~~~~~~~
+..\src\LongestSubString.c:42:9: warning: function returns address of local variable [-Wreturn-local-addr]
+..\src\LongestSubString.c:23:6: warning: variable 'singleChar' set but not used [-Wunused-but-set-variable]
+  int singleChar;
+      ^~~~~~~~~~
+..\src\LongestSubString.c: In function 'main':
+..\src\LongestSubString.c:50:11: warning: format '%s' expects argument of type 'char *', but argument 2 has type 'char (*)[(sizetype)(size)]' [-Wformat=]
+   scanf("%s", &string1);
+           ^
+..\src\LongestSubString.c:53:11: warning: format '%s' expects argument of type 'char *', but argument 2 has type 'char (*)[(sizetype)(size)]' [-Wformat=]
+   scanf("%s", &string2);
+           ^
+gcc -o LongestSubString.exe "src\\LongestSubString.o" 
+15:29:22 **** Incremental Build of configuration Debug for project LongestSubString ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\LongestSubString.o" "..\\src\\LongestSubString.c" 
+..\src\LongestSubString.c: In function 'findLongestSubstring':
+..\src\LongestSubString.c:42:9: warning: return makes integer from pointer without a cast [-Wint-conversion]
+  return longestSubString;
+         ^~~~~~~~~~~~~~~~
+..\src\LongestSubString.c:42:9: warning: function returns address of local variable [-Wreturn-local-addr]
+..\src\LongestSubString.c:23:6: warning: variable 'singleChar' set but not used [-Wunused-but-set-variable]
+  int singleChar;
+      ^~~~~~~~~~
+..\src\LongestSubString.c: In function 'main':
+..\src\LongestSubString.c:50:11: warning: format '%s' expects argument of type 'char *', but argument 2 has type 'char (*)[(sizetype)(size)]' [-Wformat=]
+   scanf("%s", &string1);
+           ^
+..\src\LongestSubString.c:53:11: warning: format '%s' expects argument of type 'char *', but argument 2 has type 'char (*)[(sizetype)(size)]' [-Wformat=]
+   scanf("%s", &string2);
+           ^
+gcc -o LongestSubString.exe "src\\LongestSubString.o" 
+15:29:49 **** Incremental Build of configuration Debug for project LongestSubString ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\LongestSubString.o" "..\\src\\LongestSubString.c" 
+..\src\LongestSubString.c: In function 'findLongestSubstring':
+..\src\LongestSubString.c:23:6: warning: variable 'singleChar' set but not used [-Wunused-but-set-variable]
+  int singleChar;
+      ^~~~~~~~~~
+..\src\LongestSubString.c: In function 'main':
+..\src\LongestSubString.c:50:11: warning: format '%s' expects argument of type 'char *', but argument 2 has type 'char (*)[(sizetype)(size)]' [-Wformat=]
+   scanf("%s", &string1);
+           ^
+..\src\LongestSubString.c:53:11: warning: format '%s' expects argument of type 'char *', but argument 2 has type 'char (*)[(sizetype)(size)]' [-Wformat=]
+   scanf("%s", &string2);
+           ^
+gcc -o LongestSubString.exe "src\\LongestSubString.o" 
+15:33:48 **** Incremental Build of configuration Debug for project LongestSubString ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\LongestSubString.o" "..\\src\\LongestSubString.c" 
+..\src\LongestSubString.c: In function 'findLongestSubstring':
+..\src\LongestSubString.c:42:9: warning: return makes integer from pointer without a cast [-Wint-conversion]
+  return longestSubString;
+         ^~~~~~~~~~~~~~~~
+..\src\LongestSubString.c:42:9: warning: function returns address of local variable [-Wreturn-local-addr]
+..\src\LongestSubString.c:23:6: warning: variable 'singleChar' set but not used [-Wunused-but-set-variable]
+  int singleChar;
+      ^~~~~~~~~~
+..\src\LongestSubString.c: In function 'main':
+..\src\LongestSubString.c:50:11: warning: format '%s' expects argument of type 'char *', but argument 2 has type 'char (*)[(sizetype)(size)]' [-Wformat=]
+   scanf("%s", &string1);
+           ^
+..\src\LongestSubString.c:53:11: warning: format '%s' expects argument of type 'char *', but argument 2 has type 'char (*)[(sizetype)(size)]' [-Wformat=]
+   scanf("%s", &string2);
+           ^
+gcc -o LongestSubString.exe "src\\LongestSubString.o" 
+15:40:41 **** Incremental Build of configuration Debug for project LongestSubString ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\LongestSubString.o" "..\\src\\LongestSubString.c" 
+..\src\LongestSubString.c: In function 'findLongestSubstring':
+..\src\LongestSubString.c:42:9: warning: function returns address of local variable [-Wreturn-local-addr]
+  return longestSubString;
+         ^~~~~~~~~~~~~~~~
+..\src\LongestSubString.c:23:6: warning: variable 'singleChar' set but not used [-Wunused-but-set-variable]
+  int singleChar;
+      ^~~~~~~~~~
+..\src\LongestSubString.c: In function 'main':
+..\src\LongestSubString.c:50:11: warning: format '%s' expects argument of type 'char *', but argument 2 has type 'char (*)[(sizetype)(size)]' [-Wformat=]
+   scanf("%s", &string1);
+           ^
+..\src\LongestSubString.c:53:11: warning: format '%s' expects argument of type 'char *', but argument 2 has type 'char (*)[(sizetype)(size)]' [-Wformat=]
+   scanf("%s", &string2);
+           ^
+..\src\LongestSubString.c:58:20: error: assignment to expression with array type
+   longestSubString = findLongestSubstring(string1, string2, string1Size, string2Size, size);
+                    ^
+..\src\LongestSubString.c:63:14: warning: format '%c' expects argument of type 'int', but argument 2 has type 'char *' [-Wformat=]
+     printf("%c\t", longestSubString[i]);
+              ^
+15:40:53 **** Incremental Build of configuration Debug for project LongestSubString ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\LongestSubString.o" "..\\src\\LongestSubString.c" 
+..\src\LongestSubString.c: In function 'findLongestSubstring':
+..\src\LongestSubString.c:42:9: warning: function returns address of local variable [-Wreturn-local-addr]
+  return longestSubString;
+         ^~~~~~~~~~~~~~~~
+..\src\LongestSubString.c:23:6: warning: variable 'singleChar' set but not used [-Wunused-but-set-variable]
+  int singleChar;
+      ^~~~~~~~~~
+..\src\LongestSubString.c: In function 'main':
+..\src\LongestSubString.c:50:11: warning: format '%s' expects argument of type 'char *', but argument 2 has type 'char (*)[(sizetype)(size)]' [-Wformat=]
+   scanf("%s", &string1);
+           ^
+..\src\LongestSubString.c:53:11: warning: format '%s' expects argument of type 'char *', but argument 2 has type 'char (*)[(sizetype)(size)]' [-Wformat=]
+   scanf("%s", &string2);
+           ^
+..\src\LongestSubString.c:58:26: warning: assignment discards 'const' qualifier from pointer target type [-Wdiscarded-qualifiers]
+   longestSubString[size] = findLongestSubstring(string1, string2, string1Size, string2Size, size);
+                          ^
+..\src\LongestSubString.c:63:14: warning: format '%c' expects argument of type 'int', but argument 2 has type 'char *' [-Wformat=]
+     printf("%c\t", longestSubString[i]);
+              ^
+gcc -o LongestSubString.exe "src\\LongestSubString.o" 
+c:/users/salil/gcc/bin/../lib/gcc/x86_64-w64-mingw32/6.2.0/../../../../x86_64-w64-mingw32/bin/ld.exe: cannot open output file LongestSubString.exe: Permission denied
+collect2.exe: error: ld returned 1 exit status
+15:41:57 **** Incremental Build of configuration Debug for project LongestSubString ****
+Info: Internal Builder is used for build
+gcc -o LongestSubString.exe "src\\LongestSubString.o" 
+15:42:41 **** Incremental Build of configuration Debug for project LongestSubString ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\LongestSubString.o" "..\\src\\LongestSubString.c" 
+..\src\LongestSubString.c: In function 'findLongestSubstring':
+..\src\LongestSubString.c:42:9: warning: function returns address of local variable [-Wreturn-local-addr]
+  return longestSubString;
+         ^~~~~~~~~~~~~~~~
+..\src\LongestSubString.c:23:6: warning: variable 'singleChar' set but not used [-Wunused-but-set-variable]
+  int singleChar;
+      ^~~~~~~~~~
+..\src\LongestSubString.c: In function 'main':
+..\src\LongestSubString.c:50:11: warning: format '%s' expects argument of type 'char *', but argument 2 has type 'char (*)[(sizetype)(size)]' [-Wformat=]
+   scanf("%s", &string1);
+           ^
+..\src\LongestSubString.c:53:11: warning: format '%s' expects argument of type 'char *', but argument 2 has type 'char (*)[(sizetype)(size)]' [-Wformat=]
+   scanf("%s", &string2);
+           ^
+..\src\LongestSubString.c:58:26: warning: assignment discards 'const' qualifier from pointer target type [-Wdiscarded-qualifiers]
+   longestSubString[size] = findLongestSubstring(string1, string2, string1Size, string2Size, size);
+                          ^
+..\src\LongestSubString.c:63:14: warning: format '%c' expects argument of type 'int', but argument 2 has type 'char *' [-Wformat=]
+     printf("%c\t", longestSubString[i]);
+              ^
+gcc -o LongestSubString.exe "src\\LongestSubString.o" 
+c:/users/salil/gcc/bin/../lib/gcc/x86_64-w64-mingw32/6.2.0/../../../../x86_64-w64-mingw32/bin/ld.exe: cannot open output file LongestSubString.exe: Permission denied
+collect2.exe: error: ld returned 1 exit status
+16:09:52 **** Incremental Build of configuration Debug for project LongestSubString ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\LongestSubString.o" "..\\src\\LongestSubString.c" 
+..\src\LongestSubString.c: In function 'findLongestSubstring':
+..\src\LongestSubString.c:42:9: warning: function returns address of local variable [-Wreturn-local-addr]
+  return longestSubString;
+         ^~~~~~~~~~~~~~~~
+..\src\LongestSubString.c:23:6: warning: variable 'singleChar' set but not used [-Wunused-but-set-variable]
+  int singleChar;
+      ^~~~~~~~~~
+..\src\LongestSubString.c: In function 'main':
+..\src\LongestSubString.c:50:11: warning: format '%s' expects argument of type 'char *', but argument 2 has type 'char (*)[(sizetype)(size)]' [-Wformat=]
+   scanf("%s", &string1);
+           ^
+..\src\LongestSubString.c:53:11: warning: format '%s' expects argument of type 'char *', but argument 2 has type 'char (*)[(sizetype)(size)]' [-Wformat=]
+   scanf("%s", &string2);
+           ^
+..\src\LongestSubString.c:58:26: warning: assignment discards 'const' qualifier from pointer target type [-Wdiscarded-qualifiers]
+   longestSubString[size] = findLongestSubstring(string1, string2, string1Size, string2Size, size);
+                          ^
+..\src\LongestSubString.c:59:12: warning: format '%s' expects argument of type 'char *', but argument 2 has type 'char **' [-Wformat=]
+   printf("%s\n", longestSubString);
+            ^
+..\src\LongestSubString.c:47:18: warning: unused variable 'i' [-Wunused-variable]
+   int size = 10, i;
+                  ^
+gcc -o LongestSubString.exe "src\\LongestSubString.o" 
+c:/users/salil/gcc/bin/../lib/gcc/x86_64-w64-mingw32/6.2.0/../../../../x86_64-w64-mingw32/bin/ld.exe: cannot open output file LongestSubString.exe: Permission denied
+collect2.exe: error: ld returned 1 exit status
+16:10:37 **** Incremental Build of configuration Debug for project LongestSubString ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\LongestSubString.o" "..\\src\\LongestSubString.c" 
+..\src\LongestSubString.c: In function 'findLongestSubstring':
+..\src\LongestSubString.c:42:9: warning: function returns address of local variable [-Wreturn-local-addr]
+  return longestSubString;
+         ^~~~~~~~~~~~~~~~
+..\src\LongestSubString.c:23:6: warning: variable 'singleChar' set but not used [-Wunused-but-set-variable]
+  int singleChar;
+      ^~~~~~~~~~
+..\src\LongestSubString.c: In function 'main':
+..\src\LongestSubString.c:50:11: warning: format '%s' expects argument of type 'char *', but argument 2 has type 'char (*)[(sizetype)(size)]' [-Wformat=]
+   scanf("%s", &string1);
+           ^
+..\src\LongestSubString.c:53:11: warning: format '%s' expects argument of type 'char *', but argument 2 has type 'char (*)[(sizetype)(size)]' [-Wformat=]
+   scanf("%s", &string2);
+           ^
+..\src\LongestSubString.c:58:26: warning: assignment discards 'const' qualifier from pointer target type [-Wdiscarded-qualifiers]
+   longestSubString[size] = findLongestSubstring(string1, string2, string1Size, string2Size, size);
+                          ^
+..\src\LongestSubString.c:59:12: warning: format '%s' expects argument of type 'char *', but argument 2 has type 'char **' [-Wformat=]
+   printf("%s\n", longestSubString);
+            ^
+..\src\LongestSubString.c:47:18: warning: unused variable 'i' [-Wunused-variable]
+   int size = 10, i;
+                  ^
+gcc -o LongestSubString.exe "src\\LongestSubString.o" 
+16:11:36 **** Incremental Build of configuration Debug for project LongestSubString ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\LongestSubString.o" "..\\src\\LongestSubString.c" 
+..\src\LongestSubString.c: In function 'findLongestSubstring':
+..\src\LongestSubString.c:42:9: warning: function returns address of local variable [-Wreturn-local-addr]
+  return longestSubString;
+         ^~~~~~~~~~~~~~~~
+..\src\LongestSubString.c:23:6: warning: variable 'singleChar' set but not used [-Wunused-but-set-variable]
+  int singleChar;
+      ^~~~~~~~~~
+..\src\LongestSubString.c: In function 'main':
+..\src\LongestSubString.c:50:11: warning: format '%s' expects argument of type 'char *', but argument 2 has type 'char (*)[(sizetype)(size)]' [-Wformat=]
+   scanf("%s", &string1);
+           ^
+..\src\LongestSubString.c:53:11: warning: format '%s' expects argument of type 'char *', but argument 2 has type 'char (*)[(sizetype)(size)]' [-Wformat=]
+   scanf("%s", &string2);
+           ^
+..\src\LongestSubString.c:48:39: warning: unused variable 'longestSubString' [-Wunused-variable]
+   char string1[size], string2[size], *longestSubString[size];
+                                       ^~~~~~~~~~~~~~~~
+..\src\LongestSubString.c:47:18: warning: unused variable 'i' [-Wunused-variable]
+   int size = 10, i;
+                  ^
+gcc -o LongestSubString.exe "src\\LongestSubString.o" 
+16:17:53 **** Incremental Build of configuration Debug for project LongestSubString ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\LongestSubString.o" "..\\src\\LongestSubString.c" 
+..\src\LongestSubString.c: In function 'findLongestSubstring':
+..\src\LongestSubString.c:43:9: warning: return makes integer from pointer without a cast [-Wint-conversion]
+  return ptr;
+         ^~~
+..\src\LongestSubString.c:24:6: warning: variable 'singleChar' set but not used [-Wunused-but-set-variable]
+  int singleChar;
+      ^~~~~~~~~~
+..\src\LongestSubString.c: In function 'main':
+..\src\LongestSubString.c:51:11: warning: format '%s' expects argument of type 'char *', but argument 2 has type 'char (*)[(sizetype)(size)]' [-Wformat=]
+   scanf("%s", &string1);
+           ^
+..\src\LongestSubString.c:54:11: warning: format '%s' expects argument of type 'char *', but argument 2 has type 'char (*)[(sizetype)(size)]' [-Wformat=]
+   scanf("%s", &string2);
+           ^
+..\src\LongestSubString.c:61:7: warning: assignment makes pointer from integer without a cast [-Wint-conversion]
+   ptr = longestSubString[0];
+       ^
+gcc -o LongestSubString.exe "src\\LongestSubString.o" 
+13:31:56 **** Incremental Build of configuration Debug for project LongestSubString ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\LongestSubString.o" "..\\src\\LongestSubString.c" 
+..\src\LongestSubString.c: In function 'findLongestSubstring':
+..\src\LongestSubString.c:30:2: warning: implicit declaration of function 'calculateAndPrintMaxContinuousString' [-Wimplicit-function-declaration]
+  calculateAndPrintMaxContinuousString(string2, longestSubString, size);
+  ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+..\src\LongestSubString.c:21:20: warning: unused variable 'k' [-Wunused-variable]
+  int i = 0, j = 0, k;
+                    ^
+..\src\LongestSubString.c: At top level:
+..\src\LongestSubString.c:33:6: warning: conflicting types for 'calculateAndPrintMaxContinuousString'
+ void calculateAndPrintMaxContinuousString(char string2[], char longestSubString[], int size){
+      ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+..\src\LongestSubString.c:30:2: note: previous implicit declaration of 'calculateAndPrintMaxContinuousString' was here
+  calculateAndPrintMaxContinuousString(string2, longestSubString, size);
+  ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+..\src\LongestSubString.c: In function 'main':
+..\src\LongestSubString.c:64:11: warning: format '%s' expects argument of type 'char *', but argument 2 has type 'char (*)[(sizetype)(size)]' [-Wformat=]
+   scanf("%s", &string1);
+           ^
+..\src\LongestSubString.c:67:11: warning: format '%s' expects argument of type 'char *', but argument 2 has type 'char (*)[(sizetype)(size)]' [-Wformat=]
+   scanf("%s", &string2);
+           ^
+..\src\LongestSubString.c:72:42: warning: passing argument 3 of 'findLongestSubstring' makes pointer from integer without a cast [-Wint-conversion]
+   findLongestSubstring(string1, string2, string1Size, string2Size, size);
+                                          ^~~~~~~~~~~
+..\src\LongestSubString.c:20:6: note: expected 'char *' but argument is of type 'int'
+ void findLongestSubstring(char string1[], char string2[], char longestSubString[], int string1Size, int string2Size, int size){
+      ^~~~~~~~~~~~~~~~~~~~
+..\src\LongestSubString.c:72:3: error: too few arguments to function 'findLongestSubstring'
+   findLongestSubstring(string1, string2, string1Size, string2Size, size);
+   ^~~~~~~~~~~~~~~~~~~~
+..\src\LongestSubString.c:20:6: note: declared here
+ void findLongestSubstring(char string1[], char string2[], char longestSubString[], int string1Size, int string2Size, int size){
+      ^~~~~~~~~~~~~~~~~~~~
+..\src\LongestSubString.c:62:38: warning: unused variable 'longestSubString' [-Wunused-variable]
+   char string1[size], string2[size], longestSubString[size];
+                                      ^~~~~~~~~~~~~~~~
+..\src\LongestSubString.c:61:18: warning: unused variable 'i' [-Wunused-variable]
+   int size = 10, i;
+                  ^
+13:33:30 **** Incremental Build of configuration Debug for project LongestSubString ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\LongestSubString.o" "..\\src\\LongestSubString.c" 
+..\src\LongestSubString.c: In function 'findLongestSubstring':
+..\src\LongestSubString.c:30:2: warning: implicit declaration of function 'calculateAndPrintMaxContinuousString' [-Wimplicit-function-declaration]
+  calculateAndPrintMaxContinuousString(string2, longestSubString, size);
+  ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+..\src\LongestSubString.c:21:20: warning: unused variable 'k' [-Wunused-variable]
+  int i = 0, j = 0, k;
+                    ^
+..\src\LongestSubString.c: At top level:
+..\src\LongestSubString.c:33:6: warning: conflicting types for 'calculateAndPrintMaxContinuousString'
+ void calculateAndPrintMaxContinuousString(char string2[], char longestSubString[], int size){
+      ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+..\src\LongestSubString.c:30:2: note: previous implicit declaration of 'calculateAndPrintMaxContinuousString' was here
+  calculateAndPrintMaxContinuousString(string2, longestSubString, size);
+  ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+..\src\LongestSubString.c: In function 'main':
+..\src\LongestSubString.c:64:11: warning: format '%s' expects argument of type 'char *', but argument 2 has type 'char (*)[(sizetype)(size)]' [-Wformat=]
+   scanf("%s", &string1);
+           ^
+..\src\LongestSubString.c:67:11: warning: format '%s' expects argument of type 'char *', but argument 2 has type 'char (*)[(sizetype)(size)]' [-Wformat=]
+   scanf("%s", &string2);
+           ^
+..\src\LongestSubString.c:61:18: warning: unused variable 'i' [-Wunused-variable]
+   int size = 10, i;
+                  ^
+gcc -o LongestSubString.exe "src\\LongestSubString.o" 
+c:/users/salil/gcc/bin/../lib/gcc/x86_64-w64-mingw32/6.2.0/../../../../x86_64-w64-mingw32/bin/ld.exe: cannot open output file LongestSubString.exe: Permission denied
+collect2.exe: error: ld returned 1 exit status
+13:34:17 **** Incremental Build of configuration Debug for project LongestSubString ****
+Info: Internal Builder is used for build
+gcc -o LongestSubString.exe "src\\LongestSubString.o" 
+13:49:56 **** Incremental Build of configuration Debug for project LongestSubString ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\LongestSubString.o" "..\\src\\LongestSubString.c" 
+..\src\LongestSubString.c: In function 'findLongestSubstring':
+..\src\LongestSubString.c:31:2: warning: implicit declaration of function 'calculateAndPrintMaxContinuousString' [-Wimplicit-function-declaration]
+  calculateAndPrintMaxContinuousString(string2, longestSubString, size);
+  ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+..\src\LongestSubString.c:21:20: warning: unused variable 'k' [-Wunused-variable]
+  int i = 0, j = 0, k;
+                    ^
+..\src\LongestSubString.c: At top level:
+..\src\LongestSubString.c:34:6: warning: conflicting types for 'calculateAndPrintMaxContinuousString'
+ void calculateAndPrintMaxContinuousString(char string2[], char longestSubString[], int size){
+      ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+..\src\LongestSubString.c:31:2: note: previous implicit declaration of 'calculateAndPrintMaxContinuousString' was here
+  calculateAndPrintMaxContinuousString(string2, longestSubString, size);
+  ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+..\src\LongestSubString.c: In function 'main':
+..\src\LongestSubString.c:66:11: warning: format '%s' expects argument of type 'char *', but argument 2 has type 'char (*)[(sizetype)(size)]' [-Wformat=]
+   scanf("%s", &string1);
+           ^
+..\src\LongestSubString.c:69:11: warning: format '%s' expects argument of type 'char *', but argument 2 has type 'char (*)[(sizetype)(size)]' [-Wformat=]
+   scanf("%s", &string2);
+           ^
+..\src\LongestSubString.c:63:18: warning: unused variable 'i' [-Wunused-variable]
+   int size = 10, i;
+                  ^
+gcc -o LongestSubString.exe "src\\LongestSubString.o" 
+13:55:16 **** Incremental Build of configuration Debug for project LongestSubString ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\LongestSubString.o" "..\\src\\LongestSubString.c" 
+..\src\LongestSubString.c: In function 'findLongestSubstring':
+..\src\LongestSubString.c:31:2: warning: implicit declaration of function 'calculateAndPrintMaxContinuousString' [-Wimplicit-function-declaration]
+  calculateAndPrintMaxContinuousString(string2, longestSubString, size);
+  ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+..\src\LongestSubString.c:21:20: warning: unused variable 'k' [-Wunused-variable]
+  int i = 0, j = 0, k;
+                    ^
+..\src\LongestSubString.c: At top level:
+..\src\LongestSubString.c:34:6: warning: conflicting types for 'calculateAndPrintMaxContinuousString'
+ void calculateAndPrintMaxContinuousString(char string2[], char longestSubString[], int size){
+      ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+..\src\LongestSubString.c:31:2: note: previous implicit declaration of 'calculateAndPrintMaxContinuousString' was here
+  calculateAndPrintMaxContinuousString(string2, longestSubString, size);
+  ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+..\src\LongestSubString.c: In function 'main':
+..\src\LongestSubString.c:67:11: warning: format '%s' expects argument of type 'char *', but argument 2 has type 'char (*)[(sizetype)(size)]' [-Wformat=]
+   scanf("%s", &string1);
+           ^
+..\src\LongestSubString.c:70:11: warning: format '%s' expects argument of type 'char *', but argument 2 has type 'char (*)[(sizetype)(size)]' [-Wformat=]
+   scanf("%s", &string2);
+           ^
+..\src\LongestSubString.c:64:18: warning: unused variable 'i' [-Wunused-variable]
+   int size = 10, i;
+                  ^
+gcc -o LongestSubString.exe "src\\LongestSubString.o" 
+13:55:39 **** Incremental Build of configuration Debug for project LongestSubString ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\LongestSubString.o" "..\\src\\LongestSubString.c" 
+..\src\LongestSubString.c: In function 'findLongestSubstring':
+..\src\LongestSubString.c:31:2: warning: implicit declaration of function 'calculateAndPrintMaxContinuousString' [-Wimplicit-function-declaration]
+  calculateAndPrintMaxContinuousString(string2, longestSubString, size);
+  ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+..\src\LongestSubString.c:21:20: warning: unused variable 'k' [-Wunused-variable]
+  int i = 0, j = 0, k;
+                    ^
+..\src\LongestSubString.c: At top level:
+..\src\LongestSubString.c:34:6: warning: conflicting types for 'calculateAndPrintMaxContinuousString'
+ void calculateAndPrintMaxContinuousString(char string2[], char longestSubString[], int size){
+      ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+..\src\LongestSubString.c:31:2: note: previous implicit declaration of 'calculateAndPrintMaxContinuousString' was here
+  calculateAndPrintMaxContinuousString(string2, longestSubString, size);
+  ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+..\src\LongestSubString.c: In function 'main':
+..\src\LongestSubString.c:67:11: warning: format '%s' expects argument of type 'char *', but argument 2 has type 'char (*)[(sizetype)(size)]' [-Wformat=]
+   scanf("%s", &string1);
+           ^
+..\src\LongestSubString.c:70:11: warning: format '%s' expects argument of type 'char *', but argument 2 has type 'char (*)[(sizetype)(size)]' [-Wformat=]
+   scanf("%s", &string2);
+           ^
+..\src\LongestSubString.c:64:18: warning: unused variable 'i' [-Wunused-variable]
+   int size = 10, i;
+                  ^
+gcc -o LongestSubString.exe "src\\LongestSubString.o" 
+Info: Nothing to build for LongestSubString
+13:56:51 **** Incremental Build of configuration Debug for project LongestSubString ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\LongestSubString.o" "..\\src\\LongestSubString.c" 
+..\src\LongestSubString.c: In function 'findLongestSubstring':
+..\src\LongestSubString.c:31:2: warning: implicit declaration of function 'calculateAndPrintMaxContinuousString' [-Wimplicit-function-declaration]
+  calculateAndPrintMaxContinuousString(string2, longestSubString, size);
+  ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+..\src\LongestSubString.c:21:20: warning: unused variable 'k' [-Wunused-variable]
+  int i = 0, j = 0, k;
+                    ^
+..\src\LongestSubString.c: At top level:
+..\src\LongestSubString.c:34:6: warning: conflicting types for 'calculateAndPrintMaxContinuousString'
+ void calculateAndPrintMaxContinuousString(char string2[], char longestSubString[], int size){
+      ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+..\src\LongestSubString.c:31:2: note: previous implicit declaration of 'calculateAndPrintMaxContinuousString' was here
+  calculateAndPrintMaxContinuousString(string2, longestSubString, size);
+  ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+..\src\LongestSubString.c: In function 'main':
+..\src\LongestSubString.c:67:11: warning: format '%s' expects argument of type 'char *', but argument 2 has type 'char (*)[(sizetype)(size)]' [-Wformat=]
+   scanf("%s", &string1);
+           ^
+..\src\LongestSubString.c:70:11: warning: format '%s' expects argument of type 'char *', but argument 2 has type 'char (*)[(sizetype)(size)]' [-Wformat=]
+   scanf("%s", &string2);
+           ^
+..\src\LongestSubString.c:64:18: warning: unused variable 'i' [-Wunused-variable]
+   int size = 10, i;
+                  ^
+gcc -o LongestSubString.exe "src\\LongestSubString.o" 
+15:07:03 **** Incremental Build of configuration Debug for project LongestSubString ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\LongestSubString.o" "..\\src\\LongestSubString.c" 
+..\src\LongestSubString.c: In function 'findLongestSubstring':
+..\src\LongestSubString.c:31:2: warning: implicit declaration of function 'calculateAndPrintMaxContinuousString' [-Wimplicit-function-declaration]
+  calculateAndPrintMaxContinuousString(string2, longestSubString, size);
+  ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+..\src\LongestSubString.c:21:20: warning: unused variable 'k' [-Wunused-variable]
+  int i = 0, j = 0, k;
+                    ^
+..\src\LongestSubString.c: At top level:
+..\src\LongestSubString.c:34:6: warning: conflicting types for 'calculateAndPrintMaxContinuousString'
+ void calculateAndPrintMaxContinuousString(char string2[], char longestSubString[], int size){
+      ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+..\src\LongestSubString.c:31:2: note: previous implicit declaration of 'calculateAndPrintMaxContinuousString' was here
+  calculateAndPrintMaxContinuousString(string2, longestSubString, size);
+  ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+..\src\LongestSubString.c: In function 'main':
+..\src\LongestSubString.c:68:11: warning: format '%s' expects argument of type 'char *', but argument 2 has type 'char (*)[(sizetype)(size)]' [-Wformat=]
+   scanf("%s", &string1);
+           ^
+..\src\LongestSubString.c:71:11: warning: format '%s' expects argument of type 'char *', but argument 2 has type 'char (*)[(sizetype)(size)]' [-Wformat=]
+   scanf("%s", &string2);
+           ^
+..\src\LongestSubString.c:65:18: warning: unused variable 'i' [-Wunused-variable]
+   int size = 10, i;
+                  ^
+gcc -o LongestSubString.exe "src\\LongestSubString.o" 
+20:27:23 **** Incremental Build of configuration Debug for project LongestSubString ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\LongestSubString.o" "..\\src\\LongestSubString.c" 
+..\src\LongestSubString.c: In function 'findLongestSubstring':
+..\src\LongestSubString.c:31:2: warning: implicit declaration of function 'calculateAndPrintMaxContinuousString' [-Wimplicit-function-declaration]
+  calculateAndPrintMaxContinuousString(string2, longestSubString, size);
+  ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+..\src\LongestSubString.c:21:20: warning: unused variable 'k' [-Wunused-variable]
+  int i = 0, j = 0, k;
+                    ^
+..\src\LongestSubString.c: At top level:
+..\src\LongestSubString.c:34:6: warning: conflicting types for 'calculateAndPrintMaxContinuousString'
+ void calculateAndPrintMaxContinuousString(char string2[], char longestSubString[], int size){
+      ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+..\src\LongestSubString.c:31:2: note: previous implicit declaration of 'calculateAndPrintMaxContinuousString' was here
+  calculateAndPrintMaxContinuousString(string2, longestSubString, size);
+  ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+..\src\LongestSubString.c: In function 'main':
+..\src\LongestSubString.c:68:11: warning: format '%s' expects argument of type 'char *', but argument 2 has type 'char (*)[(sizetype)(size)]' [-Wformat=]
+   scanf("%s", &string1);
+           ^
+..\src\LongestSubString.c:71:11: warning: format '%s' expects argument of type 'char *', but argument 2 has type 'char (*)[(sizetype)(size)]' [-Wformat=]
+   scanf("%s", &string2);
+           ^
+..\src\LongestSubString.c:65:18: warning: unused variable 'i' [-Wunused-variable]
+   int size = 10, i;
+                  ^
+gcc -o LongestSubString.exe "src\\LongestSubString.o" 
+20:28:32 **** Incremental Build of configuration Debug for project LongestSubString ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\LongestSubString.o" "..\\src\\LongestSubString.c" 
+..\src\LongestSubString.c: In function 'findLongestSubstring':
+..\src\LongestSubString.c:31:2: warning: implicit declaration of function 'calculateAndPrintMaxContinuousString' [-Wimplicit-function-declaration]
+  calculateAndPrintMaxContinuousString(string2, longestSubString, size);
+  ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+..\src\LongestSubString.c:21:20: warning: unused variable 'k' [-Wunused-variable]
+  int i = 0, j = 0, k;
+                    ^
+..\src\LongestSubString.c: At top level:
+..\src\LongestSubString.c:34:6: warning: conflicting types for 'calculateAndPrintMaxContinuousString'
+ void calculateAndPrintMaxContinuousString(char string2[], char longestSubString[], int size){
+      ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+..\src\LongestSubString.c:31:2: note: previous implicit declaration of 'calculateAndPrintMaxContinuousString' was here
+  calculateAndPrintMaxContinuousString(string2, longestSubString, size);
+  ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+..\src\LongestSubString.c: In function 'main':
+..\src\LongestSubString.c:68:11: warning: format '%s' expects argument of type 'char *', but argument 2 has type 'char (*)[(sizetype)(size)]' [-Wformat=]
+   scanf("%s", &string1);
+           ^
+..\src\LongestSubString.c:71:11: warning: format '%s' expects argument of type 'char *', but argument 2 has type 'char (*)[(sizetype)(size)]' [-Wformat=]
+   scanf("%s", &string2);
+           ^
+..\src\LongestSubString.c:65:18: warning: unused variable 'i' [-Wunused-variable]
+   int size = 10, i;
+                  ^
+gcc -o LongestSubString.exe "src\\LongestSubString.o" 
+Info: Nothing to build for LongestSubString
+Info: Nothing to build for LongestSubString
+20:30:53 **** Incremental Build of configuration Debug for project LongestSubString ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\LongestSubString.o" "..\\src\\LongestSubString.c" 
+..\src\LongestSubString.c: In function 'findLongestSubstring':
+..\src\LongestSubString.c:31:2: warning: implicit declaration of function 'calculateAndPrintMaxContinuousString' [-Wimplicit-function-declaration]
+  calculateAndPrintMaxContinuousString(string2, longestSubString, size);
+  ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+..\src\LongestSubString.c:21:20: warning: unused variable 'k' [-Wunused-variable]
+  int i = 0, j = 0, k;
+                    ^
+..\src\LongestSubString.c: At top level:
+..\src\LongestSubString.c:34:6: warning: conflicting types for 'calculateAndPrintMaxContinuousString'
+ void calculateAndPrintMaxContinuousString(char string2[], char longestSubString[], int size){
+      ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+..\src\LongestSubString.c:31:2: note: previous implicit declaration of 'calculateAndPrintMaxContinuousString' was here
+  calculateAndPrintMaxContinuousString(string2, longestSubString, size);
+  ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+..\src\LongestSubString.c: In function 'main':
+..\src\LongestSubString.c:68:11: warning: format '%s' expects argument of type 'char *', but argument 2 has type 'char (*)[(sizetype)(size)]' [-Wformat=]
+   scanf("%s", &string1);
+           ^
+..\src\LongestSubString.c:71:11: warning: format '%s' expects argument of type 'char *', but argument 2 has type 'char (*)[(sizetype)(size)]' [-Wformat=]
+   scanf("%s", &string2);
+           ^
+..\src\LongestSubString.c:65:18: warning: unused variable 'i' [-Wunused-variable]
+   int size = 10, i;
+                  ^
+gcc -o LongestSubString.exe "src\\LongestSubString.o" 
+20:35:00 **** Incremental Build of configuration Debug for project LongestSubString ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\LongestSubString.o" "..\\src\\LongestSubString.c" 
+..\src\LongestSubString.c: In function 'findLongestSubstring':
+..\src\LongestSubString.c:31:2: warning: implicit declaration of function 'calculateAndPrintMaxContinuousString' [-Wimplicit-function-declaration]
+  calculateAndPrintMaxContinuousString(string2, longestSubString, size);
+  ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+..\src\LongestSubString.c:21:20: warning: unused variable 'k' [-Wunused-variable]
+  int i = 0, j = 0, k;
+                    ^
+..\src\LongestSubString.c: At top level:
+..\src\LongestSubString.c:34:6: warning: conflicting types for 'calculateAndPrintMaxContinuousString'
+ void calculateAndPrintMaxContinuousString(char string2[], char longestSubString[], int size){
+      ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+..\src\LongestSubString.c:31:2: note: previous implicit declaration of 'calculateAndPrintMaxContinuousString' was here
+  calculateAndPrintMaxContinuousString(string2, longestSubString, size);
+  ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+..\src\LongestSubString.c: In function 'main':
+..\src\LongestSubString.c:70:11: warning: format '%s' expects argument of type 'char *', but argument 2 has type 'char (*)[(sizetype)(size)]' [-Wformat=]
+   scanf("%s", &string1);
+           ^
+..\src\LongestSubString.c:73:11: warning: format '%s' expects argument of type 'char *', but argument 2 has type 'char (*)[(sizetype)(size)]' [-Wformat=]
+   scanf("%s", &string2);
+           ^
+..\src\LongestSubString.c:67:18: warning: unused variable 'i' [-Wunused-variable]
+   int size = 10, i;
+                  ^
+gcc -o LongestSubString.exe "src\\LongestSubString.o" 
+20:36:06 **** Incremental Build of configuration Debug for project LongestSubString ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\LongestSubString.o" "..\\src\\LongestSubString.c" 
+..\src\LongestSubString.c: In function 'findLongestSubstring':
+..\src\LongestSubString.c:31:2: warning: implicit declaration of function 'calculateAndPrintMaxContinuousString' [-Wimplicit-function-declaration]
+  calculateAndPrintMaxContinuousString(string2, longestSubString, size);
+  ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+..\src\LongestSubString.c:21:20: warning: unused variable 'k' [-Wunused-variable]
+  int i = 0, j = 0, k;
+                    ^
+..\src\LongestSubString.c: At top level:
+..\src\LongestSubString.c:34:6: warning: conflicting types for 'calculateAndPrintMaxContinuousString'
+ void calculateAndPrintMaxContinuousString(char string2[], char longestSubString[], int size){
+      ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+..\src\LongestSubString.c:31:2: note: previous implicit declaration of 'calculateAndPrintMaxContinuousString' was here
+  calculateAndPrintMaxContinuousString(string2, longestSubString, size);
+  ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+..\src\LongestSubString.c: In function 'main':
+..\src\LongestSubString.c:73:11: warning: format '%s' expects argument of type 'char *', but argument 2 has type 'char (*)[(sizetype)(size)]' [-Wformat=]
+   scanf("%s", &string1);
+           ^
+..\src\LongestSubString.c:76:11: warning: format '%s' expects argument of type 'char *', but argument 2 has type 'char (*)[(sizetype)(size)]' [-Wformat=]
+   scanf("%s", &string2);
+           ^
+..\src\LongestSubString.c:70:18: warning: unused variable 'i' [-Wunused-variable]
+   int size = 10, i;
+                  ^
+gcc -o LongestSubString.exe "src\\LongestSubString.o" 
+20:36:35 **** Incremental Build of configuration Debug for project LongestSubString ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\LongestSubString.o" "..\\src\\LongestSubString.c" 
+..\src\LongestSubString.c: In function 'findLongestSubstring':
+..\src\LongestSubString.c:31:2: warning: implicit declaration of function 'calculateAndPrintMaxContinuousString' [-Wimplicit-function-declaration]
+  calculateAndPrintMaxContinuousString(string2, longestSubString, size);
+  ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+..\src\LongestSubString.c:21:20: warning: unused variable 'k' [-Wunused-variable]
+  int i = 0, j = 0, k;
+                    ^
+..\src\LongestSubString.c: At top level:
+..\src\LongestSubString.c:34:6: warning: conflicting types for 'calculateAndPrintMaxContinuousString'
+ void calculateAndPrintMaxContinuousString(char string2[], char longestSubString[], int size){
+      ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+..\src\LongestSubString.c:31:2: note: previous implicit declaration of 'calculateAndPrintMaxContinuousString' was here
+  calculateAndPrintMaxContinuousString(string2, longestSubString, size);
+  ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+..\src\LongestSubString.c: In function 'main':
+..\src\LongestSubString.c:73:11: warning: format '%s' expects argument of type 'char *', but argument 2 has type 'char (*)[(sizetype)(size)]' [-Wformat=]
+   scanf("%s", &string1);
+           ^
+..\src\LongestSubString.c:76:11: warning: format '%s' expects argument of type 'char *', but argument 2 has type 'char (*)[(sizetype)(size)]' [-Wformat=]
+   scanf("%s", &string2);
+           ^
+..\src\LongestSubString.c:70:18: warning: unused variable 'i' [-Wunused-variable]
+   int size = 10, i;
+                  ^
+gcc -o LongestSubString.exe "src\\LongestSubString.o" 
+20:37:21 **** Incremental Build of configuration Debug for project LongestSubString ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\LongestSubString.o" "..\\src\\LongestSubString.c" 
+..\src\LongestSubString.c: In function 'findLongestSubstring':
+..\src\LongestSubString.c:31:2: warning: implicit declaration of function 'calculateAndPrintMaxContinuousString' [-Wimplicit-function-declaration]
+  calculateAndPrintMaxContinuousString(string2, longestSubString, size);
+  ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+..\src\LongestSubString.c:21:20: warning: unused variable 'k' [-Wunused-variable]
+  int i = 0, j = 0, k;
+                    ^
+..\src\LongestSubString.c: At top level:
+..\src\LongestSubString.c:34:6: warning: conflicting types for 'calculateAndPrintMaxContinuousString'
+ void calculateAndPrintMaxContinuousString(char string2[], char longestSubString[], int size){
+      ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+..\src\LongestSubString.c:31:2: note: previous implicit declaration of 'calculateAndPrintMaxContinuousString' was here
+  calculateAndPrintMaxContinuousString(string2, longestSubString, size);
+  ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+..\src\LongestSubString.c: In function 'main':
+..\src\LongestSubString.c:74:11: warning: format '%s' expects argument of type 'char *', but argument 2 has type 'char (*)[(sizetype)(size)]' [-Wformat=]
+   scanf("%s", &string1);
+           ^
+..\src\LongestSubString.c:77:11: warning: format '%s' expects argument of type 'char *', but argument 2 has type 'char (*)[(sizetype)(size)]' [-Wformat=]
+   scanf("%s", &string2);
+           ^
+..\src\LongestSubString.c:71:18: warning: unused variable 'i' [-Wunused-variable]
+   int size = 10, i;
+                  ^
+gcc -o LongestSubString.exe "src\\LongestSubString.o" 
+20:37:46 **** Incremental Build of configuration Debug for project LongestSubString ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\LongestSubString.o" "..\\src\\LongestSubString.c" 
+..\src\LongestSubString.c: In function 'findLongestSubstring':
+..\src\LongestSubString.c:31:2: warning: implicit declaration of function 'calculateAndPrintMaxContinuousString' [-Wimplicit-function-declaration]
+  calculateAndPrintMaxContinuousString(string2, longestSubString, size);
+  ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+..\src\LongestSubString.c:21:20: warning: unused variable 'k' [-Wunused-variable]
+  int i = 0, j = 0, k;
+                    ^
+..\src\LongestSubString.c: At top level:
+..\src\LongestSubString.c:34:6: warning: conflicting types for 'calculateAndPrintMaxContinuousString'
+ void calculateAndPrintMaxContinuousString(char string2[], char longestSubString[], int size){
+      ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+..\src\LongestSubString.c:31:2: note: previous implicit declaration of 'calculateAndPrintMaxContinuousString' was here
+  calculateAndPrintMaxContinuousString(string2, longestSubString, size);
+  ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+..\src\LongestSubString.c: In function 'main':
+..\src\LongestSubString.c:74:11: warning: format '%s' expects argument of type 'char *', but argument 2 has type 'char (*)[(sizetype)(size)]' [-Wformat=]
+   scanf("%s", &string1);
+           ^
+..\src\LongestSubString.c:77:11: warning: format '%s' expects argument of type 'char *', but argument 2 has type 'char (*)[(sizetype)(size)]' [-Wformat=]
+   scanf("%s", &string2);
+           ^
+..\src\LongestSubString.c:71:18: warning: unused variable 'i' [-Wunused-variable]
+   int size = 10, i;
+                  ^
+gcc -o LongestSubString.exe "src\\LongestSubString.o" 
+20:38:36 **** Incremental Build of configuration Debug for project LongestSubString ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\LongestSubString.o" "..\\src\\LongestSubString.c" 
+..\src\LongestSubString.c: In function 'findLongestSubstring':
+..\src\LongestSubString.c:31:2: warning: implicit declaration of function 'calculateAndPrintMaxContinuousString' [-Wimplicit-function-declaration]
+  calculateAndPrintMaxContinuousString(string2, longestSubString, size);
+  ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+..\src\LongestSubString.c:21:20: warning: unused variable 'k' [-Wunused-variable]
+  int i = 0, j = 0, k;
+                    ^
+..\src\LongestSubString.c: At top level:
+..\src\LongestSubString.c:34:6: warning: conflicting types for 'calculateAndPrintMaxContinuousString'
+ void calculateAndPrintMaxContinuousString(char string2[], char longestSubString[], int size){
+      ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+..\src\LongestSubString.c:31:2: note: previous implicit declaration of 'calculateAndPrintMaxContinuousString' was here
+  calculateAndPrintMaxContinuousString(string2, longestSubString, size);
+  ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+..\src\LongestSubString.c: In function 'main':
+..\src\LongestSubString.c:74:11: warning: format '%s' expects argument of type 'char *', but argument 2 has type 'char (*)[(sizetype)(size)]' [-Wformat=]
+   scanf("%s", &string1);
+           ^
+..\src\LongestSubString.c:77:11: warning: format '%s' expects argument of type 'char *', but argument 2 has type 'char (*)[(sizetype)(size)]' [-Wformat=]
+   scanf("%s", &string2);
+           ^
+..\src\LongestSubString.c:71:18: warning: unused variable 'i' [-Wunused-variable]
+   int size = 10, i;
+                  ^
+gcc -o LongestSubString.exe "src\\LongestSubString.o" 
+20:39:18 **** Incremental Build of configuration Debug for project LongestSubString ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\LongestSubString.o" "..\\src\\LongestSubString.c" 
+..\src\LongestSubString.c: In function 'findLongestSubstring':
+..\src\LongestSubString.c:31:2: warning: implicit declaration of function 'calculateAndPrintMaxContinuousString' [-Wimplicit-function-declaration]
+  calculateAndPrintMaxContinuousString(string2, longestSubString, size);
+  ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+..\src\LongestSubString.c:21:20: warning: unused variable 'k' [-Wunused-variable]
+  int i = 0, j = 0, k;
+                    ^
+..\src\LongestSubString.c: At top level:
+..\src\LongestSubString.c:34:6: warning: conflicting types for 'calculateAndPrintMaxContinuousString'
+ void calculateAndPrintMaxContinuousString(char string2[], char longestSubString[], int size){
+      ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+..\src\LongestSubString.c:31:2: note: previous implicit declaration of 'calculateAndPrintMaxContinuousString' was here
+  calculateAndPrintMaxContinuousString(string2, longestSubString, size);
+  ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+..\src\LongestSubString.c: In function 'main':
+..\src\LongestSubString.c:72:11: warning: format '%s' expects argument of type 'char *', but argument 2 has type 'char (*)[(sizetype)(size)]' [-Wformat=]
+   scanf("%s", &string1);
+           ^
+..\src\LongestSubString.c:75:11: warning: format '%s' expects argument of type 'char *', but argument 2 has type 'char (*)[(sizetype)(size)]' [-Wformat=]
+   scanf("%s", &string2);
+           ^
+..\src\LongestSubString.c:69:18: warning: unused variable 'i' [-Wunused-variable]
+   int size = 10, i;
+                  ^
+gcc -o LongestSubString.exe "src\\LongestSubString.o" 
+20:42:00 **** Incremental Build of configuration Debug for project LongestSubString ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\LongestSubString.o" "..\\src\\LongestSubString.c" 
+..\src\LongestSubString.c: In function 'findLongestSubstring':
+..\src\LongestSubString.c:34:2: warning: implicit declaration of function 'calculateAndPrintMaxContinuousString' [-Wimplicit-function-declaration]
+  calculateAndPrintMaxContinuousString(string2, longestSubString, size);
+  ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+..\src\LongestSubString.c:21:20: warning: unused variable 'k' [-Wunused-variable]
+  int i = 0, j = 0, k;
+                    ^
+..\src\LongestSubString.c: At top level:
+..\src\LongestSubString.c:37:6: warning: conflicting types for 'calculateAndPrintMaxContinuousString'
+ void calculateAndPrintMaxContinuousString(char string2[], char longestSubString[], int size){
+      ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+..\src\LongestSubString.c:34:2: note: previous implicit declaration of 'calculateAndPrintMaxContinuousString' was here
+  calculateAndPrintMaxContinuousString(string2, longestSubString, size);
+  ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+..\src\LongestSubString.c: In function 'main':
+..\src\LongestSubString.c:75:11: warning: format '%s' expects argument of type 'char *', but argument 2 has type 'char (*)[(sizetype)(size)]' [-Wformat=]
+   scanf("%s", &string1);
+           ^
+..\src\LongestSubString.c:78:11: warning: format '%s' expects argument of type 'char *', but argument 2 has type 'char (*)[(sizetype)(size)]' [-Wformat=]
+   scanf("%s", &string2);
+           ^
+..\src\LongestSubString.c:72:18: warning: unused variable 'i' [-Wunused-variable]
+   int size = 10, i;
+                  ^
+gcc -o LongestSubString.exe "src\\LongestSubString.o" 
+20:42:55 **** Incremental Build of configuration Debug for project LongestSubString ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\LongestSubString.o" "..\\src\\LongestSubString.c" 
+..\src\LongestSubString.c: In function 'findLongestSubstring':
+..\src\LongestSubString.c:21:20: warning: unused variable 'k' [-Wunused-variable]
+  int i = 0, j = 0, k;
+                    ^
+..\src\LongestSubString.c: In function 'main':
+..\src\LongestSubString.c:76:11: warning: format '%s' expects argument of type 'char *', but argument 2 has type 'char (*)[(sizetype)(size)]' [-Wformat=]
+   scanf("%s", &string1);
+           ^
+..\src\LongestSubString.c:79:11: warning: format '%s' expects argument of type 'char *', but argument 2 has type 'char (*)[(sizetype)(size)]' [-Wformat=]
+   scanf("%s", &string2);
+           ^
+..\src\LongestSubString.c:73:18: warning: unused variable 'i' [-Wunused-variable]
+   int size = 10, i;
+                  ^
+gcc -o LongestSubString.exe "src\\LongestSubString.o" 
+20:43:54 **** Incremental Build of configuration Debug for project LongestSubString ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\LongestSubString.o" "..\\src\\LongestSubString.c" 
+..\src\LongestSubString.c: In function 'findLongestSubstring':
+..\src\LongestSubString.c:21:20: warning: unused variable 'k' [-Wunused-variable]
+  int i = 0, j = 0, k;
+                    ^
+..\src\LongestSubString.c: In function 'main':
+..\src\LongestSubString.c:75:11: warning: format '%s' expects argument of type 'char *', but argument 2 has type 'char (*)[(sizetype)(size)]' [-Wformat=]
+   scanf("%s", &string1);
+           ^
+..\src\LongestSubString.c:78:11: warning: format '%s' expects argument of type 'char *', but argument 2 has type 'char (*)[(sizetype)(size)]' [-Wformat=]
+   scanf("%s", &string2);
+           ^
+..\src\LongestSubString.c:72:18: warning: unused variable 'i' [-Wunused-variable]
+   int size = 10, i;
+                  ^
+gcc -o LongestSubString.exe "src\\LongestSubString.o" 

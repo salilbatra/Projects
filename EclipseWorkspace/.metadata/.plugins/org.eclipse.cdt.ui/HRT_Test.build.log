@@ -1,0 +1,9 @@
+20:55:40 **** Rebuild of configuration Debug for project HRT_Test ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o HRT_test.o "..\\HRT_test.c" 
+gcc -o HRT_Test.exe HRT_test.o 
+c:/users/salil/gcc/x86_64-w64-mingw32/lib/../lib/libmingw32.a(lib64_libmingw32_a-crt0_c.o):crt0_c.c:(.text+0x46): undefined reference to `WinMain'
+collect2.exe: error: ld returned 1 exit status
+
+20:55:41 Build Finished (took 643ms)
+
